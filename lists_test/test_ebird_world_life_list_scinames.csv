@@ -1,0 +1,399 @@
+Row #,Species,Count,Location,S/P,Date,LocID,SubID
+1,Dendrocygna autumnalis,12,Bayou Sauvage NWR--Ridge Trail,US-LA,04 Aug 2018,L6366407,S47645432
+2,Anser caerulescens,150,Middle Creek WMA (IBA) (Lancaster Co.),US-PA,19 Mar 2017,L831953,S35296385
+3,Anser albifrons,1,"stakeout Black-backed Oriole, Sinking Spring (2017)",US-PA,05 Feb 2017,L5398071,S34171657
+4,Branta bernicla,105,"Gravesend Bay, middle parking lot",US-NY,02 Dec 2017,L1843449,S40856802
+5,Branta canadensis,2,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,24 Apr 2016,L504403,S29172057
+6,Cygnus olor,2,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,03 Dec 2016,L504403,S32834997
+7,Cygnus atratus,4,"stakeout Bullock’s Oriole, location (2018-2019)",US-LA,11 Feb 2019,L8593071,S52597958
+8,Cygnus buccinator,2,Montezuma NWR--Wildlife Drive,US-NY,20 Aug 2016,L267814,S31162957
+9,Cygnus columbianus,50,Juniata River--Casner's Crossing,US-PA,12 Mar 2017,L1853784,S35127501
+10,Aix sponsa,2,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,24 Apr 2016,L504403,S29172057
+11,Spatula discors,7,Montezuma NWR--Wildlife Drive,US-NY,20 Aug 2016,L267814,S31162957
+12,Spatula clypeata,1,Montezuma NWR--Wildlife Drive,US-NY,20 Aug 2016,L267814,S31162957
+13,Mareca strepera,15,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,03 Dec 2016,L504403,S32834997
+14,Mareca americana,1,Point Park,US-PA,12 Jan 2017,L5249506,S33619064
+15,Anas platyrhynchos,3,Crum Woods,US-PA,14 May 2016,L559205,S29631007
+16,Anas rubripes,2,Eagleview Pond (roadside access only),US-PA,19 Mar 2017,L3524568,S35296377
+17,Anas acuta,1,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,02 Oct 2016,L504403,S31855270
+18,Anas crecca,4,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,02 Oct 2016,L504403,S31855270
+19,Aythya valisineria,1,Marsh Creek SP,US-PA,19 Mar 2017,L272015,S35296379
+20,Aythya americana,24,Alum Creek SP--Beach and Alum Reservoir South,US-OH,03 Jan 2017,L1335935,S33404067
+21,Aythya collaris,6,State Game Lands 301--West Eldred Swamp,US-PA,08 Mar 2017,L1460841,S35041803
+22,Aythya marila,3,Marsh Creek SP,US-PA,19 Mar 2017,L272015,S35296379
+23,Aythya affinis,1,Stewart Park,US-NY,09 Mar 2017,L99381,S35072782
+24,Somateria spectabilis,1,"Bass Rocks, Gloucester",US-MA,08 Jul 2019,L383673,S58024571
+25,Somateria mollissima,24,"Bass Rocks, Gloucester",US-MA,08 Jul 2019,L383673,S58024571
+26,Histrionicus histrionicus,1,Kittanning--Lock & Dam 7,US-PA,22 Feb 2019,L2607871,S53017065
+27,Melanitta perspicillata,2,Sandy Hook--C Lot & Beach,US-NJ,03 Dec 2017,L2445730,S40924119
+28,Melanitta deglandi,1,Sandy Hook--South Beach area,US-NJ,03 Dec 2017,L1103086,S40923987
+29,Melanitta americana,6,Sandy Hook--South Beach area,US-NJ,03 Dec 2017,L1103086,S40923987
+30,Clangula hyemalis,1,Presque Isle SP (IBA),US-PA,14 Nov 2017,L129756,S40514605
+31,Bucephala albeola,4,Big Lagoon SP,US-FL,10 Mar 2016,L142736,S28079819
+32,Bucephala clangula,4,Presque Isle SP (IBA),US-PA,14 Nov 2017,L129756,S40514605
+33,Lophodytes cucullatus,8,Betts Park,US-PA,12 Jan 2017,L5249678,S33620753
+34,Mergus merganser,3,Point Park,US-PA,12 Jan 2017,L5249506,S33619064
+35,Mergus serrator,1,Project Green Shores,US-FL,11 Mar 2016,L142719,S28095573
+36,Oxyura jamaicensis,24,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,03 Dec 2016,L504403,S32834997
+37,Colinus virginianus,2,Piney Grove Preserve,US-VA,26 Jul 2018,L555556,S47473576
+38,Callipepla californica,49,Chesbro Reservoir,US-CA,05 Aug 2017,L463314,S38490792
+39,Phasianus colchicus,4,Middle Creek WMA (IBA) (Lancaster Co.),US-PA,19 Mar 2017,L831953,S35296391
+40,Bonasa umbellus,1,Allegheny NF--Timberdoodle Flats,US-PA,23 May 2017,L1501142,S37089248
+41,Falcipennis canadensis,1,"Moose Bog, Wenlock WMA",US-VT,10 Jul 2019,L207476,S58079034
+42,Meleagris gallopavo,4,US-Pennsylvania-Marienville-44254 Pennsylvania 66 - 41.538x-79.04,US-PA,01 Jul 2016,L4751173,S30482253
+43,Podilymbus podiceps,2,Big Lagoon SP,US-FL,10 Mar 2016,L142736,S28079819
+44,Podiceps auritus,2,Project Green Shores,US-FL,11 Mar 2016,L142719,S28095573
+45,Podiceps grisegena,1,Moraine SP--South Shore,US-PA,02 Mar 2019,L589807,S53293462
+46,Aechmophorus occidentalis,4,Ocean Beach County Park,US-CA,12 Aug 2017,L989821,S38623831
+47,Aechmophorus clarkii,1,Chesbro Reservoir,US-CA,05 Aug 2017,L463314,S38490803
+48,Columba livia,15,Project Green Shores,US-FL,11 Mar 2016,L142719,S28095573
+49,Patagioenas fasciata,3,Carson Pass,US-CA,22 Jul 2017,L443507,S38273627
+50,Streptopelia decaocto,2,South Davis Greenway,US-CA,09 Jul 2017,L5086996,S38052075
+51,Zenaida asiatica,7,Peveto Woods - Baton Rouge Audubon Society Sanctuary,US-LA,10 Feb 2019,L210301,S52621157
+52,Zenaida macroura,3,Big Lagoon SP,US-FL,10 Mar 2016,L142736,S28079819
+53,Coccyzus americanus,1,Boyce-Mayview Park,US-PA,20 May 2018,L720522,S45874934
+54,Coccyzus erythropthalmus,1,Allegheny NF--Annie,US-PA,01 Sep 2017,L4986082,S38942127
+55,Chordeiles acutipennis,1,Coal Oil Point,US-CA,07 Aug 2017,L422817,S38544618
+56,Chordeiles minor,1,Murray Ave.,US-PA,08 May 2018,L7040724,S45470126
+57,Antrostomus vociferus,8,Mt. Davis Natural Area,US-PA,19 Jun 2018,L2215592,S46672489
+58,Chaetura pelagica,2,Swarthmore College,US-PA,23 Apr 2016,L4523528,S29135959
+59,Aeronautes saxatalis,1,South Davis Greenway,US-CA,09 Jul 2017,L5086996,S38052075
+60,Archilochus colubris,1,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,24 Apr 2016,L504403,S29172057
+61,Calypte anna,1,South Davis Greenway,US-CA,09 Jul 2017,L5086996,S38052075
+62,Selasphorus rufus,3,Carson Pass,US-CA,22 Jul 2017,L443507,S38273627
+63,Selasphorus sasin,1,UC Santa Barbara--campus,US-CA,01 Aug 2017,L654260,S38430828
+64,Rallus elegans,6,Mackay Island NWR,US-NC,30 Jul 2018,L302859,S47553509
+65,Rallus crepitans,2,Bombay Hook National Wildlife Refuge,US-DE,15 May 2017,L126637,S36898791
+66,Rallus limicola,1,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,09 Apr 2017,L504403,S35821202
+67,Porzana carolina,1,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,09 Apr 2017,L504403,S35821202
+68,Gallinula galeata,7,Montezuma NWR--Wildlife Drive,US-NY,20 Aug 2016,L267814,S31162957
+69,Fulica americana,1,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,24 Apr 2016,L504403,S29172057
+70,Porphyrio martinica,2,"2672 Ridgeway Boulevard, New Orleans, Louisiana, US (30.118, -89.867)",US-LA,04 Aug 2018,L7787211,S47647526
+71,Laterallus jamaicensis,1,Bridgeway Island pond,US-CA,22 Jul 2017,L473045,S38279026
+72,Antigone canadensis,1,US-Pennsylvania-Turtlepoint-Railroad Avenue - 41.868x-78.34,US-PA,27 May 2017,L5892118,S37180724
+73,Himantopus mexicanus,2,Bombay Hook National Wildlife Refuge,US-DE,15 May 2017,L126637,S36898791
+74,Recurvirostra americana,35,Bombay Hook National Wildlife Refuge,US-DE,15 May 2017,L126637,S36898791
+75,Haematopus palliatus,2,DuPont Nature Center (Mispillion),US-DE,15 May 2017,L549315,S36898790
+76,Haematopus bachmani,4,Presidio--Battery Godfrey,US-CA,20 Aug 2017,L999240,S38742620
+77,Pluvialis squatarola,350,Bombay Hook National Wildlife Refuge,US-DE,15 May 2017,L126637,S36898791
+78,Charadrius nivosus,1,UC Santa Barbara--West Campus Bluff Trail,US-CA,27 Jul 2017,L1257790,S38345754
+79,Charadrius wilsonia,2,Fort Macon SP--Visitor's Center,US-NC,29 Jul 2018,L5977434,S47526390
+80,Charadrius semipalmatus,2,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,02 Oct 2016,L504403,S31855270
+81,Charadrius melodus,2,Presque Isle SP--Gull Pt.,US-PA,21 Jul 2018,L337068,S47349146
+82,Charadrius vociferus,1,Shawmut Trail,US-PA,28 May 2016,L2237965,S29953323
+83,Bartramia longicauda,1,State Game Lands 214--Miller Ponds,US-PA,14 Jun 2018,L527306,S46544846
+84,Numenius phaeopus,2,UC Santa Barbara--Lagoon,US-CA,25 Jul 2017,L1072372,S38315626
+85,Numenius americanus,1,Davis WTP,US-CA,16 Jul 2017,L453489,S38177667
+86,Limosa fedoa,1,Davis WTP,US-CA,16 Jul 2017,L453489,S38177667
+87,Arenaria interpres,7,Project Green Shores,US-FL,11 Mar 2016,L142719,S28095573
+88,Arenaria melanocephala,7,Campus Pt.,US-CA,03 Aug 2017,L392613,S38461342
+89,Calidris canutus,10,DuPont Nature Center (Mispillion),US-DE,15 May 2017,L549315,S36898790
+90,Calidris virgata,1,Campus Pt.,US-CA,14 Aug 2017,L392613,S38643068
+91,Calidris himantopus,1,Augustine Wildlife Area--Ashton Tract,US-DE,15 May 2017,L3013541,S36898794
+92,Calidris ferruginea,1,Bodie Island Lighthouse & Pond,US-NC,27 Jul 2018,L365371,S47483923
+93,Calidris alba,10,DuPont Nature Center (Mispillion),US-DE,15 May 2017,L549315,S36898790
+94,Calidris alpina,10,Augustine Wildlife Area--Ashton Tract,US-DE,15 May 2017,L3013541,S36898794
+95,Calidris maritima,3,"Gravesend Bay, middle parking lot",US-NY,02 Dec 2017,L1843449,S40856802
+96,Calidris bairdii,1,Reservoir Number Four,US-PA,01 Sep 2018,L668561,S48270037
+97,Calidris minutilla,2,Montezuma NWR--Wildlife Drive,US-NY,20 Aug 2016,L267814,S31162957
+98,Calidris fuscicollis,1,Pea Island NWR--Salt Flats Wildlife Trail,US-NC,27 Jul 2018,L1555375,S47476757
+99,Calidris melanotos,1,Montezuma NWR--Wildlife Drive,US-NY,20 Aug 2016,L267814,S31162957
+100,Calidris pusilla,50,Augustine WA--Port Penn Tract,US-DE,15 May 2017,L361675,S36898793
+101,Calidris mauri,200,Yolo Bypass Wildlife Area,US-CA,15 Jul 2017,L443535,S38145260
+102,Limnodromus griseus,2,Augustine WA--Port Penn Tract,US-DE,15 May 2017,L361675,S36898793
+103,Limnodromus scolopaceus,1,Montezuma NWR--Wildlife Drive,US-NY,20 Aug 2016,L267814,S31162957
+104,Scolopax minor,1,Middle Creek WMA (IBA) (Lancaster Co.),US-PA,19 Mar 2017,L831953,S35296391
+105,Gallinago delicata,1,Montezuma NWR--Wildlife Drive,US-NY,20 Aug 2016,L267814,S31162957
+106,Phalaropus tricolor,3,Davis WTP,US-CA,16 Jul 2017,L453489,S38177667
+107,Phalaropus lobatus,1,Dune Pond at COPR,US-CA,13 Aug 2017,L2135075,S38630998
+108,Actitis macularius,1,Hamlin Lake Park,US-PA,07 Aug 2016,L2237876,S31004716
+109,Tringa solitaria,1,Crum Woods,US-PA,11 May 2017,L559205,S36731267
+110,Tringa incana,5,Campus Pt.,US-CA,03 Aug 2017,L392613,S38461342
+111,Tringa melanoleuca,2,Montezuma NWR--Wildlife Drive,US-NY,20 Aug 2016,L267814,S31162957
+112,Tringa semipalmata,18,DuPont Nature Center (Mispillion),US-DE,15 May 2017,L549315,S36898790
+113,Tringa flavipes,5,Montezuma NWR--Wildlife Drive,US-NY,20 Aug 2016,L267814,S31162957
+114,Cepphus columba,2,Santa Cruz Island (SBA Co.),US-CA,30 Jul 2017,L109506,S38431098
+115,Xema sabini,1,Kahle Lake (Clarion Co.),US-PA,07 Sep 2017,L2407336,S39059070
+116,Chroicocephalus philadelphia,1,US-Florida-Gulf Breeze-16 Via De Luna Dr - 30.332x-87.135,US-FL,12 Mar 2016,L4374331,S28114522
+117,Leucophaeus atricilla,51,Project Green Shores,US-FL,11 Mar 2016,L142719,S28095573
+118,Leucophaeus pipixcan,1,Lake Somerset (IBA),US-PA,19 Jun 2018,L129780,S46672454
+119,Larus heermanni,5,UC Santa Barbara--West Campus Bluff Trail,US-CA,27 Jul 2017,L1257790,S38345754
+120,Larus delawarensis,12,Project Green Shores,US-FL,11 Mar 2016,L142719,S28095573
+121,Larus occidentalis,1,UC Santa Barbara--Lagoon,US-CA,24 Jul 2017,L1072372,S38309207
+122,Larus californicus,3,Yolo Bypass Wildlife Area,US-CA,15 Jul 2017,L443535,S38145260
+123,Larus argentatus,11,Project Green Shores,US-FL,11 Mar 2016,L142719,S28095573
+124,Larus glaucescens,1,Goleta Beach County Park,US-CA,13 Aug 2017,L375164,S38629831
+125,Larus marinus,1,Stewart Park,US-NY,09 Mar 2017,L99381,S35072782
+126,Sternula antillarum,10,Ocean Beach County Park,US-CA,12 Aug 2017,L989821,S38623831
+127,Gelochelidon nilotica,1,"1 Way Road, Buxton, North Carolina, US (35.308, -75.51)",US-NC,27 Jul 2018,L7757839,S47483828
+128,Hydroprogne caspia,13,Montezuma NWR--Wildlife Drive,US-NY,20 Aug 2016,L267814,S31162957
+129,Chlidonias niger,4,"1 Way Road, Buxton, North Carolina, US (35.308, -75.51)",US-NC,27 Jul 2018,L7757839,S47483828
+130,Sterna hirundo,15,Presque Isle SP--Gull Pt.,US-PA,21 Jul 2018,L337068,S47349146
+131,Sterna forsteri,3,Bombay Hook National Wildlife Refuge,US-DE,15 May 2017,L126637,S36898791
+132,Thalasseus maximus,14,Project Green Shores,US-FL,11 Mar 2016,L142719,S28095573
+133,Thalasseus sandvicensis,6,Pea Island NWR--Salt Flats Wildlife Trail,US-NC,27 Jul 2018,L1555375,S47476757
+134,Thalasseus elegans,60,Campus Pt.,US-CA,03 Aug 2017,L392613,S38461342
+135,Rynchops niger,1,Bombay Hook National Wildlife Refuge,US-DE,15 May 2017,L126637,S36898791
+136,Gavia stellata,3,Sandy Hook--C Lot & Beach,US-NJ,03 Dec 2017,L2445730,S40924119
+137,Gavia pacifica,1,Surf Beach,US-CA,26 Aug 2017,L969581,S38840118
+138,Gavia immer,2,Big Lagoon SP,US-FL,10 Mar 2016,L142736,S28079819
+139,Oceanites oceanicus,5,"Andrews Point, Rockport",US-MA,08 Jul 2019,L279945,S58026618
+140,Ardenna grisea,20,Santa Barbara Channel--east channel (SBA Co.),US-CA,30 Jul 2017,L367650,S38431077
+141,Puffinus opisthomelas,40,Santa Barbara Channel--east channel (SBA Co.),US-CA,30 Jul 2017,L367650,S38431077
+142,Morus bassanus,4,"Andrews Point, Rockport",US-MA,08 Jul 2019,L279945,S58026618
+143,Anhinga anhinga,2,Bayou Sauvage NWR--Ridge Trail,US-LA,04 Aug 2018,L6366407,S47645432
+144,Phalacrocorax penicillatus,30,Santa Cruz Island (SBA Co.),US-CA,30 Jul 2017,L109506,S38431098
+145,Phalacrocorax pelagicus,1,Campus Pt.,US-CA,14 Aug 2017,L392613,S38643068
+146,Phalacrocorax brasilianus,18,Sabine NWR,US-LA,10 Feb 2019,L8587956,S52566467
+147,Phalacrocorax auritus,15,Project Green Shores,US-FL,11 Mar 2016,L142719,S28095573
+148,Pelecanus erythrorhynchos,8,Yolo Bypass Wildlife Area,US-CA,16 Jul 2017,L443535,S38177805
+149,Pelecanus occidentalis,9,Gulf Islands National Seashore--Fort Pickens,US-FL,09 Mar 2016,L127303,S28069882
+150,Botaurus lentiginosus,1,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,24 Apr 2016,L504403,S29172057
+151,Ixobrychus exilis,1,Conneaut Marsh--McMichael/Browns Hill Rd.,US-PA,21 Jul 2018,L733414,S47335893
+152,Ardea herodias,2,Gulf Islands National Seashore--Fort Pickens,US-FL,09 Mar 2016,L127303,S28069882
+153,Ardea alba,2,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,24 Apr 2016,L504403,S29172057
+154,Egretta garzetta,1,Augustine Wildlife Area--Ashton Tract,US-DE,15 May 2017,L3013541,S36898794
+155,Egretta thula,1,Project Green Shores,US-FL,11 Mar 2016,L142719,S28095573
+156,Egretta caerulea,2,Augustine Wildlife Area--Ashton Tract,US-DE,15 May 2017,L3013541,S36898794
+157,Egretta tricolor,2,Pea Island NWR--Salt Flats Wildlife Trail,US-NC,27 Jul 2018,L1555375,S47476757
+158,Egretta rufescens,1,Ocean Beach County Park,US-CA,12 Aug 2017,L989821,S38623831
+159,Bubulcus ibis,1, Thorntown Rd Horse Farm,US-DE,15 May 2017,L5769925,S36898788
+160,Butorides virescens,1,Shawmut Trail,US-PA,28 May 2016,L2237965,S29953323
+161,Nycticorax nycticorax,1,South Ferry incl. Staten I. + Gov. I. Ferry Terminals,US-NY,14 May 2017,L4024804,S36854876
+162,Nyctanassa violacea,2,Ocracoke Island--Hammock Hills Nature Trail,US-NC,28 Jul 2018,L1160919,S47507211
+163,Eudocimus albus,2,Pea Island NWR--Old Coast Guard Station,US-NC,27 Jul 2018,L210417,S47476768
+164,Plegadis falcinellus,4,Augustine Wildlife Area--Ashton Tract,US-DE,15 May 2017,L3013541,S36898794
+165,Plegadis chihi,35,Yolo Bypass Wildlife Area,US-CA,15 Jul 2017,L443535,S38145260
+166,Platalea ajaja,1,Fabacher Rd.,US-LA,10 Feb 2019,L727252,S52557592
+167,Coragyps atratus,2,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,24 Apr 2016,L504403,S29172057
+168,Cathartes aura,1,Crum Woods,US-PA,16 May 2016,L559205,S29705538
+169,Pandion haliaetus,5,Gulf Islands National Seashore--Fort Pickens,US-FL,09 Mar 2016,L127303,S28069882
+170,Elanus leucurus,2,Yolo Bypass Wildlife Area,US-CA,16 Jul 2017,L443535,S38177805
+171,Elanoides forficatus,1,US-Florida-McDavid-S Century Blvd - 30.815x-87.335,US-FL,09 Mar 2016,L4375109,S28120098
+172,Aquila chrysaetos,2,Zaca Station Rd.,US-CA,26 Aug 2017,L778646,S38871417
+173,Ictinia mississippiensis,1,"Ridgeway Boulevard, New Orleans, Louisiana, US (30.075, -89.862)",US-LA,04 Aug 2018,L7786936,S47646069
+174,Circus hudsonius,1,Montezuma NWR--Wildlife Drive,US-NY,20 Aug 2016,L267814,S31162957
+175,Accipiter striatus,1,Sewickley Heights Borough Park,US-PA,28 Apr 2018,L712403,S45040154
+176,Accipiter cooperii,1,Swarthmore College,US-PA,23 Apr 2016,L4523528,S29135959
+177,Haliaeetus leucocephalus,1,Allegheny NF--Sugar Bay (McKean Co.),US-PA,21 Jul 2016,L4807045,S30797974
+178,Buteo lineatus,1,Allegheny NF--Ice Cream Stand,US-PA,11 Aug 2016,L4837176,S31056863
+179,Buteo platypterus,1,"Allegany SP--Red House Maintenance Area, S Mtn Rd.",US-NY,26 May 2016,L5895064,S29920720
+180,Buteo swainsoni,8,Putah Creek--Levee Rd.,US-CA,13 Jul 2017,L876147,S38117707
+181,Buteo jamaicensis,1,Crum Woods,US-PA,14 May 2016,L559205,S29631007
+182,Buteo lagopus,1,"(41.779, -79.993)",US-PA,16 Feb 2018,L6930436,S42859772
+183,Tyto alba,2,US-California-Davis-501-503 4th Street - 38.546x-121.743,US-CA,19 Jul 2017,L6104873,S38228495
+184,Megascops asio,1,Mary Lyons Dormitory,US-PA,20 Sep 2016,L4938523,S31684315
+185,Bubo virginianus,2,Crum Woods,US-PA,18 Nov 2016,L559205,S32611551
+186,Bubo scandiacus,2,Presque Isle SP (IBA),US-PA,14 Nov 2017,L129756,S40514605
+187,Athene cunicularia,1,CR30B (YOL Co.),US-CA,16 Jul 2017,L4619295,S38177702
+188,Strix varia,1,Allegheny NF--Sugar Bay (Warren County),US-PA,16 Jul 2016,L4798800,S30751582
+189,Asio flammeus,1,Middle Creek WMA (IBA) (Lancaster Co.),US-PA,19 Mar 2017,L831953,S35296391
+190,Aegolius acadicus,2,Allegheny NF--Saw Whets,US-PA,08 Oct 2016,L4978454,S31967430
+191,Megaceryle alcyon,1,Big Lagoon SP,US-FL,10 Mar 2016,L142736,S28079819
+192,Sphyrapicus varius,2,"Allegany SP--Red House Maintenance Area, S Mtn Rd.",US-NY,03 Jul 2016,L5895064,S30509369
+193,Melanerpes erythrocephalus,4,Eldon Haught Lakeside Recreation Area,US-WV,29 Jun 2018,L2973269,S46877340
+194,Melanerpes formicivorus,1,South Davis Greenway,US-CA,09 Jul 2017,L5086996,S38052075
+195,Melanerpes carolinus,2,Swarthmore College,US-PA,23 Apr 2016,L4523528,S29135959
+196,Picoides arcticus,1,Silvio O. Conte NWR--Peanut Dam Road,US-VT,10 Jul 2019,L474087,S58079044
+197,Dryobates pubescens,2,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,24 Apr 2016,L504403,S29172057
+198,Dryobates nuttallii,1,South Davis Greenway,US-CA,09 Jul 2017,L5086996,S38052075
+199,Dryobates borealis,3,Piney Grove Preserve,US-VA,26 Jul 2018,L555556,S47473576
+200,Dryobates villosus,2,Crum Woods,US-PA,11 Sep 2016,L559205,S31526507
+201,Dryocopus pileatus,1,Swarthmore College,US-PA,23 Apr 2016,L4523528,S29135959
+202,Colaptes auratus,2,Crum Woods,US-PA,14 May 2016,L559205,S29631007
+203,Caracara cheriway,1,Fabacher Rd.,US-LA,10 Feb 2019,L727252,S52557592
+204,Falco sparverius,1,Intercourse~Old Philadelphia Pike,US-PA,19 Mar 2017,L5593500,S35296383
+205,Falco columbarius,1,Allegany State Park--Red House Lake Fishing Pier,US-NY,26 May 2016,L4642174,S29920864
+206,Falco peregrinus,1,DuPont Nature Center (Mispillion),US-DE,15 May 2017,L549315,S36898790
+207,Myiopsitta monachus,9,"Annunciation Street (29.935, -90.069)",US-LA,09 Aug 2018,L7805528,S47802383
+208,Psittacara erythrogenys,6,Lafayette Park (SF Co.),US-CA,20 Aug 2017,L1014322,S38742656
+209,Contopus cooperi,1,Allegheny NF--Ice Cream Stand,US-PA,11 Sep 2017,L4837176,S39132640
+210,Contopus sordidulus,3,Refugio Creek Canyon,US-CA,12 Aug 2017,L454599,S38623926
+211,Contopus virens,1,Crum Woods,US-PA,14 May 2016,L559205,S29631007
+212,Empidonax flaviventris,1,Allegheny NF--Annie,US-PA,01 Sep 2017,L4986082,S38942127
+213,Empidonax virescens,1,Crum Woods,US-PA,14 May 2016,L559205,S29631007
+214,Empidonax alnorum,1,"Allegany SP--Red House Maintenance Area, S Mtn Rd.",US-NY,26 May 2016,L5895064,S29920720
+215,Empidonax traillii,2,Champlin Hill Rd.,US-PA,25 May 2016,L5892115,S29899758
+216,Empidonax minimus,1,"Allegany SP--Red House Maintenance Area, S Mtn Rd.",US-NY,19 Jun 2016,L5895064,S30325588
+217,Empidonax oberholseri,2,Carson Pass,US-CA,22 Jul 2017,L443507,S38273627
+218,Empidonax difficilis,3,Kinevan Rd.,US-CA,12 Aug 2017,L1412060,S38623820
+219,Sayornis nigricans,4,UC Davis--Arboretum,US-CA,12 Jul 2017,L447347,S38099640
+220,Sayornis phoebe,1,Gulf Islands National Seashore--Fort Pickens,US-FL,09 Mar 2016,L127303,S28069882
+221,Sayornis saya,2,UC Santa Barbara--West Campus Bluff Trail,US-CA,27 Jul 2017,L1257790,S38345754
+222,Pyrocephalus rubinus,1,"6501–6763 Manchac Rd, Baton Rouge US-LA (30.3209,-91.0928)",US-LA,11 Feb 2019,L8593195,S52597971
+223,Myiarchus cinerascens,3,South Davis Greenway,US-CA,09 Jul 2017,L5086996,S38052075
+224,Myiarchus crinitus,1,Furness Park,US-PA,30 Apr 2017,L5599190,S36420330
+225,Tyrannus vociferans,1,Refugio Rd--first creek crossing,US-CA,12 Aug 2017,L3201313,S38623858
+226,Tyrannus verticalis,4,South Davis Greenway,US-CA,09 Jul 2017,L5086996,S38052075
+227,Tyrannus tyrannus,1,US-Pennsylvania-Swarthmore-314 Rutgers Ave - 39.896x-75.348,US-PA,15 May 2016,L4604968,S29683206
+228,Lanius ludovicianus,1,Project Green Shores,US-FL,11 Mar 2016,L142719,S28095573
+229,Lanius borealis,1,Fairview Industrial Park,US-PA,22 Dec 2018,L1450078,S50869357
+230,Vireo griseus,1,Augustine Wildlife Area--Ashton Tract,US-DE,15 May 2017,L3013541,S36898794
+231,Vireo huttoni,2,Refugio Rd--first creek crossing,US-CA,12 Aug 2017,L3201313,S38623858
+232,Vireo flavifrons,2,Crum Woods,US-PA,11 May 2017,L559205,S36731267
+233,Vireo solitarius,1,Allegheny NF--Ice Cream Stand,US-PA,11 Aug 2016,L4837176,S31056863
+234,Vireo philadelphicus,1,Frick Park,US-PA,31 Aug 2018,L190706,S48187711
+235,Vireo gilvus,5,Crum Woods,US-PA,14 May 2016,L559205,S29631007
+236,Vireo olivaceus,1,Crum Woods,US-PA,14 May 2016,L559205,S29631007
+237,Perisoreus canadensis,2,Algonquin Provincial Park--Spruce Bog Boardwalk,CA-ON,30 Dec 2017,L351718,S42560763
+238,Cyanocitta stelleri,2,Kinevan Rd.,US-CA,12 Aug 2017,L1412060,S38623820
+239,Cyanocitta cristata,3,Big Lagoon SP,US-FL,10 Mar 2016,L142736,S28079819
+240,Aphelocoma insularis,3,Santa Cruz Island (SBA Co.),US-CA,30 Jul 2017,L109506,S38431098
+241,Aphelocoma californica,3,US-California-Davis-Halsey Circle & West Park,US-CA,09 Jul 2017,L6070238,S38051563
+242,Pica nuttalli,5,Lincoln Hwy x Hutchinson Dr,US-CA,13 Jul 2017,L6083443,S38117973
+243,Nucifraga columbiana,10,Carson Pass,US-CA,22 Jul 2017,L443507,S38273627
+244,Corvus brachyrhynchos,5,Swarthmore College,US-PA,23 Apr 2016,L4523528,S29135959
+245,Corvus ossifragus,3,Project Green Shores,US-FL,11 Mar 2016,L142719,S28095573
+246,Corvus corax,1,Kinzua Bridge SP,US-PA,10 Jul 2016,L3866367,S30635876
+247,Eremophila alpestris,170,S Groffdale Rd ,US-PA,19 Mar 2017,L5592203,S35296384
+248,Stelgidopteryx serripennis,1,Crum Woods,US-PA,14 May 2016,L559205,S29631007
+249,Progne subis,2,Bombay Hook National Wildlife Refuge,US-DE,15 May 2017,L126637,S36898791
+250,Tachycineta bicolor,14,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,24 Apr 2016,L504403,S29172057
+251,Tachycineta thalassina,2,Carson Pass,US-CA,22 Jul 2017,L443507,S38273627
+252,Riparia riparia,1,Yolo Bypass Wildlife Area,US-CA,16 Jul 2017,L443535,S38177805
+253,Hirundo rustica,1,Swarthmore College,US-PA,24 Apr 2016,L4523528,S29163876
+254,Petrochelidon pyrrhonota,10,Crook Farm Trail,US-PA,24 May 2016,L4636287,S29880024
+255,Poecile carolinensis,1,Swarthmore College,US-PA,23 Apr 2016,L4523528,S29135959
+256,Poecile atricapillus,1,West Corydon Woods (Private),US-PA,17 May 2016,L4612063,S29731406
+257,Poecile gambeli,10,Carson Pass,US-CA,22 Jul 2017,L443507,S38273627
+258,Poecile rufescens,3,"16500 Oak Glen Avenue, Morgan Hill, California, US (37.108, -121.679)",US-CA,05 Aug 2017,L6153663,S38486572
+259,Poecile hudsonicus,1,"Moose Bog, Wenlock WMA",US-VT,10 Jul 2019,L207476,S58079034
+260,Baeolophus inornatus,1,Devereux Slough,US-CA,29 Jul 2017,L615794,S38430888
+261,Baeolophus bicolor,3,Swarthmore College,US-PA,23 Apr 2016,L4523528,S29135959
+262,Psaltriparus minimus,25,South Davis Greenway,US-CA,09 Jul 2017,L5086996,S38052075
+263,Sitta canadensis,1,"Allegany SP--Red House Maintenance Area, S Mtn Rd.",US-NY,31 Jul 2016,L5895064,S30919264
+264,Sitta carolinensis,2,Swarthmore College,US-PA,23 Apr 2016,L4523528,S29135959
+265,Sitta pygmaea,2,Presidio--Battery Godfrey,US-CA,20 Aug 2017,L999240,S38742620
+266,Sitta pusilla,2,Big Lagoon SP,US-FL,10 Mar 2016,L142736,S28079819
+267,Certhia americana,1,"Allegany SP--Red House Maintenance Area, S Mtn Rd.",US-NY,31 Jul 2016,L5895064,S30919264
+268,Troglodytes aedon,3,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,24 Apr 2016,L504403,S29172057
+269,Troglodytes hiemalis,1,Kinzua Bridge SP,US-PA,10 Jul 2016,L3866367,S30635876
+270,Cistothorus platensis,1,Fabacher Rd.,US-LA,10 Feb 2019,L727252,S52557592
+271,Cistothorus palustris,2,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,02 Oct 2016,L504403,S31855270
+272,Thryothorus ludovicianus,1,Swarthmore College,US-PA,23 Apr 2016,L4523528,S29135959
+273,Thryomanes bewickii,1,Devereux Slough,US-CA,03 Aug 2017,L615794,S38457734
+274,Polioptila caerulea,1,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,24 Apr 2016,L504403,S29172057
+275,Cinclus mexicanus,1,Carson Pass,US-CA,22 Jul 2017,L443507,S38273627
+276,Regulus satrapa,5,Swarthmore College,US-PA,28 Oct 2016,L4523528,S32495466
+277,Regulus calendula,1,State Game Lands 301--West Eldred Swamp,US-PA,11 Oct 2016,L1460841,S31996042
+278,Chamaea fasciata,3,Devereux Slough,US-CA,29 Jul 2017,L615794,S38430888
+279,Sialia sialis,1,Big Lagoon SP,US-FL,10 Mar 2016,L142736,S28079819
+280,Sialia mexicana,2,South Davis Greenway,US-CA,09 Jul 2017,L5086996,S38052075
+281,Sialia currucoides,2,Kirkwood (ALP Co.),US-CA,22 Jul 2017,L764672,S38273327
+282,Myadestes townsendi,1,Carson Pass,US-CA,22 Jul 2017,L443507,S38273627
+283,Catharus fuscescens,1,West Corydon Woods (Private),US-PA,18 May 2016,L4612063,S29754005
+284,Catharus minimus,1,West Corydon Woods (Private),US-PA,24 Sep 2017,L4612063,S39360586
+285,Catharus bicknelli,1,"2399 Toll Road, Burke, Vermont, US (44.571, -71.895)",US-VT,09 Jul 2019,L9616985,S58063444
+286,Catharus ustulatus,2,Crum Woods,US-PA,11 May 2017,L559205,S36731267
+287,Catharus guttatus,1,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,24 Apr 2016,L504403,S29172057
+288,Hylocichla mustelina,2,Crum Woods,US-PA,10 May 2016,L559205,S29540296
+289,Turdus migratorius,30,Swarthmore College,US-PA,23 Apr 2016,L4523528,S29135959
+290,Dumetella carolinensis,8,Crum Woods,US-PA,10 May 2016,L559205,S29540296
+291,Toxostoma rufum,1,"Allegany SP--Red House Maintenance Area, S Mtn Rd.",US-NY,17 Jul 2016,L5895064,S30728949
+292,Toxostoma redivivum,1,Chesbro Reservoir,US-CA,05 Aug 2017,L463314,S38490792
+293,Mimus polyglottos,1,Gulf Islands National Seashore--Fort Pickens,US-FL,09 Mar 2016,L127303,S28069882
+294,Sturnus vulgaris,20,Project Green Shores,US-FL,11 Mar 2016,L142719,S28095573
+295,Anthus rubescens,1,Fabacher Rd.,US-LA,10 Feb 2019,L727252,S52557592
+296,Bombycilla cedrorum,3,Crum Woods,US-PA,14 May 2016,L559205,S29631007
+297,Coccothraustes vespertinus,24,Algonquin Provincial Park--Visitor Centre,CA-ON,30 Dec 2017,L492744,S41455829
+298,Haemorhous mexicanus,4,Big Lagoon SP,US-FL,10 Mar 2016,L142736,S28079819
+299,Haemorhous purpureus,1,Allegheny NF--Timberdoodle Flats,US-PA,23 May 2016,L1501142,S29858188
+300,Haemorhous cassinii,4,Carson Pass,US-CA,22 Jul 2017,L443507,S38273627
+301,Acanthis flammea,,Algonquin Provincial Park--Opeongo Road,CA-ON,30 Dec 2017,L710933,S42561216
+302,Loxia curvirostra,17,Algonquin Provincial Park--Spruce Bog Boardwalk,CA-ON,30 Dec 2017,L351718,S42560763
+303,Loxia leucoptera,,Algonquin Provincial Park--Opeongo Road,CA-ON,30 Dec 2017,L710933,S42561216
+304,Spinus pinus,1,Allegheny NF--Timberdoodle Flats,US-PA,23 May 2016,L1501142,S29858188
+305,Spinus psaltria,3,Putah Creek--Levee Rd.,US-CA,13 Jul 2017,L876147,S38117707
+306,Spinus tristis,3,Swarthmore College,US-PA,24 Apr 2016,L4523528,S29163876
+307,Calcarius lapponicus,2,"360–398 Fox Hollow Rd, Worthington US-PA (40.8216,-79.6084)",US-PA,03 Feb 2019,L8551548,S52348225
+308,Plectrophenax nivalis,160,Minesing Wetlands C.A.--Strongville Road,CA-ON,01 Jan 2018,L1216959,S41533703
+309,Peucaea aestivalis,6,Croatan NF--Millis Rd. Savanna,US-NC,29 Jul 2018,L738052,S47526418
+310,Ammodramus savannarum,2,Imperial Grasslands--Main Pond,US-PA,05 May 2018,L677470,S45321615
+311,Spizella passerina,3,Swarthmore College,US-PA,23 Apr 2016,L4523528,S29135959
+312,Spizella pusilla,1,Allegheny NF--Ice Cream Stand,US-PA,04 Aug 2016,L4837176,S30972702
+313,Spizella breweri,1,Carson Pass,US-CA,22 Jul 2017,L443507,S38273627
+314,Chondestes grammacus,4,Armour Ranch Rd.,US-CA,12 Aug 2017,L419284,S38624121
+315,Spizelloides arborea,1,West Corydon Woods (Private),US-PA,19 Dec 2016,L4612063,S33098472
+316,Passerella iliaca,1,Swarthmore College,US-PA,14 Mar 2017,L4523528,S35172730
+317,Junco hyemalis,1,West Corydon Woods (Private),US-PA,22 May 2016,L4612063,S29832853
+318,Zonotrichia leucophrys,4,Exton Park,US-PA,19 Mar 2017,L1306255,S35296376
+319,Zonotrichia albicollis,3,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,24 Apr 2016,L504403,S29172057
+320,Pooecetes gramineus,8,"6501–6763 Manchac Rd, Baton Rouge US-LA (30.3209,-91.0928)",US-LA,11 Feb 2019,L8593195,S52597971
+321,Ammospiza maritima,3,Bombay Hook National Wildlife Refuge,US-DE,15 May 2017,L126637,S36898791
+322,Ammospiza caudacuta,2,Hammonasset Beach SP--Meig's Point Parking Lot/Marshes,US-CT,07 Jul 2019,L1880516,S58012465
+323,Passerculus sandwichensis,3,Bombay Hook National Wildlife Refuge,US-DE,15 May 2017,L126637,S36898791
+324,Centronyx henslowii,2,Imperial Grasslands--West,US-PA,05 May 2018,L1521769,S45321610
+325,Melospiza melodia,15,Gulf Islands National Seashore--Fort Pickens,US-FL,09 Mar 2016,L127303,S28069882
+326,Melospiza lincolnii,1,"Jackson Park, Chicago",US-IL,13 Oct 2018,L265942,S49169135
+327,Melospiza georgiana,1,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,24 Apr 2016,L504403,S29172057
+328,Melozone crissalis,2,Putah Creek--Levee Rd.,US-CA,13 Jul 2017,L876147,S38117707
+329,Aimophila ruficeps,1,Refugio Rd--first creek crossing,US-CA,12 Aug 2017,L3201313,S38623858
+330,Pipilo chlorurus,2,Carson Pass,US-CA,22 Jul 2017,L443507,S38273627
+331,Pipilo maculatus,2,Putah Creek--Levee Rd.,US-CA,13 Jul 2017,L876147,S38117707
+332,Pipilo erythrophthalmus,2,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,24 Apr 2016,L504403,S29172057
+333,Icteria virens,1,Montour Trail--Boggs Rd.,US-PA,25 May 2018,L2363679,S46004771
+334,Xanthocephalus xanthocephalus,2,Howard Marsh Metropark,US-OH,11 May 2019,L4971040,S56178505
+335,Dolichonyx oryzivorus,3,Champlin Hill Rd.,US-PA,25 May 2016,L5892115,S29900283
+336,Sturnella neglecta,1,Yolo Bypass Wildlife Area,US-CA,15 Jul 2017,L443535,S38145260
+337,Sturnella magna,1,Champlin Hill Rd.,US-PA,25 May 2016,L5892115,S29900283
+338,Icterus spurius,1,Shawmut Trail,US-PA,28 May 2016,L2237965,S37587055
+339,Icterus cucullatus,1,South Davis Greenway,US-CA,09 Jul 2017,L5086996,S38052075
+340,Icterus bullockii,1,Putah Creek--Levee Rd.,US-CA,13 Jul 2017,L876147,S38117707
+341,Icterus galbula,1,Swarthmore College,US-PA,10 May 2016,L4523528,S29534238
+342,Icterus abeillei,1,"stakeout Black-backed Oriole, Sinking Spring (2017)",US-PA,05 Feb 2017,L5398071,S34171657
+343,Agelaius phoeniceus,50,Big Lagoon SP,US-FL,10 Mar 2016,L142736,S28079819
+344,Molothrus ater,5,Crum Woods,US-PA,14 May 2016,L559205,S29631007
+345,Euphagus carolinus,1,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,24 Apr 2016,L504403,S29172057
+346,Euphagus cyanocephalus,2,Davis WTP,US-CA,16 Jul 2017,L453489,S38177667
+347,Quiscalus quiscula,10,Swarthmore College,US-PA,23 Apr 2016,L4523528,S29135959
+348,Quiscalus major,1,Bonner Bridge (South Rock Jetty),US-NC,27 Jul 2018,L2573474,S47475219
+349,Quiscalus mexicanus,1,Davis WTP,US-CA,16 Jul 2017,L453489,S38177667
+350,Seiurus aurocapilla,5,Allegheny NF--Timberdoodle Flats,US-PA,23 May 2016,L1501142,S29858188
+351,Helmitheros vermivorum,2,Harrison Hills County Park,US-PA,26 May 2018,L188881,S46036717
+352,Parkesia motacilla,1,Crum Woods--North of Viaduct,US-PA,06 Apr 2017,L5525855,S35735553
+353,Parkesia noveboracensis,1,University of Chicago,US-IL,13 Oct 2018,L4300325,S49159291
+354,Vermivora chrysoptera,1,Frick Park,US-PA,06 May 2018,L190706,S45363031
+355,Vermivora cyanoptera,1,Shawmut Trail,US-PA,28 May 2016,L2237965,S29953323
+356,Mniotilta varia,1,Crum Woods,US-PA,24 Sep 2016,L559205,S31729900
+357,Protonotaria citrea,1,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,22 Apr 2017,L504403,S36166966
+358,Limnothlypis swainsonii,4,"New River Gorge--Fern Creek, Endless Wall Trailhead #2",US-WV,30 Jun 2018,L3568751,S46928721
+359,Oreothlypis peregrina,1,Allegheny NF--Timberdoodle Flats,US-PA,06 Oct 2017,L1501142,S39579483
+360,Oreothlypis celata,1,Carson Pass,US-CA,22 Jul 2017,L443507,S38273627
+361,Oreothlypis ruficapilla,1,Carson Pass,US-CA,22 Jul 2017,L443507,S38273627
+362,Geothlypis philadelphia,1,Allegheny NF--Ice Cream Stand,US-PA,11 Aug 2016,L4837176,S31056863
+363,Geothlypis formosa,1,Powdermill Nature Reserve,US-PA,23 May 2018,L129779,S45972452
+364,Geothlypis trichas,1,Crum Woods,US-PA,14 May 2016,L559205,S29631007
+365,Setophaga citrina,3,West Corydon Woods (Private),US-PA,18 May 2016,L4612063,S29754005
+366,Setophaga ruticilla,1,Crum Woods,US-PA,14 May 2016,L559205,S29631007
+367,Setophaga tigrina,1,Frick Park,US-PA,07 May 2018,L190706,S45405741
+368,Setophaga cerulea,1,Strouss Rd.,US-PA,25 May 2018,L2088071,S46009412
+369,Setophaga americana,1,US-Pennsylvania-Swarthmore-730 Yale Ave - 39.897x-75.352,US-PA,15 May 2016,L4604488,S29680163
+370,Setophaga magnolia,1,West Corydon Woods (Private),US-PA,17 May 2016,L4612063,S29731406
+371,Setophaga castanea,1,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,02 Oct 2016,L504403,S31855270
+372,Setophaga fusca,1,West Corydon Woods (Private),US-PA,01 Jul 2016,L4612063,S30481598
+373,Setophaga petechia,1,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,24 Apr 2016,L504403,S29172057
+374,Setophaga pensylvanica,2,West Corydon Woods (Private),US-PA,18 May 2016,L4612063,S29754005
+375,Setophaga striata,3,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,28 Apr 2017,L504403,S36340026
+376,Setophaga caerulescens,1,West Corydon Woods (Private),US-PA,17 May 2016,L4612063,S29731406
+377,Setophaga palmarum,3,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,16 Apr 2017,L504403,S36010878
+378,Setophaga pinus,1,Crum Woods--North of Viaduct,US-PA,02 Apr 2017,L5525855,S35638307
+379,Setophaga coronata,1,Gulf Islands National Seashore--Fort Pickens,US-FL,09 Mar 2016,L127303,S28069882
+380,Setophaga dominica,8,Allegheny Land Trust--Wingfield Pines,US-PA,15 Apr 2018,L907532,S44602747
+381,Setophaga discolor,2,Crum Woods,US-PA,29 Apr 2017,L559205,S36389225
+382,Setophaga nigrescens,1,Kinevan Rd.,US-CA,12 Aug 2017,L1412060,S38623820
+383,Setophaga occidentalis,4,Carson Pass,US-CA,22 Jul 2017,L443507,S38273627
+384,Setophaga virens,1,West Corydon Woods (Private),US-PA,17 May 2016,L4612063,S29731406
+385,Cardellina canadensis,1,Laurel Hill SP,US-PA,31 Jul 2018,L1239988,S47580451
+386,Cardellina pusilla,1,Bombay Hook National Wildlife Refuge,US-DE,15 May 2017,L126637,S36898791
+387,Piranga rubra,1,"227–1399 Victory Rd, Ellenboro US-WV (39.2469,-81.0545)",US-WV,29 Jun 2018,L7643413,S46877342
+388,Piranga olivacea,2,West Corydon Woods (Private),US-PA,18 May 2016,L4612063,S29754005
+389,Piranga ludoviciana,1,Putah Creek--Levee Rd.,US-CA,13 Jul 2017,L876147,S38117707
+390,Cardinalis cardinalis,3,Big Lagoon SP,US-FL,10 Mar 2016,L142736,S28079819
+391,Pheucticus ludovicianus,1,Crum Woods,US-PA,14 May 2016,L559205,S29631007
+392,Pheucticus melanocephalus,1,Putah Creek--Levee Rd.,US-CA,13 Jul 2017,L876147,S38117707
+393,Passerina caerulea,1,Augustine Wildlife Area--Ashton Tract,US-DE,15 May 2017,L3013541,S36898794
+394,Passerina cyanea,1,West Corydon Woods (Private),US-PA,22 May 2016,L4612063,S29837952
+395,Passerina ciris,1,Fort Macon SP--Visitor's Center,US-NC,29 Jul 2018,L5977434,S47526390
+396,Spiza americana,4,Underwood Rd. area,US-MD,31 Jul 2018,L4195955,S47567948
+397,Passer domesticus,8,Swarthmore College,US-PA,23 Apr 2016,L4523528,S29135959
+398,Lonchura punctulata,1,Devereux Slough,US-CA,03 Aug 2017,L615794,S38457734

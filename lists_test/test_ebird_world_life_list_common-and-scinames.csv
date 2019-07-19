@@ -1,0 +1,399 @@
+Row #,Species,Count,Location,S/P,Date,LocID,SubID
+1,Black-bellied Whistling-Duck - Dendrocygna autumnalis,12,Bayou Sauvage NWR--Ridge Trail,US-LA,04 Aug 2018,L6366407,S47645432
+2,Snow Goose - Anser caerulescens,150,Middle Creek WMA (IBA) (Lancaster Co.),US-PA,19 Mar 2017,L831953,S35296385
+3,Greater White-fronted Goose - Anser albifrons,1,"stakeout Black-backed Oriole, Sinking Spring (2017)",US-PA,05 Feb 2017,L5398071,S34171657
+4,Brant - Branta bernicla,105,"Gravesend Bay, middle parking lot",US-NY,02 Dec 2017,L1843449,S40856802
+5,Canada Goose - Branta canadensis,2,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,24 Apr 2016,L504403,S29172057
+6,Mute Swan - Cygnus olor,2,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,03 Dec 2016,L504403,S32834997
+7,Black Swan - Cygnus atratus,4,"stakeout Bullock’s Oriole, location (2018-2019)",US-LA,11 Feb 2019,L8593071,S52597958
+8,Trumpeter Swan - Cygnus buccinator,2,Montezuma NWR--Wildlife Drive,US-NY,20 Aug 2016,L267814,S31162957
+9,Tundra Swan - Cygnus columbianus,50,Juniata River--Casner's Crossing,US-PA,12 Mar 2017,L1853784,S35127501
+10,Wood Duck - Aix sponsa,2,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,24 Apr 2016,L504403,S29172057
+11,Blue-winged Teal - Spatula discors,7,Montezuma NWR--Wildlife Drive,US-NY,20 Aug 2016,L267814,S31162957
+12,Northern Shoveler - Spatula clypeata,1,Montezuma NWR--Wildlife Drive,US-NY,20 Aug 2016,L267814,S31162957
+13,Gadwall - Mareca strepera,15,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,03 Dec 2016,L504403,S32834997
+14,American Wigeon - Mareca americana,1,Point Park,US-PA,12 Jan 2017,L5249506,S33619064
+15,Mallard - Anas platyrhynchos,3,Crum Woods,US-PA,14 May 2016,L559205,S29631007
+16,American Black Duck - Anas rubripes,2,Eagleview Pond (roadside access only),US-PA,19 Mar 2017,L3524568,S35296377
+17,Northern Pintail - Anas acuta,1,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,02 Oct 2016,L504403,S31855270
+18,Green-winged Teal - Anas crecca,4,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,02 Oct 2016,L504403,S31855270
+19,Canvasback - Aythya valisineria,1,Marsh Creek SP,US-PA,19 Mar 2017,L272015,S35296379
+20,Redhead - Aythya americana,24,Alum Creek SP--Beach and Alum Reservoir South,US-OH,03 Jan 2017,L1335935,S33404067
+21,Ring-necked Duck - Aythya collaris,6,State Game Lands 301--West Eldred Swamp,US-PA,08 Mar 2017,L1460841,S35041803
+22,Greater Scaup - Aythya marila,3,Marsh Creek SP,US-PA,19 Mar 2017,L272015,S35296379
+23,Lesser Scaup - Aythya affinis,1,Stewart Park,US-NY,09 Mar 2017,L99381,S35072782
+24,King Eider - Somateria spectabilis,1,"Bass Rocks, Gloucester",US-MA,08 Jul 2019,L383673,S58024571
+25,Common Eider - Somateria mollissima,24,"Bass Rocks, Gloucester",US-MA,08 Jul 2019,L383673,S58024571
+26,Harlequin Duck - Histrionicus histrionicus,1,Kittanning--Lock & Dam 7,US-PA,22 Feb 2019,L2607871,S53017065
+27,Surf Scoter - Melanitta perspicillata,2,Sandy Hook--C Lot & Beach,US-NJ,03 Dec 2017,L2445730,S40924119
+28,White-winged Scoter - Melanitta deglandi,1,Sandy Hook--South Beach area,US-NJ,03 Dec 2017,L1103086,S40923987
+29,Black Scoter - Melanitta americana,6,Sandy Hook--South Beach area,US-NJ,03 Dec 2017,L1103086,S40923987
+30,Long-tailed Duck - Clangula hyemalis,1,Presque Isle SP (IBA),US-PA,14 Nov 2017,L129756,S40514605
+31,Bufflehead - Bucephala albeola,4,Big Lagoon SP,US-FL,10 Mar 2016,L142736,S28079819
+32,Common Goldeneye - Bucephala clangula,4,Presque Isle SP (IBA),US-PA,14 Nov 2017,L129756,S40514605
+33,Hooded Merganser - Lophodytes cucullatus,8,Betts Park,US-PA,12 Jan 2017,L5249678,S33620753
+34,Common Merganser - Mergus merganser,3,Point Park,US-PA,12 Jan 2017,L5249506,S33619064
+35,Red-breasted Merganser - Mergus serrator,1,Project Green Shores,US-FL,11 Mar 2016,L142719,S28095573
+36,Ruddy Duck - Oxyura jamaicensis,24,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,03 Dec 2016,L504403,S32834997
+37,Northern Bobwhite - Colinus virginianus,2,Piney Grove Preserve,US-VA,26 Jul 2018,L555556,S47473576
+38,California Quail - Callipepla californica,49,Chesbro Reservoir,US-CA,05 Aug 2017,L463314,S38490792
+39,Ring-necked Pheasant - Phasianus colchicus,4,Middle Creek WMA (IBA) (Lancaster Co.),US-PA,19 Mar 2017,L831953,S35296391
+40,Ruffed Grouse - Bonasa umbellus,1,Allegheny NF--Timberdoodle Flats,US-PA,23 May 2017,L1501142,S37089248
+41,Spruce Grouse - Falcipennis canadensis,1,"Moose Bog, Wenlock WMA",US-VT,10 Jul 2019,L207476,S58079034
+42,Wild Turkey - Meleagris gallopavo,4,US-Pennsylvania-Marienville-44254 Pennsylvania 66 - 41.538x-79.04,US-PA,01 Jul 2016,L4751173,S30482253
+43,Pied-billed Grebe - Podilymbus podiceps,2,Big Lagoon SP,US-FL,10 Mar 2016,L142736,S28079819
+44,Horned Grebe - Podiceps auritus,2,Project Green Shores,US-FL,11 Mar 2016,L142719,S28095573
+45,Red-necked Grebe - Podiceps grisegena,1,Moraine SP--South Shore,US-PA,02 Mar 2019,L589807,S53293462
+46,Western Grebe - Aechmophorus occidentalis,4,Ocean Beach County Park,US-CA,12 Aug 2017,L989821,S38623831
+47,Clark's Grebe - Aechmophorus clarkii,1,Chesbro Reservoir,US-CA,05 Aug 2017,L463314,S38490803
+48,Rock Pigeon - Columba livia,15,Project Green Shores,US-FL,11 Mar 2016,L142719,S28095573
+49,Band-tailed Pigeon - Patagioenas fasciata,3,Carson Pass,US-CA,22 Jul 2017,L443507,S38273627
+50,Eurasian Collared-Dove - Streptopelia decaocto,2,South Davis Greenway,US-CA,09 Jul 2017,L5086996,S38052075
+51,White-winged Dove - Zenaida asiatica,7,Peveto Woods - Baton Rouge Audubon Society Sanctuary,US-LA,10 Feb 2019,L210301,S52621157
+52,Mourning Dove - Zenaida macroura,3,Big Lagoon SP,US-FL,10 Mar 2016,L142736,S28079819
+53,Yellow-billed Cuckoo - Coccyzus americanus,1,Boyce-Mayview Park,US-PA,20 May 2018,L720522,S45874934
+54,Black-billed Cuckoo - Coccyzus erythropthalmus,1,Allegheny NF--Annie,US-PA,01 Sep 2017,L4986082,S38942127
+55,Lesser Nighthawk - Chordeiles acutipennis,1,Coal Oil Point,US-CA,07 Aug 2017,L422817,S38544618
+56,Common Nighthawk - Chordeiles minor,1,Murray Ave.,US-PA,08 May 2018,L7040724,S45470126
+57,Eastern Whip-poor-will - Antrostomus vociferus,8,Mt. Davis Natural Area,US-PA,19 Jun 2018,L2215592,S46672489
+58,Chimney Swift - Chaetura pelagica,2,Swarthmore College,US-PA,23 Apr 2016,L4523528,S29135959
+59,White-throated Swift - Aeronautes saxatalis,1,South Davis Greenway,US-CA,09 Jul 2017,L5086996,S38052075
+60,Ruby-throated Hummingbird - Archilochus colubris,1,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,24 Apr 2016,L504403,S29172057
+61,Anna's Hummingbird - Calypte anna,1,South Davis Greenway,US-CA,09 Jul 2017,L5086996,S38052075
+62,Rufous Hummingbird - Selasphorus rufus,3,Carson Pass,US-CA,22 Jul 2017,L443507,S38273627
+63,Allen's Hummingbird - Selasphorus sasin,1,UC Santa Barbara--campus,US-CA,01 Aug 2017,L654260,S38430828
+64,King Rail - Rallus elegans,6,Mackay Island NWR,US-NC,30 Jul 2018,L302859,S47553509
+65,Clapper Rail - Rallus crepitans,2,Bombay Hook National Wildlife Refuge,US-DE,15 May 2017,L126637,S36898791
+66,Virginia Rail - Rallus limicola,1,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,09 Apr 2017,L504403,S35821202
+67,Sora - Porzana carolina,1,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,09 Apr 2017,L504403,S35821202
+68,Common Gallinule - Gallinula galeata,7,Montezuma NWR--Wildlife Drive,US-NY,20 Aug 2016,L267814,S31162957
+69,American Coot - Fulica americana,1,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,24 Apr 2016,L504403,S29172057
+70,Purple Gallinule - Porphyrio martinica,2,"2672 Ridgeway Boulevard, New Orleans, Louisiana, US (30.118, -89.867)",US-LA,04 Aug 2018,L7787211,S47647526
+71,Black Rail - Laterallus jamaicensis,1,Bridgeway Island pond,US-CA,22 Jul 2017,L473045,S38279026
+72,Sandhill Crane - Antigone canadensis,1,US-Pennsylvania-Turtlepoint-Railroad Avenue - 41.868x-78.34,US-PA,27 May 2017,L5892118,S37180724
+73,Black-necked Stilt - Himantopus mexicanus,2,Bombay Hook National Wildlife Refuge,US-DE,15 May 2017,L126637,S36898791
+74,American Avocet - Recurvirostra americana,35,Bombay Hook National Wildlife Refuge,US-DE,15 May 2017,L126637,S36898791
+75,American Oystercatcher - Haematopus palliatus,2,DuPont Nature Center (Mispillion),US-DE,15 May 2017,L549315,S36898790
+76,Black Oystercatcher - Haematopus bachmani,4,Presidio--Battery Godfrey,US-CA,20 Aug 2017,L999240,S38742620
+77,Black-bellied Plover - Pluvialis squatarola,350,Bombay Hook National Wildlife Refuge,US-DE,15 May 2017,L126637,S36898791
+78,Snowy Plover - Charadrius nivosus,1,UC Santa Barbara--West Campus Bluff Trail,US-CA,27 Jul 2017,L1257790,S38345754
+79,Wilson's Plover - Charadrius wilsonia,2,Fort Macon SP--Visitor's Center,US-NC,29 Jul 2018,L5977434,S47526390
+80,Semipalmated Plover - Charadrius semipalmatus,2,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,02 Oct 2016,L504403,S31855270
+81,Piping Plover - Charadrius melodus,2,Presque Isle SP--Gull Pt.,US-PA,21 Jul 2018,L337068,S47349146
+82,Killdeer - Charadrius vociferus,1,Shawmut Trail,US-PA,28 May 2016,L2237965,S29953323
+83,Upland Sandpiper - Bartramia longicauda,1,State Game Lands 214--Miller Ponds,US-PA,14 Jun 2018,L527306,S46544846
+84,Whimbrel - Numenius phaeopus,2,UC Santa Barbara--Lagoon,US-CA,25 Jul 2017,L1072372,S38315626
+85,Long-billed Curlew - Numenius americanus,1,Davis WTP,US-CA,16 Jul 2017,L453489,S38177667
+86,Marbled Godwit - Limosa fedoa,1,Davis WTP,US-CA,16 Jul 2017,L453489,S38177667
+87,Ruddy Turnstone - Arenaria interpres,7,Project Green Shores,US-FL,11 Mar 2016,L142719,S28095573
+88,Black Turnstone - Arenaria melanocephala,7,Campus Pt.,US-CA,03 Aug 2017,L392613,S38461342
+89,Red Knot - Calidris canutus,10,DuPont Nature Center (Mispillion),US-DE,15 May 2017,L549315,S36898790
+90,Surfbird - Calidris virgata,1,Campus Pt.,US-CA,14 Aug 2017,L392613,S38643068
+91,Stilt Sandpiper - Calidris himantopus,1,Augustine Wildlife Area--Ashton Tract,US-DE,15 May 2017,L3013541,S36898794
+92,Curlew Sandpiper - Calidris ferruginea,1,Bodie Island Lighthouse & Pond,US-NC,27 Jul 2018,L365371,S47483923
+93,Sanderling - Calidris alba,10,DuPont Nature Center (Mispillion),US-DE,15 May 2017,L549315,S36898790
+94,Dunlin - Calidris alpina,10,Augustine Wildlife Area--Ashton Tract,US-DE,15 May 2017,L3013541,S36898794
+95,Purple Sandpiper - Calidris maritima,3,"Gravesend Bay, middle parking lot",US-NY,02 Dec 2017,L1843449,S40856802
+96,Baird's Sandpiper - Calidris bairdii,1,Reservoir Number Four,US-PA,01 Sep 2018,L668561,S48270037
+97,Least Sandpiper - Calidris minutilla,2,Montezuma NWR--Wildlife Drive,US-NY,20 Aug 2016,L267814,S31162957
+98,White-rumped Sandpiper - Calidris fuscicollis,1,Pea Island NWR--Salt Flats Wildlife Trail,US-NC,27 Jul 2018,L1555375,S47476757
+99,Pectoral Sandpiper - Calidris melanotos,1,Montezuma NWR--Wildlife Drive,US-NY,20 Aug 2016,L267814,S31162957
+100,Semipalmated Sandpiper - Calidris pusilla,50,Augustine WA--Port Penn Tract,US-DE,15 May 2017,L361675,S36898793
+101,Western Sandpiper - Calidris mauri,200,Yolo Bypass Wildlife Area,US-CA,15 Jul 2017,L443535,S38145260
+102,Short-billed Dowitcher - Limnodromus griseus,2,Augustine WA--Port Penn Tract,US-DE,15 May 2017,L361675,S36898793
+103,Long-billed Dowitcher - Limnodromus scolopaceus,1,Montezuma NWR--Wildlife Drive,US-NY,20 Aug 2016,L267814,S31162957
+104,American Woodcock - Scolopax minor,1,Middle Creek WMA (IBA) (Lancaster Co.),US-PA,19 Mar 2017,L831953,S35296391
+105,Wilson's Snipe - Gallinago delicata,1,Montezuma NWR--Wildlife Drive,US-NY,20 Aug 2016,L267814,S31162957
+106,Wilson's Phalarope - Phalaropus tricolor,3,Davis WTP,US-CA,16 Jul 2017,L453489,S38177667
+107,Red-necked Phalarope - Phalaropus lobatus,1,Dune Pond at COPR,US-CA,13 Aug 2017,L2135075,S38630998
+108,Spotted Sandpiper - Actitis macularius,1,Hamlin Lake Park,US-PA,07 Aug 2016,L2237876,S31004716
+109,Solitary Sandpiper - Tringa solitaria,1,Crum Woods,US-PA,11 May 2017,L559205,S36731267
+110,Wandering Tattler - Tringa incana,5,Campus Pt.,US-CA,03 Aug 2017,L392613,S38461342
+111,Greater Yellowlegs - Tringa melanoleuca,2,Montezuma NWR--Wildlife Drive,US-NY,20 Aug 2016,L267814,S31162957
+112,Willet - Tringa semipalmata,18,DuPont Nature Center (Mispillion),US-DE,15 May 2017,L549315,S36898790
+113,Lesser Yellowlegs - Tringa flavipes,5,Montezuma NWR--Wildlife Drive,US-NY,20 Aug 2016,L267814,S31162957
+114,Pigeon Guillemot - Cepphus columba,2,Santa Cruz Island (SBA Co.),US-CA,30 Jul 2017,L109506,S38431098
+115,Sabine's Gull - Xema sabini,1,Kahle Lake (Clarion Co.),US-PA,07 Sep 2017,L2407336,S39059070
+116,Bonaparte's Gull - Chroicocephalus philadelphia,1,US-Florida-Gulf Breeze-16 Via De Luna Dr - 30.332x-87.135,US-FL,12 Mar 2016,L4374331,S28114522
+117,Laughing Gull - Leucophaeus atricilla,51,Project Green Shores,US-FL,11 Mar 2016,L142719,S28095573
+118,Franklin's Gull - Leucophaeus pipixcan,1,Lake Somerset (IBA),US-PA,19 Jun 2018,L129780,S46672454
+119,Heermann's Gull - Larus heermanni,5,UC Santa Barbara--West Campus Bluff Trail,US-CA,27 Jul 2017,L1257790,S38345754
+120,Ring-billed Gull - Larus delawarensis,12,Project Green Shores,US-FL,11 Mar 2016,L142719,S28095573
+121,Western Gull - Larus occidentalis,1,UC Santa Barbara--Lagoon,US-CA,24 Jul 2017,L1072372,S38309207
+122,California Gull - Larus californicus,3,Yolo Bypass Wildlife Area,US-CA,15 Jul 2017,L443535,S38145260
+123,Herring Gull - Larus argentatus,11,Project Green Shores,US-FL,11 Mar 2016,L142719,S28095573
+124,Glaucous-winged Gull - Larus glaucescens,1,Goleta Beach County Park,US-CA,13 Aug 2017,L375164,S38629831
+125,Great Black-backed Gull - Larus marinus,1,Stewart Park,US-NY,09 Mar 2017,L99381,S35072782
+126,Least Tern - Sternula antillarum,10,Ocean Beach County Park,US-CA,12 Aug 2017,L989821,S38623831
+127,Gull-billed Tern - Gelochelidon nilotica,1,"1 Way Road, Buxton, North Carolina, US (35.308, -75.51)",US-NC,27 Jul 2018,L7757839,S47483828
+128,Caspian Tern - Hydroprogne caspia,13,Montezuma NWR--Wildlife Drive,US-NY,20 Aug 2016,L267814,S31162957
+129,Black Tern - Chlidonias niger,4,"1 Way Road, Buxton, North Carolina, US (35.308, -75.51)",US-NC,27 Jul 2018,L7757839,S47483828
+130,Common Tern - Sterna hirundo,15,Presque Isle SP--Gull Pt.,US-PA,21 Jul 2018,L337068,S47349146
+131,Forster's Tern - Sterna forsteri,3,Bombay Hook National Wildlife Refuge,US-DE,15 May 2017,L126637,S36898791
+132,Royal Tern - Thalasseus maximus,14,Project Green Shores,US-FL,11 Mar 2016,L142719,S28095573
+133,Sandwich Tern - Thalasseus sandvicensis,6,Pea Island NWR--Salt Flats Wildlife Trail,US-NC,27 Jul 2018,L1555375,S47476757
+134,Elegant Tern - Thalasseus elegans,60,Campus Pt.,US-CA,03 Aug 2017,L392613,S38461342
+135,Black Skimmer - Rynchops niger,1,Bombay Hook National Wildlife Refuge,US-DE,15 May 2017,L126637,S36898791
+136,Red-throated Loon - Gavia stellata,3,Sandy Hook--C Lot & Beach,US-NJ,03 Dec 2017,L2445730,S40924119
+137,Pacific Loon - Gavia pacifica,1,Surf Beach,US-CA,26 Aug 2017,L969581,S38840118
+138,Common Loon - Gavia immer,2,Big Lagoon SP,US-FL,10 Mar 2016,L142736,S28079819
+139,Wilson's Storm-Petrel - Oceanites oceanicus,5,"Andrews Point, Rockport",US-MA,08 Jul 2019,L279945,S58026618
+140,Sooty Shearwater - Ardenna grisea,20,Santa Barbara Channel--east channel (SBA Co.),US-CA,30 Jul 2017,L367650,S38431077
+141,Black-vented Shearwater - Puffinus opisthomelas,40,Santa Barbara Channel--east channel (SBA Co.),US-CA,30 Jul 2017,L367650,S38431077
+142,Northern Gannet - Morus bassanus,4,"Andrews Point, Rockport",US-MA,08 Jul 2019,L279945,S58026618
+143,Anhinga - Anhinga anhinga,2,Bayou Sauvage NWR--Ridge Trail,US-LA,04 Aug 2018,L6366407,S47645432
+144,Brandt's Cormorant - Phalacrocorax penicillatus,30,Santa Cruz Island (SBA Co.),US-CA,30 Jul 2017,L109506,S38431098
+145,Pelagic Cormorant - Phalacrocorax pelagicus,1,Campus Pt.,US-CA,14 Aug 2017,L392613,S38643068
+146,Neotropic Cormorant - Phalacrocorax brasilianus,18,Sabine NWR,US-LA,10 Feb 2019,L8587956,S52566467
+147,Double-crested Cormorant - Phalacrocorax auritus,15,Project Green Shores,US-FL,11 Mar 2016,L142719,S28095573
+148,American White Pelican - Pelecanus erythrorhynchos,8,Yolo Bypass Wildlife Area,US-CA,16 Jul 2017,L443535,S38177805
+149,Brown Pelican - Pelecanus occidentalis,9,Gulf Islands National Seashore--Fort Pickens,US-FL,09 Mar 2016,L127303,S28069882
+150,American Bittern - Botaurus lentiginosus,1,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,24 Apr 2016,L504403,S29172057
+151,Least Bittern - Ixobrychus exilis,1,Conneaut Marsh--McMichael/Browns Hill Rd.,US-PA,21 Jul 2018,L733414,S47335893
+152,Great Blue Heron - Ardea herodias,2,Gulf Islands National Seashore--Fort Pickens,US-FL,09 Mar 2016,L127303,S28069882
+153,Great Egret - Ardea alba,2,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,24 Apr 2016,L504403,S29172057
+154,Little Egret - Egretta garzetta,1,Augustine Wildlife Area--Ashton Tract,US-DE,15 May 2017,L3013541,S36898794
+155,Snowy Egret - Egretta thula,1,Project Green Shores,US-FL,11 Mar 2016,L142719,S28095573
+156,Little Blue Heron - Egretta caerulea,2,Augustine Wildlife Area--Ashton Tract,US-DE,15 May 2017,L3013541,S36898794
+157,Tricolored Heron - Egretta tricolor,2,Pea Island NWR--Salt Flats Wildlife Trail,US-NC,27 Jul 2018,L1555375,S47476757
+158,Reddish Egret - Egretta rufescens,1,Ocean Beach County Park,US-CA,12 Aug 2017,L989821,S38623831
+159,Cattle Egret - Bubulcus ibis,1, Thorntown Rd Horse Farm,US-DE,15 May 2017,L5769925,S36898788
+160,Green Heron - Butorides virescens,1,Shawmut Trail,US-PA,28 May 2016,L2237965,S29953323
+161,Black-crowned Night-Heron - Nycticorax nycticorax,1,South Ferry incl. Staten I. + Gov. I. Ferry Terminals,US-NY,14 May 2017,L4024804,S36854876
+162,Yellow-crowned Night-Heron - Nyctanassa violacea,2,Ocracoke Island--Hammock Hills Nature Trail,US-NC,28 Jul 2018,L1160919,S47507211
+163,White Ibis - Eudocimus albus,2,Pea Island NWR--Old Coast Guard Station,US-NC,27 Jul 2018,L210417,S47476768
+164,Glossy Ibis - Plegadis falcinellus,4,Augustine Wildlife Area--Ashton Tract,US-DE,15 May 2017,L3013541,S36898794
+165,White-faced Ibis - Plegadis chihi,35,Yolo Bypass Wildlife Area,US-CA,15 Jul 2017,L443535,S38145260
+166,Roseate Spoonbill - Platalea ajaja,1,Fabacher Rd.,US-LA,10 Feb 2019,L727252,S52557592
+167,Black Vulture - Coragyps atratus,2,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,24 Apr 2016,L504403,S29172057
+168,Turkey Vulture - Cathartes aura,1,Crum Woods,US-PA,16 May 2016,L559205,S29705538
+169,Osprey - Pandion haliaetus,5,Gulf Islands National Seashore--Fort Pickens,US-FL,09 Mar 2016,L127303,S28069882
+170,White-tailed Kite - Elanus leucurus,2,Yolo Bypass Wildlife Area,US-CA,16 Jul 2017,L443535,S38177805
+171,Swallow-tailed Kite - Elanoides forficatus,1,US-Florida-McDavid-S Century Blvd - 30.815x-87.335,US-FL,09 Mar 2016,L4375109,S28120098
+172,Golden Eagle - Aquila chrysaetos,2,Zaca Station Rd.,US-CA,26 Aug 2017,L778646,S38871417
+173,Mississippi Kite - Ictinia mississippiensis,1,"Ridgeway Boulevard, New Orleans, Louisiana, US (30.075, -89.862)",US-LA,04 Aug 2018,L7786936,S47646069
+174,Northern Harrier - Circus hudsonius,1,Montezuma NWR--Wildlife Drive,US-NY,20 Aug 2016,L267814,S31162957
+175,Sharp-shinned Hawk - Accipiter striatus,1,Sewickley Heights Borough Park,US-PA,28 Apr 2018,L712403,S45040154
+176,Cooper's Hawk - Accipiter cooperii,1,Swarthmore College,US-PA,23 Apr 2016,L4523528,S29135959
+177,Bald Eagle - Haliaeetus leucocephalus,1,Allegheny NF--Sugar Bay (McKean Co.),US-PA,21 Jul 2016,L4807045,S30797974
+178,Red-shouldered Hawk - Buteo lineatus,1,Allegheny NF--Ice Cream Stand,US-PA,11 Aug 2016,L4837176,S31056863
+179,Broad-winged Hawk - Buteo platypterus,1,"Allegany SP--Red House Maintenance Area, S Mtn Rd.",US-NY,26 May 2016,L5895064,S29920720
+180,Swainson's Hawk - Buteo swainsoni,8,Putah Creek--Levee Rd.,US-CA,13 Jul 2017,L876147,S38117707
+181,Red-tailed Hawk - Buteo jamaicensis,1,Crum Woods,US-PA,14 May 2016,L559205,S29631007
+182,Rough-legged Hawk - Buteo lagopus,1,"(41.779, -79.993)",US-PA,16 Feb 2018,L6930436,S42859772
+183,Barn Owl - Tyto alba,2,US-California-Davis-501-503 4th Street - 38.546x-121.743,US-CA,19 Jul 2017,L6104873,S38228495
+184,Eastern Screech-Owl - Megascops asio,1,Mary Lyons Dormitory,US-PA,20 Sep 2016,L4938523,S31684315
+185,Great Horned Owl - Bubo virginianus,2,Crum Woods,US-PA,18 Nov 2016,L559205,S32611551
+186,Snowy Owl - Bubo scandiacus,2,Presque Isle SP (IBA),US-PA,14 Nov 2017,L129756,S40514605
+187,Burrowing Owl - Athene cunicularia,1,CR30B (YOL Co.),US-CA,16 Jul 2017,L4619295,S38177702
+188,Barred Owl - Strix varia,1,Allegheny NF--Sugar Bay (Warren County),US-PA,16 Jul 2016,L4798800,S30751582
+189,Short-eared Owl - Asio flammeus,1,Middle Creek WMA (IBA) (Lancaster Co.),US-PA,19 Mar 2017,L831953,S35296391
+190,Northern Saw-whet Owl - Aegolius acadicus,2,Allegheny NF--Saw Whets,US-PA,08 Oct 2016,L4978454,S31967430
+191,Belted Kingfisher - Megaceryle alcyon,1,Big Lagoon SP,US-FL,10 Mar 2016,L142736,S28079819
+192,Yellow-bellied Sapsucker - Sphyrapicus varius,2,"Allegany SP--Red House Maintenance Area, S Mtn Rd.",US-NY,03 Jul 2016,L5895064,S30509369
+193,Red-headed Woodpecker - Melanerpes erythrocephalus,4,Eldon Haught Lakeside Recreation Area,US-WV,29 Jun 2018,L2973269,S46877340
+194,Acorn Woodpecker - Melanerpes formicivorus,1,South Davis Greenway,US-CA,09 Jul 2017,L5086996,S38052075
+195,Red-bellied Woodpecker - Melanerpes carolinus,2,Swarthmore College,US-PA,23 Apr 2016,L4523528,S29135959
+196,Black-backed Woodpecker - Picoides arcticus,1,Silvio O. Conte NWR--Peanut Dam Road,US-VT,10 Jul 2019,L474087,S58079044
+197,Downy Woodpecker - Dryobates pubescens,2,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,24 Apr 2016,L504403,S29172057
+198,Nuttall's Woodpecker - Dryobates nuttallii,1,South Davis Greenway,US-CA,09 Jul 2017,L5086996,S38052075
+199,Red-cockaded Woodpecker - Dryobates borealis,3,Piney Grove Preserve,US-VA,26 Jul 2018,L555556,S47473576
+200,Hairy Woodpecker - Dryobates villosus,2,Crum Woods,US-PA,11 Sep 2016,L559205,S31526507
+201,Pileated Woodpecker - Dryocopus pileatus,1,Swarthmore College,US-PA,23 Apr 2016,L4523528,S29135959
+202,Northern Flicker - Colaptes auratus,2,Crum Woods,US-PA,14 May 2016,L559205,S29631007
+203,Crested Caracara - Caracara cheriway,1,Fabacher Rd.,US-LA,10 Feb 2019,L727252,S52557592
+204,American Kestrel - Falco sparverius,1,Intercourse~Old Philadelphia Pike,US-PA,19 Mar 2017,L5593500,S35296383
+205,Merlin - Falco columbarius,1,Allegany State Park--Red House Lake Fishing Pier,US-NY,26 May 2016,L4642174,S29920864
+206,Peregrine Falcon - Falco peregrinus,1,DuPont Nature Center (Mispillion),US-DE,15 May 2017,L549315,S36898790
+207,Monk Parakeet - Myiopsitta monachus,9,"Annunciation Street (29.935, -90.069)",US-LA,09 Aug 2018,L7805528,S47802383
+208,Red-masked Parakeet - Psittacara erythrogenys,6,Lafayette Park (SF Co.),US-CA,20 Aug 2017,L1014322,S38742656
+209,Olive-sided Flycatcher - Contopus cooperi,1,Allegheny NF--Ice Cream Stand,US-PA,11 Sep 2017,L4837176,S39132640
+210,Western Wood-Pewee - Contopus sordidulus,3,Refugio Creek Canyon,US-CA,12 Aug 2017,L454599,S38623926
+211,Eastern Wood-Pewee - Contopus virens,1,Crum Woods,US-PA,14 May 2016,L559205,S29631007
+212,Yellow-bellied Flycatcher - Empidonax flaviventris,1,Allegheny NF--Annie,US-PA,01 Sep 2017,L4986082,S38942127
+213,Acadian Flycatcher - Empidonax virescens,1,Crum Woods,US-PA,14 May 2016,L559205,S29631007
+214,Alder Flycatcher - Empidonax alnorum,1,"Allegany SP--Red House Maintenance Area, S Mtn Rd.",US-NY,26 May 2016,L5895064,S29920720
+215,Willow Flycatcher - Empidonax traillii,2,Champlin Hill Rd.,US-PA,25 May 2016,L5892115,S29899758
+216,Least Flycatcher - Empidonax minimus,1,"Allegany SP--Red House Maintenance Area, S Mtn Rd.",US-NY,19 Jun 2016,L5895064,S30325588
+217,Dusky Flycatcher - Empidonax oberholseri,2,Carson Pass,US-CA,22 Jul 2017,L443507,S38273627
+218,Pacific-slope Flycatcher - Empidonax difficilis,3,Kinevan Rd.,US-CA,12 Aug 2017,L1412060,S38623820
+219,Black Phoebe - Sayornis nigricans,4,UC Davis--Arboretum,US-CA,12 Jul 2017,L447347,S38099640
+220,Eastern Phoebe - Sayornis phoebe,1,Gulf Islands National Seashore--Fort Pickens,US-FL,09 Mar 2016,L127303,S28069882
+221,Say's Phoebe - Sayornis saya,2,UC Santa Barbara--West Campus Bluff Trail,US-CA,27 Jul 2017,L1257790,S38345754
+222,Vermilion Flycatcher - Pyrocephalus rubinus,1,"6501–6763 Manchac Rd, Baton Rouge US-LA (30.3209,-91.0928)",US-LA,11 Feb 2019,L8593195,S52597971
+223,Ash-throated Flycatcher - Myiarchus cinerascens,3,South Davis Greenway,US-CA,09 Jul 2017,L5086996,S38052075
+224,Great Crested Flycatcher - Myiarchus crinitus,1,Furness Park,US-PA,30 Apr 2017,L5599190,S36420330
+225,Cassin's Kingbird - Tyrannus vociferans,1,Refugio Rd--first creek crossing,US-CA,12 Aug 2017,L3201313,S38623858
+226,Western Kingbird - Tyrannus verticalis,4,South Davis Greenway,US-CA,09 Jul 2017,L5086996,S38052075
+227,Eastern Kingbird - Tyrannus tyrannus,1,US-Pennsylvania-Swarthmore-314 Rutgers Ave - 39.896x-75.348,US-PA,15 May 2016,L4604968,S29683206
+228,Loggerhead Shrike - Lanius ludovicianus,1,Project Green Shores,US-FL,11 Mar 2016,L142719,S28095573
+229,Northern Shrike - Lanius borealis,1,Fairview Industrial Park,US-PA,22 Dec 2018,L1450078,S50869357
+230,White-eyed Vireo - Vireo griseus,1,Augustine Wildlife Area--Ashton Tract,US-DE,15 May 2017,L3013541,S36898794
+231,Hutton's Vireo - Vireo huttoni,2,Refugio Rd--first creek crossing,US-CA,12 Aug 2017,L3201313,S38623858
+232,Yellow-throated Vireo - Vireo flavifrons,2,Crum Woods,US-PA,11 May 2017,L559205,S36731267
+233,Blue-headed Vireo - Vireo solitarius,1,Allegheny NF--Ice Cream Stand,US-PA,11 Aug 2016,L4837176,S31056863
+234,Philadelphia Vireo - Vireo philadelphicus,1,Frick Park,US-PA,31 Aug 2018,L190706,S48187711
+235,Warbling Vireo - Vireo gilvus,5,Crum Woods,US-PA,14 May 2016,L559205,S29631007
+236,Red-eyed Vireo - Vireo olivaceus,1,Crum Woods,US-PA,14 May 2016,L559205,S29631007
+237,Canada Jay - Perisoreus canadensis,2,Algonquin Provincial Park--Spruce Bog Boardwalk,CA-ON,30 Dec 2017,L351718,S42560763
+238,Steller's Jay - Cyanocitta stelleri,2,Kinevan Rd.,US-CA,12 Aug 2017,L1412060,S38623820
+239,Blue Jay - Cyanocitta cristata,3,Big Lagoon SP,US-FL,10 Mar 2016,L142736,S28079819
+240,Island Scrub-Jay - Aphelocoma insularis,3,Santa Cruz Island (SBA Co.),US-CA,30 Jul 2017,L109506,S38431098
+241,California Scrub-Jay - Aphelocoma californica,3,US-California-Davis-Halsey Circle & West Park,US-CA,09 Jul 2017,L6070238,S38051563
+242,Yellow-billed Magpie - Pica nuttalli,5,Lincoln Hwy x Hutchinson Dr,US-CA,13 Jul 2017,L6083443,S38117973
+243,Clark's Nutcracker - Nucifraga columbiana,10,Carson Pass,US-CA,22 Jul 2017,L443507,S38273627
+244,American Crow - Corvus brachyrhynchos,5,Swarthmore College,US-PA,23 Apr 2016,L4523528,S29135959
+245,Fish Crow - Corvus ossifragus,3,Project Green Shores,US-FL,11 Mar 2016,L142719,S28095573
+246,Common Raven - Corvus corax,1,Kinzua Bridge SP,US-PA,10 Jul 2016,L3866367,S30635876
+247,Horned Lark - Eremophila alpestris,170,S Groffdale Rd ,US-PA,19 Mar 2017,L5592203,S35296384
+248,Northern Rough-winged Swallow - Stelgidopteryx serripennis,1,Crum Woods,US-PA,14 May 2016,L559205,S29631007
+249,Purple Martin - Progne subis,2,Bombay Hook National Wildlife Refuge,US-DE,15 May 2017,L126637,S36898791
+250,Tree Swallow - Tachycineta bicolor,14,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,24 Apr 2016,L504403,S29172057
+251,Violet-green Swallow - Tachycineta thalassina,2,Carson Pass,US-CA,22 Jul 2017,L443507,S38273627
+252,Bank Swallow - Riparia riparia,1,Yolo Bypass Wildlife Area,US-CA,16 Jul 2017,L443535,S38177805
+253,Barn Swallow - Hirundo rustica,1,Swarthmore College,US-PA,24 Apr 2016,L4523528,S29163876
+254,Cliff Swallow - Petrochelidon pyrrhonota,10,Crook Farm Trail,US-PA,24 May 2016,L4636287,S29880024
+255,Carolina Chickadee - Poecile carolinensis,1,Swarthmore College,US-PA,23 Apr 2016,L4523528,S29135959
+256,Black-capped Chickadee - Poecile atricapillus,1,West Corydon Woods (Private),US-PA,17 May 2016,L4612063,S29731406
+257,Mountain Chickadee - Poecile gambeli,10,Carson Pass,US-CA,22 Jul 2017,L443507,S38273627
+258,Chestnut-backed Chickadee - Poecile rufescens,3,"16500 Oak Glen Avenue, Morgan Hill, California, US (37.108, -121.679)",US-CA,05 Aug 2017,L6153663,S38486572
+259,Boreal Chickadee - Poecile hudsonicus,1,"Moose Bog, Wenlock WMA",US-VT,10 Jul 2019,L207476,S58079034
+260,Oak Titmouse - Baeolophus inornatus,1,Devereux Slough,US-CA,29 Jul 2017,L615794,S38430888
+261,Tufted Titmouse - Baeolophus bicolor,3,Swarthmore College,US-PA,23 Apr 2016,L4523528,S29135959
+262,Bushtit - Psaltriparus minimus,25,South Davis Greenway,US-CA,09 Jul 2017,L5086996,S38052075
+263,Red-breasted Nuthatch - Sitta canadensis,1,"Allegany SP--Red House Maintenance Area, S Mtn Rd.",US-NY,31 Jul 2016,L5895064,S30919264
+264,White-breasted Nuthatch - Sitta carolinensis,2,Swarthmore College,US-PA,23 Apr 2016,L4523528,S29135959
+265,Pygmy Nuthatch - Sitta pygmaea,2,Presidio--Battery Godfrey,US-CA,20 Aug 2017,L999240,S38742620
+266,Brown-headed Nuthatch - Sitta pusilla,2,Big Lagoon SP,US-FL,10 Mar 2016,L142736,S28079819
+267,Brown Creeper - Certhia americana,1,"Allegany SP--Red House Maintenance Area, S Mtn Rd.",US-NY,31 Jul 2016,L5895064,S30919264
+268,House Wren - Troglodytes aedon,3,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,24 Apr 2016,L504403,S29172057
+269,Winter Wren - Troglodytes hiemalis,1,Kinzua Bridge SP,US-PA,10 Jul 2016,L3866367,S30635876
+270,Sedge Wren - Cistothorus platensis,1,Fabacher Rd.,US-LA,10 Feb 2019,L727252,S52557592
+271,Marsh Wren - Cistothorus palustris,2,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,02 Oct 2016,L504403,S31855270
+272,Carolina Wren - Thryothorus ludovicianus,1,Swarthmore College,US-PA,23 Apr 2016,L4523528,S29135959
+273,Bewick's Wren - Thryomanes bewickii,1,Devereux Slough,US-CA,03 Aug 2017,L615794,S38457734
+274,Blue-gray Gnatcatcher - Polioptila caerulea,1,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,24 Apr 2016,L504403,S29172057
+275,American Dipper - Cinclus mexicanus,1,Carson Pass,US-CA,22 Jul 2017,L443507,S38273627
+276,Golden-crowned Kinglet - Regulus satrapa,5,Swarthmore College,US-PA,28 Oct 2016,L4523528,S32495466
+277,Ruby-crowned Kinglet - Regulus calendula,1,State Game Lands 301--West Eldred Swamp,US-PA,11 Oct 2016,L1460841,S31996042
+278,Wrentit - Chamaea fasciata,3,Devereux Slough,US-CA,29 Jul 2017,L615794,S38430888
+279,Eastern Bluebird - Sialia sialis,1,Big Lagoon SP,US-FL,10 Mar 2016,L142736,S28079819
+280,Western Bluebird - Sialia mexicana,2,South Davis Greenway,US-CA,09 Jul 2017,L5086996,S38052075
+281,Mountain Bluebird - Sialia currucoides,2,Kirkwood (ALP Co.),US-CA,22 Jul 2017,L764672,S38273327
+282,Townsend's Solitaire - Myadestes townsendi,1,Carson Pass,US-CA,22 Jul 2017,L443507,S38273627
+283,Veery - Catharus fuscescens,1,West Corydon Woods (Private),US-PA,18 May 2016,L4612063,S29754005
+284,Gray-cheeked Thrush - Catharus minimus,1,West Corydon Woods (Private),US-PA,24 Sep 2017,L4612063,S39360586
+285,Bicknell's Thrush - Catharus bicknelli,1,"2399 Toll Road, Burke, Vermont, US (44.571, -71.895)",US-VT,09 Jul 2019,L9616985,S58063444
+286,Swainson's Thrush - Catharus ustulatus,2,Crum Woods,US-PA,11 May 2017,L559205,S36731267
+287,Hermit Thrush - Catharus guttatus,1,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,24 Apr 2016,L504403,S29172057
+288,Wood Thrush - Hylocichla mustelina,2,Crum Woods,US-PA,10 May 2016,L559205,S29540296
+289,American Robin - Turdus migratorius,30,Swarthmore College,US-PA,23 Apr 2016,L4523528,S29135959
+290,Gray Catbird - Dumetella carolinensis,8,Crum Woods,US-PA,10 May 2016,L559205,S29540296
+291,Brown Thrasher - Toxostoma rufum,1,"Allegany SP--Red House Maintenance Area, S Mtn Rd.",US-NY,17 Jul 2016,L5895064,S30728949
+292,California Thrasher - Toxostoma redivivum,1,Chesbro Reservoir,US-CA,05 Aug 2017,L463314,S38490792
+293,Northern Mockingbird - Mimus polyglottos,1,Gulf Islands National Seashore--Fort Pickens,US-FL,09 Mar 2016,L127303,S28069882
+294,European Starling - Sturnus vulgaris,20,Project Green Shores,US-FL,11 Mar 2016,L142719,S28095573
+295,American Pipit - Anthus rubescens,1,Fabacher Rd.,US-LA,10 Feb 2019,L727252,S52557592
+296,Cedar Waxwing - Bombycilla cedrorum,3,Crum Woods,US-PA,14 May 2016,L559205,S29631007
+297,Evening Grosbeak - Coccothraustes vespertinus,24,Algonquin Provincial Park--Visitor Centre,CA-ON,30 Dec 2017,L492744,S41455829
+298,House Finch - Haemorhous mexicanus,4,Big Lagoon SP,US-FL,10 Mar 2016,L142736,S28079819
+299,Purple Finch - Haemorhous purpureus,1,Allegheny NF--Timberdoodle Flats,US-PA,23 May 2016,L1501142,S29858188
+300,Cassin's Finch - Haemorhous cassinii,4,Carson Pass,US-CA,22 Jul 2017,L443507,S38273627
+301,Common Redpoll - Acanthis flammea,,Algonquin Provincial Park--Opeongo Road,CA-ON,30 Dec 2017,L710933,S42561216
+302,Red Crossbill - Loxia curvirostra,17,Algonquin Provincial Park--Spruce Bog Boardwalk,CA-ON,30 Dec 2017,L351718,S42560763
+303,White-winged Crossbill - Loxia leucoptera,,Algonquin Provincial Park--Opeongo Road,CA-ON,30 Dec 2017,L710933,S42561216
+304,Pine Siskin - Spinus pinus,1,Allegheny NF--Timberdoodle Flats,US-PA,23 May 2016,L1501142,S29858188
+305,Lesser Goldfinch - Spinus psaltria,3,Putah Creek--Levee Rd.,US-CA,13 Jul 2017,L876147,S38117707
+306,American Goldfinch - Spinus tristis,3,Swarthmore College,US-PA,24 Apr 2016,L4523528,S29163876
+307,Lapland Longspur - Calcarius lapponicus,2,"360–398 Fox Hollow Rd, Worthington US-PA (40.8216,-79.6084)",US-PA,03 Feb 2019,L8551548,S52348225
+308,Snow Bunting - Plectrophenax nivalis,160,Minesing Wetlands C.A.--Strongville Road,CA-ON,01 Jan 2018,L1216959,S41533703
+309,Bachman's Sparrow - Peucaea aestivalis,6,Croatan NF--Millis Rd. Savanna,US-NC,29 Jul 2018,L738052,S47526418
+310,Grasshopper Sparrow - Ammodramus savannarum,2,Imperial Grasslands--Main Pond,US-PA,05 May 2018,L677470,S45321615
+311,Chipping Sparrow - Spizella passerina,3,Swarthmore College,US-PA,23 Apr 2016,L4523528,S29135959
+312,Field Sparrow - Spizella pusilla,1,Allegheny NF--Ice Cream Stand,US-PA,04 Aug 2016,L4837176,S30972702
+313,Brewer's Sparrow - Spizella breweri,1,Carson Pass,US-CA,22 Jul 2017,L443507,S38273627
+314,Lark Sparrow - Chondestes grammacus,4,Armour Ranch Rd.,US-CA,12 Aug 2017,L419284,S38624121
+315,American Tree Sparrow - Spizelloides arborea,1,West Corydon Woods (Private),US-PA,19 Dec 2016,L4612063,S33098472
+316,Fox Sparrow - Passerella iliaca,1,Swarthmore College,US-PA,14 Mar 2017,L4523528,S35172730
+317,Dark-eyed Junco - Junco hyemalis,1,West Corydon Woods (Private),US-PA,22 May 2016,L4612063,S29832853
+318,White-crowned Sparrow - Zonotrichia leucophrys,4,Exton Park,US-PA,19 Mar 2017,L1306255,S35296376
+319,White-throated Sparrow - Zonotrichia albicollis,3,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,24 Apr 2016,L504403,S29172057
+320,Vesper Sparrow - Pooecetes gramineus,8,"6501–6763 Manchac Rd, Baton Rouge US-LA (30.3209,-91.0928)",US-LA,11 Feb 2019,L8593195,S52597971
+321,Seaside Sparrow - Ammospiza maritima,3,Bombay Hook National Wildlife Refuge,US-DE,15 May 2017,L126637,S36898791
+322,Saltmarsh Sparrow - Ammospiza caudacuta,2,Hammonasset Beach SP--Meig's Point Parking Lot/Marshes,US-CT,07 Jul 2019,L1880516,S58012465
+323,Savannah Sparrow - Passerculus sandwichensis,3,Bombay Hook National Wildlife Refuge,US-DE,15 May 2017,L126637,S36898791
+324,Henslow's Sparrow - Centronyx henslowii,2,Imperial Grasslands--West,US-PA,05 May 2018,L1521769,S45321610
+325,Song Sparrow - Melospiza melodia,15,Gulf Islands National Seashore--Fort Pickens,US-FL,09 Mar 2016,L127303,S28069882
+326,Lincoln's Sparrow - Melospiza lincolnii,1,"Jackson Park, Chicago",US-IL,13 Oct 2018,L265942,S49169135
+327,Swamp Sparrow - Melospiza georgiana,1,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,24 Apr 2016,L504403,S29172057
+328,California Towhee - Melozone crissalis,2,Putah Creek--Levee Rd.,US-CA,13 Jul 2017,L876147,S38117707
+329,Rufous-crowned Sparrow - Aimophila ruficeps,1,Refugio Rd--first creek crossing,US-CA,12 Aug 2017,L3201313,S38623858
+330,Green-tailed Towhee - Pipilo chlorurus,2,Carson Pass,US-CA,22 Jul 2017,L443507,S38273627
+331,Spotted Towhee - Pipilo maculatus,2,Putah Creek--Levee Rd.,US-CA,13 Jul 2017,L876147,S38117707
+332,Eastern Towhee - Pipilo erythrophthalmus,2,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,24 Apr 2016,L504403,S29172057
+333,Yellow-breasted Chat - Icteria virens,1,Montour Trail--Boggs Rd.,US-PA,25 May 2018,L2363679,S46004771
+334,Yellow-headed Blackbird - Xanthocephalus xanthocephalus,2,Howard Marsh Metropark,US-OH,11 May 2019,L4971040,S56178505
+335,Bobolink - Dolichonyx oryzivorus,3,Champlin Hill Rd.,US-PA,25 May 2016,L5892115,S29900283
+336,Western Meadowlark - Sturnella neglecta,1,Yolo Bypass Wildlife Area,US-CA,15 Jul 2017,L443535,S38145260
+337,Eastern Meadowlark - Sturnella magna,1,Champlin Hill Rd.,US-PA,25 May 2016,L5892115,S29900283
+338,Orchard Oriole - Icterus spurius,1,Shawmut Trail,US-PA,28 May 2016,L2237965,S37587055
+339,Hooded Oriole - Icterus cucullatus,1,South Davis Greenway,US-CA,09 Jul 2017,L5086996,S38052075
+340,Bullock's Oriole - Icterus bullockii,1,Putah Creek--Levee Rd.,US-CA,13 Jul 2017,L876147,S38117707
+341,Baltimore Oriole - Icterus galbula,1,Swarthmore College,US-PA,10 May 2016,L4523528,S29534238
+342,Black-backed Oriole - Icterus abeillei,1,"stakeout Black-backed Oriole, Sinking Spring (2017)",US-PA,05 Feb 2017,L5398071,S34171657
+343,Red-winged Blackbird - Agelaius phoeniceus,50,Big Lagoon SP,US-FL,10 Mar 2016,L142736,S28079819
+344,Brown-headed Cowbird - Molothrus ater,5,Crum Woods,US-PA,14 May 2016,L559205,S29631007
+345,Rusty Blackbird - Euphagus carolinus,1,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,24 Apr 2016,L504403,S29172057
+346,Brewer's Blackbird - Euphagus cyanocephalus,2,Davis WTP,US-CA,16 Jul 2017,L453489,S38177667
+347,Common Grackle - Quiscalus quiscula,10,Swarthmore College,US-PA,23 Apr 2016,L4523528,S29135959
+348,Boat-tailed Grackle - Quiscalus major,1,Bonner Bridge (South Rock Jetty),US-NC,27 Jul 2018,L2573474,S47475219
+349,Great-tailed Grackle - Quiscalus mexicanus,1,Davis WTP,US-CA,16 Jul 2017,L453489,S38177667
+350,Ovenbird - Seiurus aurocapilla,5,Allegheny NF--Timberdoodle Flats,US-PA,23 May 2016,L1501142,S29858188
+351,Worm-eating Warbler - Helmitheros vermivorum,2,Harrison Hills County Park,US-PA,26 May 2018,L188881,S46036717
+352,Louisiana Waterthrush - Parkesia motacilla,1,Crum Woods--North of Viaduct,US-PA,06 Apr 2017,L5525855,S35735553
+353,Northern Waterthrush - Parkesia noveboracensis,1,University of Chicago,US-IL,13 Oct 2018,L4300325,S49159291
+354,Golden-winged Warbler - Vermivora chrysoptera,1,Frick Park,US-PA,06 May 2018,L190706,S45363031
+355,Blue-winged Warbler - Vermivora cyanoptera,1,Shawmut Trail,US-PA,28 May 2016,L2237965,S29953323
+356,Black-and-white Warbler - Mniotilta varia,1,Crum Woods,US-PA,24 Sep 2016,L559205,S31729900
+357,Prothonotary Warbler - Protonotaria citrea,1,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,22 Apr 2017,L504403,S36166966
+358,Swainson's Warbler - Limnothlypis swainsonii,4,"New River Gorge--Fern Creek, Endless Wall Trailhead #2",US-WV,30 Jun 2018,L3568751,S46928721
+359,Tennessee Warbler - Oreothlypis peregrina,1,Allegheny NF--Timberdoodle Flats,US-PA,06 Oct 2017,L1501142,S39579483
+360,Orange-crowned Warbler - Oreothlypis celata,1,Carson Pass,US-CA,22 Jul 2017,L443507,S38273627
+361,Nashville Warbler - Oreothlypis ruficapilla,1,Carson Pass,US-CA,22 Jul 2017,L443507,S38273627
+362,Mourning Warbler - Geothlypis philadelphia,1,Allegheny NF--Ice Cream Stand,US-PA,11 Aug 2016,L4837176,S31056863
+363,Kentucky Warbler - Geothlypis formosa,1,Powdermill Nature Reserve,US-PA,23 May 2018,L129779,S45972452
+364,Common Yellowthroat - Geothlypis trichas,1,Crum Woods,US-PA,14 May 2016,L559205,S29631007
+365,Hooded Warbler - Setophaga citrina,3,West Corydon Woods (Private),US-PA,18 May 2016,L4612063,S29754005
+366,American Redstart - Setophaga ruticilla,1,Crum Woods,US-PA,14 May 2016,L559205,S29631007
+367,Cape May Warbler - Setophaga tigrina,1,Frick Park,US-PA,07 May 2018,L190706,S45405741
+368,Cerulean Warbler - Setophaga cerulea,1,Strouss Rd.,US-PA,25 May 2018,L2088071,S46009412
+369,Northern Parula - Setophaga americana,1,US-Pennsylvania-Swarthmore-730 Yale Ave - 39.897x-75.352,US-PA,15 May 2016,L4604488,S29680163
+370,Magnolia Warbler - Setophaga magnolia,1,West Corydon Woods (Private),US-PA,17 May 2016,L4612063,S29731406
+371,Bay-breasted Warbler - Setophaga castanea,1,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,02 Oct 2016,L504403,S31855270
+372,Blackburnian Warbler - Setophaga fusca,1,West Corydon Woods (Private),US-PA,01 Jul 2016,L4612063,S30481598
+373,Yellow Warbler - Setophaga petechia,1,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,24 Apr 2016,L504403,S29172057
+374,Chestnut-sided Warbler - Setophaga pensylvanica,2,West Corydon Woods (Private),US-PA,18 May 2016,L4612063,S29754005
+375,Blackpoll Warbler - Setophaga striata,3,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,28 Apr 2017,L504403,S36340026
+376,Black-throated Blue Warbler - Setophaga caerulescens,1,West Corydon Woods (Private),US-PA,17 May 2016,L4612063,S29731406
+377,Palm Warbler - Setophaga palmarum,3,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,16 Apr 2017,L504403,S36010878
+378,Pine Warbler - Setophaga pinus,1,Crum Woods--North of Viaduct,US-PA,02 Apr 2017,L5525855,S35638307
+379,Yellow-rumped Warbler - Setophaga coronata,1,Gulf Islands National Seashore--Fort Pickens,US-FL,09 Mar 2016,L127303,S28069882
+380,Yellow-throated Warbler - Setophaga dominica,8,Allegheny Land Trust--Wingfield Pines,US-PA,15 Apr 2018,L907532,S44602747
+381,Prairie Warbler - Setophaga discolor,2,Crum Woods,US-PA,29 Apr 2017,L559205,S36389225
+382,Black-throated Gray Warbler - Setophaga nigrescens,1,Kinevan Rd.,US-CA,12 Aug 2017,L1412060,S38623820
+383,Hermit Warbler - Setophaga occidentalis,4,Carson Pass,US-CA,22 Jul 2017,L443507,S38273627
+384,Black-throated Green Warbler - Setophaga virens,1,West Corydon Woods (Private),US-PA,17 May 2016,L4612063,S29731406
+385,Canada Warbler - Cardellina canadensis,1,Laurel Hill SP,US-PA,31 Jul 2018,L1239988,S47580451
+386,Wilson's Warbler - Cardellina pusilla,1,Bombay Hook National Wildlife Refuge,US-DE,15 May 2017,L126637,S36898791
+387,Summer Tanager - Piranga rubra,1,"227–1399 Victory Rd, Ellenboro US-WV (39.2469,-81.0545)",US-WV,29 Jun 2018,L7643413,S46877342
+388,Scarlet Tanager - Piranga olivacea,2,West Corydon Woods (Private),US-PA,18 May 2016,L4612063,S29754005
+389,Western Tanager - Piranga ludoviciana,1,Putah Creek--Levee Rd.,US-CA,13 Jul 2017,L876147,S38117707
+390,Northern Cardinal - Cardinalis cardinalis,3,Big Lagoon SP,US-FL,10 Mar 2016,L142736,S28079819
+391,Rose-breasted Grosbeak - Pheucticus ludovicianus,1,Crum Woods,US-PA,14 May 2016,L559205,S29631007
+392,Black-headed Grosbeak - Pheucticus melanocephalus,1,Putah Creek--Levee Rd.,US-CA,13 Jul 2017,L876147,S38117707
+393,Blue Grosbeak - Passerina caerulea,1,Augustine Wildlife Area--Ashton Tract,US-DE,15 May 2017,L3013541,S36898794
+394,Indigo Bunting - Passerina cyanea,1,West Corydon Woods (Private),US-PA,22 May 2016,L4612063,S29837952
+395,Painted Bunting - Passerina ciris,1,Fort Macon SP--Visitor's Center,US-NC,29 Jul 2018,L5977434,S47526390
+396,Dickcissel - Spiza americana,4,Underwood Rd. area,US-MD,31 Jul 2018,L4195955,S47567948
+397,House Sparrow - Passer domesticus,8,Swarthmore College,US-PA,23 Apr 2016,L4523528,S29135959
+398,Scaly-breasted Munia - Lonchura punctulata,1,Devereux Slough,US-CA,03 Aug 2017,L615794,S38457734

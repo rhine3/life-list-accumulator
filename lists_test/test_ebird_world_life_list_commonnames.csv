@@ -1,0 +1,399 @@
+Row #,Species,Count,Location,S/P,Date,LocID,SubID
+1,Black-bellied Whistling-Duck,12,Bayou Sauvage NWR--Ridge Trail,US-LA,04 Aug 2018,L6366407,S47645432
+2,Snow Goose,150,Middle Creek WMA (IBA) (Lancaster Co.),US-PA,19 Mar 2017,L831953,S35296385
+3,Greater White-fronted Goose,1,"stakeout Black-backed Oriole, Sinking Spring (2017)",US-PA,05 Feb 2017,L5398071,S34171657
+4,Brant,105,"Gravesend Bay, middle parking lot",US-NY,02 Dec 2017,L1843449,S40856802
+5,Canada Goose,2,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,24 Apr 2016,L504403,S29172057
+6,Mute Swan,2,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,03 Dec 2016,L504403,S32834997
+7,Black Swan,4,"stakeout Bullock’s Oriole, location (2018-2019)",US-LA,11 Feb 2019,L8593071,S52597958
+8,Trumpeter Swan,2,Montezuma NWR--Wildlife Drive,US-NY,20 Aug 2016,L267814,S31162957
+9,Tundra Swan,50,Juniata River--Casner's Crossing,US-PA,12 Mar 2017,L1853784,S35127501
+10,Wood Duck,2,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,24 Apr 2016,L504403,S29172057
+11,Blue-winged Teal,7,Montezuma NWR--Wildlife Drive,US-NY,20 Aug 2016,L267814,S31162957
+12,Northern Shoveler,1,Montezuma NWR--Wildlife Drive,US-NY,20 Aug 2016,L267814,S31162957
+13,Gadwall,15,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,03 Dec 2016,L504403,S32834997
+14,American Wigeon,1,Point Park,US-PA,12 Jan 2017,L5249506,S33619064
+15,Mallard,3,Crum Woods,US-PA,14 May 2016,L559205,S29631007
+16,American Black Duck,2,Eagleview Pond (roadside access only),US-PA,19 Mar 2017,L3524568,S35296377
+17,Northern Pintail,1,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,02 Oct 2016,L504403,S31855270
+18,Green-winged Teal,4,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,02 Oct 2016,L504403,S31855270
+19,Canvasback,1,Marsh Creek SP,US-PA,19 Mar 2017,L272015,S35296379
+20,Redhead,24,Alum Creek SP--Beach and Alum Reservoir South,US-OH,03 Jan 2017,L1335935,S33404067
+21,Ring-necked Duck,6,State Game Lands 301--West Eldred Swamp,US-PA,08 Mar 2017,L1460841,S35041803
+22,Greater Scaup,3,Marsh Creek SP,US-PA,19 Mar 2017,L272015,S35296379
+23,Lesser Scaup,1,Stewart Park,US-NY,09 Mar 2017,L99381,S35072782
+24,King Eider,1,"Bass Rocks, Gloucester",US-MA,08 Jul 2019,L383673,S58024571
+25,Common Eider,24,"Bass Rocks, Gloucester",US-MA,08 Jul 2019,L383673,S58024571
+26,Harlequin Duck,1,Kittanning--Lock & Dam 7,US-PA,22 Feb 2019,L2607871,S53017065
+27,Surf Scoter,2,Sandy Hook--C Lot & Beach,US-NJ,03 Dec 2017,L2445730,S40924119
+28,White-winged Scoter,1,Sandy Hook--South Beach area,US-NJ,03 Dec 2017,L1103086,S40923987
+29,Black Scoter,6,Sandy Hook--South Beach area,US-NJ,03 Dec 2017,L1103086,S40923987
+30,Long-tailed Duck,1,Presque Isle SP (IBA),US-PA,14 Nov 2017,L129756,S40514605
+31,Bufflehead,4,Big Lagoon SP,US-FL,10 Mar 2016,L142736,S28079819
+32,Common Goldeneye,4,Presque Isle SP (IBA),US-PA,14 Nov 2017,L129756,S40514605
+33,Hooded Merganser,8,Betts Park,US-PA,12 Jan 2017,L5249678,S33620753
+34,Common Merganser,3,Point Park,US-PA,12 Jan 2017,L5249506,S33619064
+35,Red-breasted Merganser,1,Project Green Shores,US-FL,11 Mar 2016,L142719,S28095573
+36,Ruddy Duck,24,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,03 Dec 2016,L504403,S32834997
+37,Northern Bobwhite,2,Piney Grove Preserve,US-VA,26 Jul 2018,L555556,S47473576
+38,California Quail,49,Chesbro Reservoir,US-CA,05 Aug 2017,L463314,S38490792
+39,Ring-necked Pheasant,4,Middle Creek WMA (IBA) (Lancaster Co.),US-PA,19 Mar 2017,L831953,S35296391
+40,Ruffed Grouse,1,Allegheny NF--Timberdoodle Flats,US-PA,23 May 2017,L1501142,S37089248
+41,Spruce Grouse,1,"Moose Bog, Wenlock WMA",US-VT,10 Jul 2019,L207476,S58079034
+42,Wild Turkey,4,US-Pennsylvania-Marienville-44254 Pennsylvania 66 - 41.538x-79.04,US-PA,01 Jul 2016,L4751173,S30482253
+43,Pied-billed Grebe,2,Big Lagoon SP,US-FL,10 Mar 2016,L142736,S28079819
+44,Horned Grebe,2,Project Green Shores,US-FL,11 Mar 2016,L142719,S28095573
+45,Red-necked Grebe,1,Moraine SP--South Shore,US-PA,02 Mar 2019,L589807,S53293462
+46,Western Grebe,4,Ocean Beach County Park,US-CA,12 Aug 2017,L989821,S38623831
+47,Clark's Grebe,1,Chesbro Reservoir,US-CA,05 Aug 2017,L463314,S38490803
+48,Rock Pigeon,15,Project Green Shores,US-FL,11 Mar 2016,L142719,S28095573
+49,Band-tailed Pigeon,3,Carson Pass,US-CA,22 Jul 2017,L443507,S38273627
+50,Eurasian Collared-Dove,2,South Davis Greenway,US-CA,09 Jul 2017,L5086996,S38052075
+51,White-winged Dove,7,Peveto Woods - Baton Rouge Audubon Society Sanctuary,US-LA,10 Feb 2019,L210301,S52621157
+52,Mourning Dove,3,Big Lagoon SP,US-FL,10 Mar 2016,L142736,S28079819
+53,Yellow-billed Cuckoo,1,Boyce-Mayview Park,US-PA,20 May 2018,L720522,S45874934
+54,Black-billed Cuckoo,1,Allegheny NF--Annie,US-PA,01 Sep 2017,L4986082,S38942127
+55,Lesser Nighthawk,1,Coal Oil Point,US-CA,07 Aug 2017,L422817,S38544618
+56,Common Nighthawk,1,Murray Ave.,US-PA,08 May 2018,L7040724,S45470126
+57,Eastern Whip-poor-will,8,Mt. Davis Natural Area,US-PA,19 Jun 2018,L2215592,S46672489
+58,Chimney Swift,2,Swarthmore College,US-PA,23 Apr 2016,L4523528,S29135959
+59,White-throated Swift,1,South Davis Greenway,US-CA,09 Jul 2017,L5086996,S38052075
+60,Ruby-throated Hummingbird,1,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,24 Apr 2016,L504403,S29172057
+61,Anna's Hummingbird,1,South Davis Greenway,US-CA,09 Jul 2017,L5086996,S38052075
+62,Rufous Hummingbird,3,Carson Pass,US-CA,22 Jul 2017,L443507,S38273627
+63,Allen's Hummingbird,1,UC Santa Barbara--campus,US-CA,01 Aug 2017,L654260,S38430828
+64,King Rail,6,Mackay Island NWR,US-NC,30 Jul 2018,L302859,S47553509
+65,Clapper Rail,2,Bombay Hook National Wildlife Refuge,US-DE,15 May 2017,L126637,S36898791
+66,Virginia Rail,1,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,09 Apr 2017,L504403,S35821202
+67,Sora,1,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,09 Apr 2017,L504403,S35821202
+68,Common Gallinule,7,Montezuma NWR--Wildlife Drive,US-NY,20 Aug 2016,L267814,S31162957
+69,American Coot,1,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,24 Apr 2016,L504403,S29172057
+70,Purple Gallinule,2,"2672 Ridgeway Boulevard, New Orleans, Louisiana, US (30.118, -89.867)",US-LA,04 Aug 2018,L7787211,S47647526
+71,Black Rail,1,Bridgeway Island pond,US-CA,22 Jul 2017,L473045,S38279026
+72,Sandhill Crane,1,US-Pennsylvania-Turtlepoint-Railroad Avenue - 41.868x-78.34,US-PA,27 May 2017,L5892118,S37180724
+73,Black-necked Stilt,2,Bombay Hook National Wildlife Refuge,US-DE,15 May 2017,L126637,S36898791
+74,American Avocet,35,Bombay Hook National Wildlife Refuge,US-DE,15 May 2017,L126637,S36898791
+75,American Oystercatcher,2,DuPont Nature Center (Mispillion),US-DE,15 May 2017,L549315,S36898790
+76,Black Oystercatcher,4,Presidio--Battery Godfrey,US-CA,20 Aug 2017,L999240,S38742620
+77,Black-bellied Plover,350,Bombay Hook National Wildlife Refuge,US-DE,15 May 2017,L126637,S36898791
+78,Snowy Plover,1,UC Santa Barbara--West Campus Bluff Trail,US-CA,27 Jul 2017,L1257790,S38345754
+79,Wilson's Plover,2,Fort Macon SP--Visitor's Center,US-NC,29 Jul 2018,L5977434,S47526390
+80,Semipalmated Plover,2,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,02 Oct 2016,L504403,S31855270
+81,Piping Plover,2,Presque Isle SP--Gull Pt.,US-PA,21 Jul 2018,L337068,S47349146
+82,Killdeer,1,Shawmut Trail,US-PA,28 May 2016,L2237965,S29953323
+83,Upland Sandpiper,1,State Game Lands 214--Miller Ponds,US-PA,14 Jun 2018,L527306,S46544846
+84,Whimbrel,2,UC Santa Barbara--Lagoon,US-CA,25 Jul 2017,L1072372,S38315626
+85,Long-billed Curlew,1,Davis WTP,US-CA,16 Jul 2017,L453489,S38177667
+86,Marbled Godwit,1,Davis WTP,US-CA,16 Jul 2017,L453489,S38177667
+87,Ruddy Turnstone,7,Project Green Shores,US-FL,11 Mar 2016,L142719,S28095573
+88,Black Turnstone,7,Campus Pt.,US-CA,03 Aug 2017,L392613,S38461342
+89,Red Knot,10,DuPont Nature Center (Mispillion),US-DE,15 May 2017,L549315,S36898790
+90,Surfbird,1,Campus Pt.,US-CA,14 Aug 2017,L392613,S38643068
+91,Stilt Sandpiper,1,Augustine Wildlife Area--Ashton Tract,US-DE,15 May 2017,L3013541,S36898794
+92,Curlew Sandpiper,1,Bodie Island Lighthouse & Pond,US-NC,27 Jul 2018,L365371,S47483923
+93,Sanderling,10,DuPont Nature Center (Mispillion),US-DE,15 May 2017,L549315,S36898790
+94,Dunlin,10,Augustine Wildlife Area--Ashton Tract,US-DE,15 May 2017,L3013541,S36898794
+95,Purple Sandpiper,3,"Gravesend Bay, middle parking lot",US-NY,02 Dec 2017,L1843449,S40856802
+96,Baird's Sandpiper,1,Reservoir Number Four,US-PA,01 Sep 2018,L668561,S48270037
+97,Least Sandpiper,2,Montezuma NWR--Wildlife Drive,US-NY,20 Aug 2016,L267814,S31162957
+98,White-rumped Sandpiper,1,Pea Island NWR--Salt Flats Wildlife Trail,US-NC,27 Jul 2018,L1555375,S47476757
+99,Pectoral Sandpiper,1,Montezuma NWR--Wildlife Drive,US-NY,20 Aug 2016,L267814,S31162957
+100,Semipalmated Sandpiper,50,Augustine WA--Port Penn Tract,US-DE,15 May 2017,L361675,S36898793
+101,Western Sandpiper,200,Yolo Bypass Wildlife Area,US-CA,15 Jul 2017,L443535,S38145260
+102,Short-billed Dowitcher,2,Augustine WA--Port Penn Tract,US-DE,15 May 2017,L361675,S36898793
+103,Long-billed Dowitcher,1,Montezuma NWR--Wildlife Drive,US-NY,20 Aug 2016,L267814,S31162957
+104,American Woodcock,1,Middle Creek WMA (IBA) (Lancaster Co.),US-PA,19 Mar 2017,L831953,S35296391
+105,Wilson's Snipe,1,Montezuma NWR--Wildlife Drive,US-NY,20 Aug 2016,L267814,S31162957
+106,Wilson's Phalarope,3,Davis WTP,US-CA,16 Jul 2017,L453489,S38177667
+107,Red-necked Phalarope,1,Dune Pond at COPR,US-CA,13 Aug 2017,L2135075,S38630998
+108,Spotted Sandpiper,1,Hamlin Lake Park,US-PA,07 Aug 2016,L2237876,S31004716
+109,Solitary Sandpiper,1,Crum Woods,US-PA,11 May 2017,L559205,S36731267
+110,Wandering Tattler,5,Campus Pt.,US-CA,03 Aug 2017,L392613,S38461342
+111,Greater Yellowlegs,2,Montezuma NWR--Wildlife Drive,US-NY,20 Aug 2016,L267814,S31162957
+112,Willet,18,DuPont Nature Center (Mispillion),US-DE,15 May 2017,L549315,S36898790
+113,Lesser Yellowlegs,5,Montezuma NWR--Wildlife Drive,US-NY,20 Aug 2016,L267814,S31162957
+114,Pigeon Guillemot,2,Santa Cruz Island (SBA Co.),US-CA,30 Jul 2017,L109506,S38431098
+115,Sabine's Gull,1,Kahle Lake (Clarion Co.),US-PA,07 Sep 2017,L2407336,S39059070
+116,Bonaparte's Gull,1,US-Florida-Gulf Breeze-16 Via De Luna Dr - 30.332x-87.135,US-FL,12 Mar 2016,L4374331,S28114522
+117,Laughing Gull,51,Project Green Shores,US-FL,11 Mar 2016,L142719,S28095573
+118,Franklin's Gull,1,Lake Somerset (IBA),US-PA,19 Jun 2018,L129780,S46672454
+119,Heermann's Gull,5,UC Santa Barbara--West Campus Bluff Trail,US-CA,27 Jul 2017,L1257790,S38345754
+120,Ring-billed Gull,12,Project Green Shores,US-FL,11 Mar 2016,L142719,S28095573
+121,Western Gull,1,UC Santa Barbara--Lagoon,US-CA,24 Jul 2017,L1072372,S38309207
+122,California Gull,3,Yolo Bypass Wildlife Area,US-CA,15 Jul 2017,L443535,S38145260
+123,Herring Gull,11,Project Green Shores,US-FL,11 Mar 2016,L142719,S28095573
+124,Glaucous-winged Gull,1,Goleta Beach County Park,US-CA,13 Aug 2017,L375164,S38629831
+125,Great Black-backed Gull,1,Stewart Park,US-NY,09 Mar 2017,L99381,S35072782
+126,Least Tern,10,Ocean Beach County Park,US-CA,12 Aug 2017,L989821,S38623831
+127,Gull-billed Tern,1,"1 Way Road, Buxton, North Carolina, US (35.308, -75.51)",US-NC,27 Jul 2018,L7757839,S47483828
+128,Caspian Tern,13,Montezuma NWR--Wildlife Drive,US-NY,20 Aug 2016,L267814,S31162957
+129,Black Tern,4,"1 Way Road, Buxton, North Carolina, US (35.308, -75.51)",US-NC,27 Jul 2018,L7757839,S47483828
+130,Common Tern,15,Presque Isle SP--Gull Pt.,US-PA,21 Jul 2018,L337068,S47349146
+131,Forster's Tern,3,Bombay Hook National Wildlife Refuge,US-DE,15 May 2017,L126637,S36898791
+132,Royal Tern,14,Project Green Shores,US-FL,11 Mar 2016,L142719,S28095573
+133,Sandwich Tern,6,Pea Island NWR--Salt Flats Wildlife Trail,US-NC,27 Jul 2018,L1555375,S47476757
+134,Elegant Tern,60,Campus Pt.,US-CA,03 Aug 2017,L392613,S38461342
+135,Black Skimmer,1,Bombay Hook National Wildlife Refuge,US-DE,15 May 2017,L126637,S36898791
+136,Red-throated Loon,3,Sandy Hook--C Lot & Beach,US-NJ,03 Dec 2017,L2445730,S40924119
+137,Pacific Loon,1,Surf Beach,US-CA,26 Aug 2017,L969581,S38840118
+138,Common Loon,2,Big Lagoon SP,US-FL,10 Mar 2016,L142736,S28079819
+139,Wilson's Storm-Petrel,5,"Andrews Point, Rockport",US-MA,08 Jul 2019,L279945,S58026618
+140,Sooty Shearwater,20,Santa Barbara Channel--east channel (SBA Co.),US-CA,30 Jul 2017,L367650,S38431077
+141,Black-vented Shearwater,40,Santa Barbara Channel--east channel (SBA Co.),US-CA,30 Jul 2017,L367650,S38431077
+142,Northern Gannet,4,"Andrews Point, Rockport",US-MA,08 Jul 2019,L279945,S58026618
+143,Anhinga,2,Bayou Sauvage NWR--Ridge Trail,US-LA,04 Aug 2018,L6366407,S47645432
+144,Brandt's Cormorant,30,Santa Cruz Island (SBA Co.),US-CA,30 Jul 2017,L109506,S38431098
+145,Pelagic Cormorant,1,Campus Pt.,US-CA,14 Aug 2017,L392613,S38643068
+146,Neotropic Cormorant,18,Sabine NWR,US-LA,10 Feb 2019,L8587956,S52566467
+147,Double-crested Cormorant,15,Project Green Shores,US-FL,11 Mar 2016,L142719,S28095573
+148,American White Pelican,8,Yolo Bypass Wildlife Area,US-CA,16 Jul 2017,L443535,S38177805
+149,Brown Pelican,9,Gulf Islands National Seashore--Fort Pickens,US-FL,09 Mar 2016,L127303,S28069882
+150,American Bittern,1,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,24 Apr 2016,L504403,S29172057
+151,Least Bittern,1,Conneaut Marsh--McMichael/Browns Hill Rd.,US-PA,21 Jul 2018,L733414,S47335893
+152,Great Blue Heron,2,Gulf Islands National Seashore--Fort Pickens,US-FL,09 Mar 2016,L127303,S28069882
+153,Great Egret,2,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,24 Apr 2016,L504403,S29172057
+154,Little Egret,1,Augustine Wildlife Area--Ashton Tract,US-DE,15 May 2017,L3013541,S36898794
+155,Snowy Egret,1,Project Green Shores,US-FL,11 Mar 2016,L142719,S28095573
+156,Little Blue Heron,2,Augustine Wildlife Area--Ashton Tract,US-DE,15 May 2017,L3013541,S36898794
+157,Tricolored Heron,2,Pea Island NWR--Salt Flats Wildlife Trail,US-NC,27 Jul 2018,L1555375,S47476757
+158,Reddish Egret,1,Ocean Beach County Park,US-CA,12 Aug 2017,L989821,S38623831
+159,Cattle Egret,1, Thorntown Rd Horse Farm,US-DE,15 May 2017,L5769925,S36898788
+160,Green Heron,1,Shawmut Trail,US-PA,28 May 2016,L2237965,S29953323
+161,Black-crowned Night-Heron,1,South Ferry incl. Staten I. + Gov. I. Ferry Terminals,US-NY,14 May 2017,L4024804,S36854876
+162,Yellow-crowned Night-Heron,2,Ocracoke Island--Hammock Hills Nature Trail,US-NC,28 Jul 2018,L1160919,S47507211
+163,White Ibis,2,Pea Island NWR--Old Coast Guard Station,US-NC,27 Jul 2018,L210417,S47476768
+164,Glossy Ibis,4,Augustine Wildlife Area--Ashton Tract,US-DE,15 May 2017,L3013541,S36898794
+165,White-faced Ibis,35,Yolo Bypass Wildlife Area,US-CA,15 Jul 2017,L443535,S38145260
+166,Roseate Spoonbill,1,Fabacher Rd.,US-LA,10 Feb 2019,L727252,S52557592
+167,Black Vulture,2,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,24 Apr 2016,L504403,S29172057
+168,Turkey Vulture,1,Crum Woods,US-PA,16 May 2016,L559205,S29705538
+169,Osprey,5,Gulf Islands National Seashore--Fort Pickens,US-FL,09 Mar 2016,L127303,S28069882
+170,White-tailed Kite,2,Yolo Bypass Wildlife Area,US-CA,16 Jul 2017,L443535,S38177805
+171,Swallow-tailed Kite,1,US-Florida-McDavid-S Century Blvd - 30.815x-87.335,US-FL,09 Mar 2016,L4375109,S28120098
+172,Golden Eagle,2,Zaca Station Rd.,US-CA,26 Aug 2017,L778646,S38871417
+173,Mississippi Kite,1,"Ridgeway Boulevard, New Orleans, Louisiana, US (30.075, -89.862)",US-LA,04 Aug 2018,L7786936,S47646069
+174,Northern Harrier,1,Montezuma NWR--Wildlife Drive,US-NY,20 Aug 2016,L267814,S31162957
+175,Sharp-shinned Hawk,1,Sewickley Heights Borough Park,US-PA,28 Apr 2018,L712403,S45040154
+176,Cooper's Hawk,1,Swarthmore College,US-PA,23 Apr 2016,L4523528,S29135959
+177,Bald Eagle,1,Allegheny NF--Sugar Bay (McKean Co.),US-PA,21 Jul 2016,L4807045,S30797974
+178,Red-shouldered Hawk,1,Allegheny NF--Ice Cream Stand,US-PA,11 Aug 2016,L4837176,S31056863
+179,Broad-winged Hawk,1,"Allegany SP--Red House Maintenance Area, S Mtn Rd.",US-NY,26 May 2016,L5895064,S29920720
+180,Swainson's Hawk,8,Putah Creek--Levee Rd.,US-CA,13 Jul 2017,L876147,S38117707
+181,Red-tailed Hawk,1,Crum Woods,US-PA,14 May 2016,L559205,S29631007
+182,Rough-legged Hawk,1,"(41.779, -79.993)",US-PA,16 Feb 2018,L6930436,S42859772
+183,Barn Owl,2,US-California-Davis-501-503 4th Street - 38.546x-121.743,US-CA,19 Jul 2017,L6104873,S38228495
+184,Eastern Screech-Owl,1,Mary Lyons Dormitory,US-PA,20 Sep 2016,L4938523,S31684315
+185,Great Horned Owl,2,Crum Woods,US-PA,18 Nov 2016,L559205,S32611551
+186,Snowy Owl,2,Presque Isle SP (IBA),US-PA,14 Nov 2017,L129756,S40514605
+187,Burrowing Owl,1,CR30B (YOL Co.),US-CA,16 Jul 2017,L4619295,S38177702
+188,Barred Owl,1,Allegheny NF--Sugar Bay (Warren County),US-PA,16 Jul 2016,L4798800,S30751582
+189,Short-eared Owl,1,Middle Creek WMA (IBA) (Lancaster Co.),US-PA,19 Mar 2017,L831953,S35296391
+190,Northern Saw-whet Owl,2,Allegheny NF--Saw Whets,US-PA,08 Oct 2016,L4978454,S31967430
+191,Belted Kingfisher,1,Big Lagoon SP,US-FL,10 Mar 2016,L142736,S28079819
+192,Yellow-bellied Sapsucker,2,"Allegany SP--Red House Maintenance Area, S Mtn Rd.",US-NY,03 Jul 2016,L5895064,S30509369
+193,Red-headed Woodpecker,4,Eldon Haught Lakeside Recreation Area,US-WV,29 Jun 2018,L2973269,S46877340
+194,Acorn Woodpecker,1,South Davis Greenway,US-CA,09 Jul 2017,L5086996,S38052075
+195,Red-bellied Woodpecker,2,Swarthmore College,US-PA,23 Apr 2016,L4523528,S29135959
+196,Black-backed Woodpecker,1,Silvio O. Conte NWR--Peanut Dam Road,US-VT,10 Jul 2019,L474087,S58079044
+197,Downy Woodpecker,2,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,24 Apr 2016,L504403,S29172057
+198,Nuttall's Woodpecker,1,South Davis Greenway,US-CA,09 Jul 2017,L5086996,S38052075
+199,Red-cockaded Woodpecker,3,Piney Grove Preserve,US-VA,26 Jul 2018,L555556,S47473576
+200,Hairy Woodpecker,2,Crum Woods,US-PA,11 Sep 2016,L559205,S31526507
+201,Pileated Woodpecker,1,Swarthmore College,US-PA,23 Apr 2016,L4523528,S29135959
+202,Northern Flicker,2,Crum Woods,US-PA,14 May 2016,L559205,S29631007
+203,Crested Caracara,1,Fabacher Rd.,US-LA,10 Feb 2019,L727252,S52557592
+204,American Kestrel,1,Intercourse~Old Philadelphia Pike,US-PA,19 Mar 2017,L5593500,S35296383
+205,Merlin,1,Allegany State Park--Red House Lake Fishing Pier,US-NY,26 May 2016,L4642174,S29920864
+206,Peregrine Falcon,1,DuPont Nature Center (Mispillion),US-DE,15 May 2017,L549315,S36898790
+207,Monk Parakeet,9,"Annunciation Street (29.935, -90.069)",US-LA,09 Aug 2018,L7805528,S47802383
+208,Red-masked Parakeet,6,Lafayette Park (SF Co.),US-CA,20 Aug 2017,L1014322,S38742656
+209,Olive-sided Flycatcher,1,Allegheny NF--Ice Cream Stand,US-PA,11 Sep 2017,L4837176,S39132640
+210,Western Wood-Pewee,3,Refugio Creek Canyon,US-CA,12 Aug 2017,L454599,S38623926
+211,Eastern Wood-Pewee,1,Crum Woods,US-PA,14 May 2016,L559205,S29631007
+212,Yellow-bellied Flycatcher,1,Allegheny NF--Annie,US-PA,01 Sep 2017,L4986082,S38942127
+213,Acadian Flycatcher,1,Crum Woods,US-PA,14 May 2016,L559205,S29631007
+214,Alder Flycatcher,1,"Allegany SP--Red House Maintenance Area, S Mtn Rd.",US-NY,26 May 2016,L5895064,S29920720
+215,Willow Flycatcher,2,Champlin Hill Rd.,US-PA,25 May 2016,L5892115,S29899758
+216,Least Flycatcher,1,"Allegany SP--Red House Maintenance Area, S Mtn Rd.",US-NY,19 Jun 2016,L5895064,S30325588
+217,Dusky Flycatcher,2,Carson Pass,US-CA,22 Jul 2017,L443507,S38273627
+218,Pacific-slope Flycatcher,3,Kinevan Rd.,US-CA,12 Aug 2017,L1412060,S38623820
+219,Black Phoebe,4,UC Davis--Arboretum,US-CA,12 Jul 2017,L447347,S38099640
+220,Eastern Phoebe,1,Gulf Islands National Seashore--Fort Pickens,US-FL,09 Mar 2016,L127303,S28069882
+221,Say's Phoebe,2,UC Santa Barbara--West Campus Bluff Trail,US-CA,27 Jul 2017,L1257790,S38345754
+222,Vermilion Flycatcher,1,"6501–6763 Manchac Rd, Baton Rouge US-LA (30.3209,-91.0928)",US-LA,11 Feb 2019,L8593195,S52597971
+223,Ash-throated Flycatcher,3,South Davis Greenway,US-CA,09 Jul 2017,L5086996,S38052075
+224,Great Crested Flycatcher,1,Furness Park,US-PA,30 Apr 2017,L5599190,S36420330
+225,Cassin's Kingbird,1,Refugio Rd--first creek crossing,US-CA,12 Aug 2017,L3201313,S38623858
+226,Western Kingbird,4,South Davis Greenway,US-CA,09 Jul 2017,L5086996,S38052075
+227,Eastern Kingbird,1,US-Pennsylvania-Swarthmore-314 Rutgers Ave - 39.896x-75.348,US-PA,15 May 2016,L4604968,S29683206
+228,Loggerhead Shrike,1,Project Green Shores,US-FL,11 Mar 2016,L142719,S28095573
+229,Northern Shrike,1,Fairview Industrial Park,US-PA,22 Dec 2018,L1450078,S50869357
+230,White-eyed Vireo,1,Augustine Wildlife Area--Ashton Tract,US-DE,15 May 2017,L3013541,S36898794
+231,Hutton's Vireo,2,Refugio Rd--first creek crossing,US-CA,12 Aug 2017,L3201313,S38623858
+232,Yellow-throated Vireo,2,Crum Woods,US-PA,11 May 2017,L559205,S36731267
+233,Blue-headed Vireo,1,Allegheny NF--Ice Cream Stand,US-PA,11 Aug 2016,L4837176,S31056863
+234,Philadelphia Vireo,1,Frick Park,US-PA,31 Aug 2018,L190706,S48187711
+235,Warbling Vireo,5,Crum Woods,US-PA,14 May 2016,L559205,S29631007
+236,Red-eyed Vireo,1,Crum Woods,US-PA,14 May 2016,L559205,S29631007
+237,Canada Jay,2,Algonquin Provincial Park--Spruce Bog Boardwalk,CA-ON,30 Dec 2017,L351718,S42560763
+238,Steller's Jay,2,Kinevan Rd.,US-CA,12 Aug 2017,L1412060,S38623820
+239,Blue Jay,3,Big Lagoon SP,US-FL,10 Mar 2016,L142736,S28079819
+240,Island Scrub-Jay,3,Santa Cruz Island (SBA Co.),US-CA,30 Jul 2017,L109506,S38431098
+241,California Scrub-Jay,3,US-California-Davis-Halsey Circle & West Park,US-CA,09 Jul 2017,L6070238,S38051563
+242,Yellow-billed Magpie,5,Lincoln Hwy x Hutchinson Dr,US-CA,13 Jul 2017,L6083443,S38117973
+243,Clark's Nutcracker,10,Carson Pass,US-CA,22 Jul 2017,L443507,S38273627
+244,American Crow,5,Swarthmore College,US-PA,23 Apr 2016,L4523528,S29135959
+245,Fish Crow,3,Project Green Shores,US-FL,11 Mar 2016,L142719,S28095573
+246,Common Raven,1,Kinzua Bridge SP,US-PA,10 Jul 2016,L3866367,S30635876
+247,Horned Lark,170,S Groffdale Rd ,US-PA,19 Mar 2017,L5592203,S35296384
+248,Northern Rough-winged Swallow,1,Crum Woods,US-PA,14 May 2016,L559205,S29631007
+249,Purple Martin,2,Bombay Hook National Wildlife Refuge,US-DE,15 May 2017,L126637,S36898791
+250,Tree Swallow,14,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,24 Apr 2016,L504403,S29172057
+251,Violet-green Swallow,2,Carson Pass,US-CA,22 Jul 2017,L443507,S38273627
+252,Bank Swallow,1,Yolo Bypass Wildlife Area,US-CA,16 Jul 2017,L443535,S38177805
+253,Barn Swallow,1,Swarthmore College,US-PA,24 Apr 2016,L4523528,S29163876
+254,Cliff Swallow,10,Crook Farm Trail,US-PA,24 May 2016,L4636287,S29880024
+255,Carolina Chickadee,1,Swarthmore College,US-PA,23 Apr 2016,L4523528,S29135959
+256,Black-capped Chickadee,1,West Corydon Woods (Private),US-PA,17 May 2016,L4612063,S29731406
+257,Mountain Chickadee,10,Carson Pass,US-CA,22 Jul 2017,L443507,S38273627
+258,Chestnut-backed Chickadee,3,"16500 Oak Glen Avenue, Morgan Hill, California, US (37.108, -121.679)",US-CA,05 Aug 2017,L6153663,S38486572
+259,Boreal Chickadee,1,"Moose Bog, Wenlock WMA",US-VT,10 Jul 2019,L207476,S58079034
+260,Oak Titmouse,1,Devereux Slough,US-CA,29 Jul 2017,L615794,S38430888
+261,Tufted Titmouse,3,Swarthmore College,US-PA,23 Apr 2016,L4523528,S29135959
+262,Bushtit,25,South Davis Greenway,US-CA,09 Jul 2017,L5086996,S38052075
+263,Red-breasted Nuthatch,1,"Allegany SP--Red House Maintenance Area, S Mtn Rd.",US-NY,31 Jul 2016,L5895064,S30919264
+264,White-breasted Nuthatch,2,Swarthmore College,US-PA,23 Apr 2016,L4523528,S29135959
+265,Pygmy Nuthatch,2,Presidio--Battery Godfrey,US-CA,20 Aug 2017,L999240,S38742620
+266,Brown-headed Nuthatch,2,Big Lagoon SP,US-FL,10 Mar 2016,L142736,S28079819
+267,Brown Creeper,1,"Allegany SP--Red House Maintenance Area, S Mtn Rd.",US-NY,31 Jul 2016,L5895064,S30919264
+268,House Wren,3,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,24 Apr 2016,L504403,S29172057
+269,Winter Wren,1,Kinzua Bridge SP,US-PA,10 Jul 2016,L3866367,S30635876
+270,Sedge Wren,1,Fabacher Rd.,US-LA,10 Feb 2019,L727252,S52557592
+271,Marsh Wren,2,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,02 Oct 2016,L504403,S31855270
+272,Carolina Wren,1,Swarthmore College,US-PA,23 Apr 2016,L4523528,S29135959
+273,Bewick's Wren,1,Devereux Slough,US-CA,03 Aug 2017,L615794,S38457734
+274,Blue-gray Gnatcatcher,1,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,24 Apr 2016,L504403,S29172057
+275,American Dipper,1,Carson Pass,US-CA,22 Jul 2017,L443507,S38273627
+276,Golden-crowned Kinglet,5,Swarthmore College,US-PA,28 Oct 2016,L4523528,S32495466
+277,Ruby-crowned Kinglet,1,State Game Lands 301--West Eldred Swamp,US-PA,11 Oct 2016,L1460841,S31996042
+278,Wrentit,3,Devereux Slough,US-CA,29 Jul 2017,L615794,S38430888
+279,Eastern Bluebird,1,Big Lagoon SP,US-FL,10 Mar 2016,L142736,S28079819
+280,Western Bluebird,2,South Davis Greenway,US-CA,09 Jul 2017,L5086996,S38052075
+281,Mountain Bluebird,2,Kirkwood (ALP Co.),US-CA,22 Jul 2017,L764672,S38273327
+282,Townsend's Solitaire,1,Carson Pass,US-CA,22 Jul 2017,L443507,S38273627
+283,Veery,1,West Corydon Woods (Private),US-PA,18 May 2016,L4612063,S29754005
+284,Gray-cheeked Thrush,1,West Corydon Woods (Private),US-PA,24 Sep 2017,L4612063,S39360586
+285,Bicknell's Thrush,1,"2399 Toll Road, Burke, Vermont, US (44.571, -71.895)",US-VT,09 Jul 2019,L9616985,S58063444
+286,Swainson's Thrush,2,Crum Woods,US-PA,11 May 2017,L559205,S36731267
+287,Hermit Thrush,1,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,24 Apr 2016,L504403,S29172057
+288,Wood Thrush,2,Crum Woods,US-PA,10 May 2016,L559205,S29540296
+289,American Robin,30,Swarthmore College,US-PA,23 Apr 2016,L4523528,S29135959
+290,Gray Catbird,8,Crum Woods,US-PA,10 May 2016,L559205,S29540296
+291,Brown Thrasher,1,"Allegany SP--Red House Maintenance Area, S Mtn Rd.",US-NY,17 Jul 2016,L5895064,S30728949
+292,California Thrasher,1,Chesbro Reservoir,US-CA,05 Aug 2017,L463314,S38490792
+293,Northern Mockingbird,1,Gulf Islands National Seashore--Fort Pickens,US-FL,09 Mar 2016,L127303,S28069882
+294,European Starling,20,Project Green Shores,US-FL,11 Mar 2016,L142719,S28095573
+295,American Pipit,1,Fabacher Rd.,US-LA,10 Feb 2019,L727252,S52557592
+296,Cedar Waxwing,3,Crum Woods,US-PA,14 May 2016,L559205,S29631007
+297,Evening Grosbeak,24,Algonquin Provincial Park--Visitor Centre,CA-ON,30 Dec 2017,L492744,S41455829
+298,House Finch,4,Big Lagoon SP,US-FL,10 Mar 2016,L142736,S28079819
+299,Purple Finch,1,Allegheny NF--Timberdoodle Flats,US-PA,23 May 2016,L1501142,S29858188
+300,Cassin's Finch,4,Carson Pass,US-CA,22 Jul 2017,L443507,S38273627
+301,Common Redpoll,,Algonquin Provincial Park--Opeongo Road,CA-ON,30 Dec 2017,L710933,S42561216
+302,Red Crossbill,17,Algonquin Provincial Park--Spruce Bog Boardwalk,CA-ON,30 Dec 2017,L351718,S42560763
+303,White-winged Crossbill,,Algonquin Provincial Park--Opeongo Road,CA-ON,30 Dec 2017,L710933,S42561216
+304,Pine Siskin,1,Allegheny NF--Timberdoodle Flats,US-PA,23 May 2016,L1501142,S29858188
+305,Lesser Goldfinch,3,Putah Creek--Levee Rd.,US-CA,13 Jul 2017,L876147,S38117707
+306,American Goldfinch,3,Swarthmore College,US-PA,24 Apr 2016,L4523528,S29163876
+307,Lapland Longspur,2,"360–398 Fox Hollow Rd, Worthington US-PA (40.8216,-79.6084)",US-PA,03 Feb 2019,L8551548,S52348225
+308,Snow Bunting,160,Minesing Wetlands C.A.--Strongville Road,CA-ON,01 Jan 2018,L1216959,S41533703
+309,Bachman's Sparrow,6,Croatan NF--Millis Rd. Savanna,US-NC,29 Jul 2018,L738052,S47526418
+310,Grasshopper Sparrow,2,Imperial Grasslands--Main Pond,US-PA,05 May 2018,L677470,S45321615
+311,Chipping Sparrow,3,Swarthmore College,US-PA,23 Apr 2016,L4523528,S29135959
+312,Field Sparrow,1,Allegheny NF--Ice Cream Stand,US-PA,04 Aug 2016,L4837176,S30972702
+313,Brewer's Sparrow,1,Carson Pass,US-CA,22 Jul 2017,L443507,S38273627
+314,Lark Sparrow,4,Armour Ranch Rd.,US-CA,12 Aug 2017,L419284,S38624121
+315,American Tree Sparrow,1,West Corydon Woods (Private),US-PA,19 Dec 2016,L4612063,S33098472
+316,Fox Sparrow,1,Swarthmore College,US-PA,14 Mar 2017,L4523528,S35172730
+317,Dark-eyed Junco,1,West Corydon Woods (Private),US-PA,22 May 2016,L4612063,S29832853
+318,White-crowned Sparrow,4,Exton Park,US-PA,19 Mar 2017,L1306255,S35296376
+319,White-throated Sparrow,3,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,24 Apr 2016,L504403,S29172057
+320,Vesper Sparrow,8,"6501–6763 Manchac Rd, Baton Rouge US-LA (30.3209,-91.0928)",US-LA,11 Feb 2019,L8593195,S52597971
+321,Seaside Sparrow,3,Bombay Hook National Wildlife Refuge,US-DE,15 May 2017,L126637,S36898791
+322,Saltmarsh Sparrow,2,Hammonasset Beach SP--Meig's Point Parking Lot/Marshes,US-CT,07 Jul 2019,L1880516,S58012465
+323,Savannah Sparrow,3,Bombay Hook National Wildlife Refuge,US-DE,15 May 2017,L126637,S36898791
+324,Henslow's Sparrow,2,Imperial Grasslands--West,US-PA,05 May 2018,L1521769,S45321610
+325,Song Sparrow,15,Gulf Islands National Seashore--Fort Pickens,US-FL,09 Mar 2016,L127303,S28069882
+326,Lincoln's Sparrow,1,"Jackson Park, Chicago",US-IL,13 Oct 2018,L265942,S49169135
+327,Swamp Sparrow,1,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,24 Apr 2016,L504403,S29172057
+328,California Towhee,2,Putah Creek--Levee Rd.,US-CA,13 Jul 2017,L876147,S38117707
+329,Rufous-crowned Sparrow,1,Refugio Rd--first creek crossing,US-CA,12 Aug 2017,L3201313,S38623858
+330,Green-tailed Towhee,2,Carson Pass,US-CA,22 Jul 2017,L443507,S38273627
+331,Spotted Towhee,2,Putah Creek--Levee Rd.,US-CA,13 Jul 2017,L876147,S38117707
+332,Eastern Towhee,2,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,24 Apr 2016,L504403,S29172057
+333,Yellow-breasted Chat,1,Montour Trail--Boggs Rd.,US-PA,25 May 2018,L2363679,S46004771
+334,Yellow-headed Blackbird,2,Howard Marsh Metropark,US-OH,11 May 2019,L4971040,S56178505
+335,Bobolink,3,Champlin Hill Rd.,US-PA,25 May 2016,L5892115,S29900283
+336,Western Meadowlark,1,Yolo Bypass Wildlife Area,US-CA,15 Jul 2017,L443535,S38145260
+337,Eastern Meadowlark,1,Champlin Hill Rd.,US-PA,25 May 2016,L5892115,S29900283
+338,Orchard Oriole,1,Shawmut Trail,US-PA,28 May 2016,L2237965,S37587055
+339,Hooded Oriole,1,South Davis Greenway,US-CA,09 Jul 2017,L5086996,S38052075
+340,Bullock's Oriole,1,Putah Creek--Levee Rd.,US-CA,13 Jul 2017,L876147,S38117707
+341,Baltimore Oriole,1,Swarthmore College,US-PA,10 May 2016,L4523528,S29534238
+342,Black-backed Oriole,1,"stakeout Black-backed Oriole, Sinking Spring (2017)",US-PA,05 Feb 2017,L5398071,S34171657
+343,Red-winged Blackbird,50,Big Lagoon SP,US-FL,10 Mar 2016,L142736,S28079819
+344,Brown-headed Cowbird,5,Crum Woods,US-PA,14 May 2016,L559205,S29631007
+345,Rusty Blackbird,1,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,24 Apr 2016,L504403,S29172057
+346,Brewer's Blackbird,2,Davis WTP,US-CA,16 Jul 2017,L453489,S38177667
+347,Common Grackle,10,Swarthmore College,US-PA,23 Apr 2016,L4523528,S29135959
+348,Boat-tailed Grackle,1,Bonner Bridge (South Rock Jetty),US-NC,27 Jul 2018,L2573474,S47475219
+349,Great-tailed Grackle,1,Davis WTP,US-CA,16 Jul 2017,L453489,S38177667
+350,Ovenbird,5,Allegheny NF--Timberdoodle Flats,US-PA,23 May 2016,L1501142,S29858188
+351,Worm-eating Warbler,2,Harrison Hills County Park,US-PA,26 May 2018,L188881,S46036717
+352,Louisiana Waterthrush,1,Crum Woods--North of Viaduct,US-PA,06 Apr 2017,L5525855,S35735553
+353,Northern Waterthrush,1,University of Chicago,US-IL,13 Oct 2018,L4300325,S49159291
+354,Golden-winged Warbler,1,Frick Park,US-PA,06 May 2018,L190706,S45363031
+355,Blue-winged Warbler,1,Shawmut Trail,US-PA,28 May 2016,L2237965,S29953323
+356,Black-and-white Warbler,1,Crum Woods,US-PA,24 Sep 2016,L559205,S31729900
+357,Prothonotary Warbler,1,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,22 Apr 2017,L504403,S36166966
+358,Swainson's Warbler,4,"New River Gorge--Fern Creek, Endless Wall Trailhead #2",US-WV,30 Jun 2018,L3568751,S46928721
+359,Tennessee Warbler,1,Allegheny NF--Timberdoodle Flats,US-PA,06 Oct 2017,L1501142,S39579483
+360,Orange-crowned Warbler,1,Carson Pass,US-CA,22 Jul 2017,L443507,S38273627
+361,Nashville Warbler,1,Carson Pass,US-CA,22 Jul 2017,L443507,S38273627
+362,Mourning Warbler,1,Allegheny NF--Ice Cream Stand,US-PA,11 Aug 2016,L4837176,S31056863
+363,Kentucky Warbler,1,Powdermill Nature Reserve,US-PA,23 May 2018,L129779,S45972452
+364,Common Yellowthroat,1,Crum Woods,US-PA,14 May 2016,L559205,S29631007
+365,Hooded Warbler,3,West Corydon Woods (Private),US-PA,18 May 2016,L4612063,S29754005
+366,American Redstart,1,Crum Woods,US-PA,14 May 2016,L559205,S29631007
+367,Cape May Warbler,1,Frick Park,US-PA,07 May 2018,L190706,S45405741
+368,Cerulean Warbler,1,Strouss Rd.,US-PA,25 May 2018,L2088071,S46009412
+369,Northern Parula,1,US-Pennsylvania-Swarthmore-730 Yale Ave - 39.897x-75.352,US-PA,15 May 2016,L4604488,S29680163
+370,Magnolia Warbler,1,West Corydon Woods (Private),US-PA,17 May 2016,L4612063,S29731406
+371,Bay-breasted Warbler,1,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,02 Oct 2016,L504403,S31855270
+372,Blackburnian Warbler,1,West Corydon Woods (Private),US-PA,01 Jul 2016,L4612063,S30481598
+373,Yellow Warbler,1,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,24 Apr 2016,L504403,S29172057
+374,Chestnut-sided Warbler,2,West Corydon Woods (Private),US-PA,18 May 2016,L4612063,S29754005
+375,Blackpoll Warbler,3,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,28 Apr 2017,L504403,S36340026
+376,Black-throated Blue Warbler,1,West Corydon Woods (Private),US-PA,17 May 2016,L4612063,S29731406
+377,Palm Warbler,3,John Heinz NWR--impoundment (Philadelphia Co.),US-PA,16 Apr 2017,L504403,S36010878
+378,Pine Warbler,1,Crum Woods--North of Viaduct,US-PA,02 Apr 2017,L5525855,S35638307
+379,Yellow-rumped Warbler,1,Gulf Islands National Seashore--Fort Pickens,US-FL,09 Mar 2016,L127303,S28069882
+380,Yellow-throated Warbler,8,Allegheny Land Trust--Wingfield Pines,US-PA,15 Apr 2018,L907532,S44602747
+381,Prairie Warbler,2,Crum Woods,US-PA,29 Apr 2017,L559205,S36389225
+382,Black-throated Gray Warbler,1,Kinevan Rd.,US-CA,12 Aug 2017,L1412060,S38623820
+383,Hermit Warbler,4,Carson Pass,US-CA,22 Jul 2017,L443507,S38273627
+384,Black-throated Green Warbler,1,West Corydon Woods (Private),US-PA,17 May 2016,L4612063,S29731406
+385,Canada Warbler,1,Laurel Hill SP,US-PA,31 Jul 2018,L1239988,S47580451
+386,Wilson's Warbler,1,Bombay Hook National Wildlife Refuge,US-DE,15 May 2017,L126637,S36898791
+387,Summer Tanager,1,"227–1399 Victory Rd, Ellenboro US-WV (39.2469,-81.0545)",US-WV,29 Jun 2018,L7643413,S46877342
+388,Scarlet Tanager,2,West Corydon Woods (Private),US-PA,18 May 2016,L4612063,S29754005
+389,Western Tanager,1,Putah Creek--Levee Rd.,US-CA,13 Jul 2017,L876147,S38117707
+390,Northern Cardinal,3,Big Lagoon SP,US-FL,10 Mar 2016,L142736,S28079819
+391,Rose-breasted Grosbeak,1,Crum Woods,US-PA,14 May 2016,L559205,S29631007
+392,Black-headed Grosbeak,1,Putah Creek--Levee Rd.,US-CA,13 Jul 2017,L876147,S38117707
+393,Blue Grosbeak,1,Augustine Wildlife Area--Ashton Tract,US-DE,15 May 2017,L3013541,S36898794
+394,Indigo Bunting,1,West Corydon Woods (Private),US-PA,22 May 2016,L4612063,S29837952
+395,Painted Bunting,1,Fort Macon SP--Visitor's Center,US-NC,29 Jul 2018,L5977434,S47526390
+396,Dickcissel,4,Underwood Rd. area,US-MD,31 Jul 2018,L4195955,S47567948
+397,House Sparrow,8,Swarthmore College,US-PA,23 Apr 2016,L4523528,S29135959
+398,Scaly-breasted Munia,1,Devereux Slough,US-CA,03 Aug 2017,L615794,S38457734
