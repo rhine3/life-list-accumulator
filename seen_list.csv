@@ -1729,7 +1729,7 @@ Rallus caerulescens,African Rail,2
 Rallus madagascariensis,Madagascar Rail,0
 Dryolimnas cuvieri,White-throated Rail,1
 Crex crex,Corn Crake,4
-Crex egregia,African Crake,0
+Crex egregia,African Crake,1
 Rougetius rougetii,Rouget's Rail,0
 Atlantisia rogersi,Inaccessible Island Rail,0
 Aramidopsis plateni,Snoring Rail,0
@@ -3658,29 +3658,29 @@ Picoides tridactylus,Eurasian Three-toed Woodpecker,1
 Picoides dorsalis,American Three-toed Woodpecker,16
 Picoides arcticus,Black-backed Woodpecker,21
 Yungipicus temminckii,Sulawesi Woodpecker,0
-Yungipicus maculatus,Philippine Woodpecker,1
+Yungipicus maculatus,Philippine Woodpecker,2
 Yungipicus ramsayi,Sulu Woodpecker,0
 Yungipicus nanus,Brown-capped Woodpecker,0
 Yungipicus moluccensis,Sunda Woodpecker,3
 Yungipicus canicapillus,Gray-capped Woodpecker,5
 Yungipicus kizuki,Pygmy Woodpecker,1
 Leiopicus mahrattensis,Yellow-crowned Woodpecker,0
-Dendrocoptes medius,Middle Spotted Woodpecker,1
+Dendrocoptes medius,Middle Spotted Woodpecker,2
 Dendrocoptes auriceps,Brown-fronted Woodpecker,0
 Dendrocoptes dorae,Arabian Woodpecker,0
 Chloropicus abyssinicus,Abyssinian Woodpecker,0
-Chloropicus lugubris,Melancholy Woodpecker,0
-Chloropicus gabonensis,Gabon Woodpecker,0
+Chloropicus lugubris,Melancholy Woodpecker,1
+Chloropicus gabonensis,Gabon Woodpecker,1
 Chloropicus elliotii,Elliot's Woodpecker,0
 Chloropicus elachus,Little Gray Woodpecker,0
 Chloropicus poecilolaemus,Speckle-breasted Woodpecker,0
-Chloropicus fuscescens,Cardinal Woodpecker,3
+Chloropicus fuscescens,Cardinal Woodpecker,4
 Chloropicus namaquus,Bearded Woodpecker,3
-Chloropicus pyrrhogaster,Fire-bellied Woodpecker,0
+Chloropicus pyrrhogaster,Fire-bellied Woodpecker,1
 Chloropicus xantholophus,Golden-crowned Woodpecker,0
 Chloropicus stierlingi,Stierling's Woodpecker,0
-Chloropicus obsoletus,Brown-backed Woodpecker,0
-Chloropicus goertae,African Gray Woodpecker,1
+Chloropicus obsoletus,Brown-backed Woodpecker,1
+Chloropicus goertae,African Gray Woodpecker,2
 Chloropicus spodocephalus,Mountain Gray Woodpecker,2
 Chloropicus griseocephalus,Olive Woodpecker,0
 Dendrocopos hyperythrus,Rufous-bellied Woodpecker,3
@@ -3697,15 +3697,15 @@ Dendrocopos syriacus,Syrian Woodpecker,3
 Dendrocopos assimilis,Sind Woodpecker,0
 Dryobates minor,Lesser Spotted Woodpecker,1
 Dryobates cathpharius,Crimson-breasted Woodpecker,0
-Dryobates pubescens,Downy Woodpecker,27
-Dryobates nuttallii,Nuttall's Woodpecker,14
-Dryobates scalaris,Ladder-backed Woodpecker,22
-Dryobates borealis,Red-cockaded Woodpecker,17
-Dryobates villosus,Hairy Woodpecker,28
-Dryobates albolarvatus,White-headed Woodpecker,10
-Dryobates fumigatus,Smoky-brown Woodpecker,8
+Dryobates pubescens,Downy Woodpecker,28
+Dryobates nuttallii,Nuttall's Woodpecker,15
+Dryobates scalaris,Ladder-backed Woodpecker,23
+Dryobates borealis,Red-cockaded Woodpecker,18
+Dryobates villosus,Hairy Woodpecker,29
+Dryobates albolarvatus,White-headed Woodpecker,11
+Dryobates fumigatus,Smoky-brown Woodpecker,9
 Dryobates stricklandi,Strickland's Woodpecker,0
-Dryobates arizonae,Arizona Woodpecker,17
+Dryobates arizonae,Arizona Woodpecker,18
 Dryobates kirkii,Red-rumped Woodpecker,2
 Dryobates cassini,Golden-collared Woodpecker,0
 Dryobates spilogaster,White-spotted Woodpecker,0
@@ -6645,7 +6645,7 @@ Temnurus temnurus,Ratchet-tailed Treepie,1
 Pica mauritanica,Maghreb Magpie,1
 Pica asirensis,Asir Magpie,0
 Pica bottanensis,Black-rumped Magpie,0
-Pica serica,Oriental Magpie,5
+Pica serica,Oriental Magpie,6
 Pica pica,Eurasian Magpie,14
 Pica hudsonia,Black-billed Magpie,23
 Pica nuttalli,Yellow-billed Magpie,9
@@ -8581,7 +8581,7 @@ Sialia sialis,Eastern Bluebird,26
 Sialia mexicana,Western Bluebird,24
 Sialia currucoides,Mountain Bluebird,23
 Neocossyphus fraseri,Rufous Flycatcher-Thrush,1
-Neocossyphus finschi,Finsch's Flycatcher-Thrush,0
+Neocossyphus finschi,Finsch's Flycatcher-Thrush,1
 Neocossyphus rufus,Red-tailed Ant-Thrush,1
 Neocossyphus poensis,White-tailed Ant-Thrush,0
 Myadestes townsendi,Townsend's Solitaire,24
@@ -9549,12 +9549,12 @@ Artemisiospiza belli,Bell's Sparrow,5
 Oriturus superciliosus,Striped Sparrow,0
 Pooecetes gramineus,Vesper Sparrow,27
 Ammospiza leconteii,LeConte's Sparrow,18
-Ammospiza maritima,Seaside Sparrow,21
+Ammospiza maritima,Seaside Sparrow,22
 Ammospiza nelsoni,Nelson's Sparrow,21
-Ammospiza caudacuta,Saltmarsh Sparrow,18
+Ammospiza caudacuta,Saltmarsh Sparrow,19
 Passerculus sandwichensis,Savannah Sparrow,28
 Centronyx bairdii,Baird's Sparrow,7
-Centronyx henslowii,Henslow's Sparrow,18
+Centronyx henslowii,Henslow's Sparrow,19
 Xenospiza baileyi,Sierra Madre Sparrow,0
 Melospiza melodia,Song Sparrow,28
 Melospiza lincolnii,Lincoln's Sparrow,27
@@ -9625,7 +9625,7 @@ Xanthocephalus xanthocephalus,Yellow-headed Blackbird,24
 Dolichonyx oryzivorus,Bobolink,26
 Sturnella neglecta,Western Meadowlark,25
 Sturnella magna,Eastern Meadowlark,27
-Leistes militaris,Red-breasted Meadowlark,3
+Leistes militaris,Red-breasted Meadowlark,4
 Leistes superciliaris,White-browed Meadowlark,1
 Leistes bellicosus,Peruvian Meadowlark,2
 Leistes defilippii,Pampas Meadowlark,0
@@ -9738,12 +9738,12 @@ Protonotaria citrea,Prothonotary Warbler,25
 Limnothlypis swainsonii,Swainson's Warbler,19
 Oreothlypis superciliosa,Crescent-chested Warbler,4
 Oreothlypis gutturalis,Flame-throated Warbler,7
-Oreothlypis peregrina,Tennessee Warbler,27
-Oreothlypis celata,Orange-crowned Warbler,27
+Oreothlypis peregrina,Tennessee Warbler,28
+Oreothlypis celata,Orange-crowned Warbler,28
 Oreothlypis crissalis,Colima Warbler,3
-Oreothlypis luciae,Lucy's Warbler,15
-Oreothlypis ruficapilla,Nashville Warbler,26
-Oreothlypis virginiae,Virginia's Warbler,15
+Oreothlypis luciae,Lucy's Warbler,16
+Oreothlypis ruficapilla,Nashville Warbler,27
+Oreothlypis virginiae,Virginia's Warbler,16
 Leucopeza semperi,Semper's Warbler,0
 Oporornis agilis,Connecticut Warbler,18
 Geothlypis poliocephala,Gray-crowned Yellowthroat,7
@@ -10297,7 +10297,7 @@ Passer eminibey,Chestnut Sparrow,1
 Gymnornis pyrgita,Yellow-spotted Petronia,1
 Gymnornis xanthocollis,Chestnut-shouldered Petronia,1
 Gymnornis superciliaris,Yellow-throated Petronia,0
-Gymnornis dentata,Bush Petronia,1
+Gymnornis dentata,Bush Petronia,2
 Petronia petronia,Rock Sparrow,3
 Carpospiza brachydactyla,Pale Rockfinch,1
 Montifringilla nivalis,White-winged Snowfinch,2
