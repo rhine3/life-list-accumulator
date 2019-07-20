@@ -66,7 +66,7 @@ Anseranas semipalmata,Magpie Goose,3
 Dendrocygna guttata,Spotted Whistling-Duck,1
 Dendrocygna eytoni,Plumed Whistling-Duck,2
 Dendrocygna viduata,White-faced Whistling-Duck,8
-Dendrocygna autumnalis,Black-bellied Whistling-Duck,23
+Dendrocygna autumnalis,Black-bellied Whistling-Duck,22
 Dendrocygna arborea,West Indian Whistling-Duck,3
 Dendrocygna bicolor,Fulvous Whistling-Duck,17
 Dendrocygna arcuata,Wandering Whistling-Duck,3
@@ -74,19 +74,19 @@ Dendrocygna javanica,Lesser Whistling-Duck,3
 Thalassornis leuconotus,White-backed Duck,1
 Anser indicus,Bar-headed Goose,3
 Anser canagicus,Emperor Goose,3
-Anser caerulescens,Snow Goose,28
-Anser rossii,Ross's Goose,23
+Anser caerulescens,Snow Goose,27
+Anser rossii,Ross's Goose,22
 Anser anser,Graylag Goose,8
 Anser cygnoides,Swan Goose,1
-Anser albifrons,Greater White-fronted Goose,27
+Anser albifrons,Greater White-fronted Goose,26
 Anser erythropus,Lesser White-fronted Goose,2
 Anser fabalis,Taiga Bean-Goose,1
 Anser serrirostris,Tundra Bean-Goose,2
 Anser brachyrhynchus,Pink-footed Goose,10
-Branta bernicla,Brant,23
+Branta bernicla,Brant,22
 Branta leucopsis,Barnacle Goose,11
-Branta hutchinsii,Cackling Goose,26
-Branta canadensis,Canada Goose,28
+Branta hutchinsii,Cackling Goose,25
+Branta canadensis,Canada Goose,27
 Branta sandvicensis,Hawaiian Goose,3
 Branta ruficollis,Red-breasted Goose,1
 Cereopsis novaehollandiae,Cape Barren Goose,2
@@ -109,7 +109,7 @@ Chloephaga hybrida,Kelp Goose,1
 Chloephaga poliocephala,Ashy-headed Goose,1
 Chloephaga rubidiceps,Ruddy-headed Goose,1
 Radjah radjah,Radjah Shelduck,3
-Alopochen aegyptiaca,Egyptian Goose,20
+Alopochen aegyptiaca,Egyptian Goose,19
 Tadorna ferruginea,Ruddy Shelduck,8
 Tadorna cana,South African Shelduck,1
 Tadorna tadornoides,Australian Shelduck,2
@@ -128,7 +128,7 @@ Nettapus pulchellus,Green Pygmy-Goose,1
 Nettapus coromandelianus,Cotton Pygmy-Goose,1
 Nettapus auritus,African Pygmy-Goose,1
 Callonetta leucophrys,Ringed Teal,1
-Aix sponsa,Wood Duck,27
+Aix sponsa,Wood Duck,26
 Aix galericulata,Mandarin Duck,6
 Chenonetta jubata,Maned Duck,4
 Amazonetta brasiliensis,Brazilian Teal,2
@@ -140,16 +140,16 @@ Spatula querquedula,Garganey,7
 Spatula hottentota,Hottentot Teal,3
 Spatula versicolor,Silver Teal,0
 Spatula puna,Puna Teal,1
-Spatula discors,Blue-winged Teal,28
-Spatula cyanoptera,Cinnamon Teal,21
+Spatula discors,Blue-winged Teal,27
+Spatula cyanoptera,Cinnamon Teal,20
 Spatula platalea,Red Shoveler,1
 Spatula smithii,Cape Shoveler,1
 Spatula rhynchotis,Australian Shoveler,4
-Spatula clypeata,Northern Shoveler,28
-Mareca strepera,Gadwall,28
+Spatula clypeata,Northern Shoveler,27
+Mareca strepera,Gadwall,27
 Mareca falcata,Falcated Duck,2
-Mareca penelope,Eurasian Wigeon,23
-Mareca americana,American Wigeon,27
+Mareca penelope,Eurasian Wigeon,22
+Mareca americana,American Wigeon,26
 Mareca sibilatrix,Chiloe Wigeon,1
 Anas sparsa,African Black Duck,2
 Anas undulata,Yellow-billed Duck,4
@@ -160,17 +160,17 @@ Anas wyvilliana,Hawaiian Duck,2
 Anas luzonica,Philippine Duck,0
 Anas poecilorhyncha,Indian Spot-billed Duck,1
 Anas zonorhyncha,Eastern Spot-billed Duck,5
-Anas platyrhynchos,Mallard,28
+Anas platyrhynchos,Mallard,27
 Anas diazi,Mexican Duck,11
 Anas rubripes,American Black Duck,24
-Anas fulvigula,Mottled Duck,19
+Anas fulvigula,Mottled Duck,18
 Anas capensis,Cape Teal,3
 Anas bahamensis,White-cheeked Pintail,8
 Anas erythrorhyncha,Red-billed Duck,6
-Anas acuta,Northern Pintail,28
+Anas acuta,Northern Pintail,27
 Anas eatoni,Eaton's Pintail,0
 Anas georgica,Yellow-billed Pintail,1
-Anas crecca,Green-winged Teal,28
+Anas crecca,Green-winged Teal,27
 Anas andium,Andean Teal,1
 Anas flavirostris,Yellow-billed Teal,1
 Anas albogularis,Andaman Teal,0
@@ -188,10 +188,10 @@ Asarcornis scutulata,White-winged Duck,0
 Netta rufina,Red-crested Pochard,5
 Netta erythrophthalma,Southern Pochard,2
 Netta peposaca,Rosy-billed Pochard,1
-Aythya valisineria,Canvasback,27
-Aythya americana,Redhead,27
+Aythya valisineria,Canvasback,26
+Aythya americana,Redhead,26
 Aythya ferina,Common Pochard,9
-Aythya collaris,Ring-necked Duck,27
+Aythya collaris,Ring-necked Duck,26
 Aythya nyroca,Ferruginous Duck,5
 Aythya innotata,Madagascar Pochard,0
 Aythya baeri,Baer's Pochard,0
@@ -199,32 +199,32 @@ Aythya australis,Hardhead,3
 Aythya fuligula,Tufted Duck,14
 Aythya novaeseelandiae,New Zealand Scaup,0
 Aythya marila,Greater Scaup,26
-Aythya affinis,Lesser Scaup,28
+Aythya affinis,Lesser Scaup,27
 Polysticta stelleri,Steller's Eider,3
 Somateria fischeri,Spectacled Eider,2
 Somateria spectabilis,King Eider,16
 Somateria mollissima,Common Eider,19
 Histrionicus histrionicus,Harlequin Duck,24
 Camptorhynchus labradorius,Labrador Duck,0
-Melanitta perspicillata,Surf Scoter,26
+Melanitta perspicillata,Surf Scoter,25
 Melanitta fusca,Velvet Scoter,2
 Melanitta deglandi,White-winged Scoter,24
 Melanitta nigra,Common Scoter,1
 Melanitta americana,Black Scoter,24
-Clangula hyemalis,Long-tailed Duck,27
-Bucephala albeola,Bufflehead,28
-Bucephala clangula,Common Goldeneye,28
+Clangula hyemalis,Long-tailed Duck,26
+Bucephala albeola,Bufflehead,27
+Bucephala clangula,Common Goldeneye,27
 Bucephala islandica,Barrow's Goldeneye,22
 Mergellus albellus,Smew,2
-Lophodytes cucullatus,Hooded Merganser,28
+Lophodytes cucullatus,Hooded Merganser,27
 Mergus australis,Auckland Islands Merganser,0
-Mergus merganser,Common Merganser,28
+Mergus merganser,Common Merganser,27
 Mergus octosetaceus,Brazilian Merganser,0
-Mergus serrator,Red-breasted Merganser,28
+Mergus serrator,Red-breasted Merganser,27
 Mergus squamatus,Scaly-sided Merganser,0
 Heteronetta atricapilla,Black-headed Duck,0
 Nomonyx dominicus,Masked Duck,3
-Oxyura jamaicensis,Ruddy Duck,27
+Oxyura jamaicensis,Ruddy Duck,26
 Oxyura ferruginea,Andean Duck,3
 Oxyura leucocephala,White-headed Duck,2
 Oxyura maccoa,Maccoa Duck,1
@@ -316,7 +316,7 @@ Guttera pucherani,Crested Guineafowl,0
 Ptilopachus petrosus,Stone Partridge,1
 Ptilopachus nahani,Nahan's Francolin,0
 Rhynchortyx cinctus,Tawny-faced Quail,0
-Oreortyx pictus,Mountain Quail,7
+Oreortyx pictus,Mountain Quail,6
 Dendrortyx barbatus,Bearded Wood-Partridge,0
 Dendrortyx macroura,Long-tailed Wood-Partridge,0
 Dendrortyx leucophrys,Buffy-crowned Wood-Partridge,1
@@ -326,8 +326,8 @@ Colinus nigrogularis,Black-throated Bobwhite,0
 Colinus cristatus,Crested Bobwhite,2
 Callipepla squamata,Scaled Quail,13
 Callipepla douglasii,Elegant Quail,1
-Callipepla californica,California Quail,18
-Callipepla gambelii,Gambel's Quail,20
+Callipepla californica,California Quail,17
+Callipepla gambelii,Gambel's Quail,19
 Cyrtonyx montezumae,Montezuma Quail,10
 Cyrtonyx ocellatus,Ocellated Quail,1
 Dactylortyx thoracicus,Singing Quail,2
@@ -521,10 +521,10 @@ Dendragapus fuliginosus,Sooty Grouse,12
 Tympanuchus phasianellus,Sharp-tailed Grouse,14
 Tympanuchus cupido,Greater Prairie-Chicken,11
 Tympanuchus pallidicinctus,Lesser Prairie-Chicken,4
-Meleagris gallopavo,Wild Turkey,27
+Meleagris gallopavo,Wild Turkey,26
 Meleagris ocellata,Ocellated Turkey,2
 Phoenicopterus chilensis,Chilean Flamingo,1
-Phoenicopterus ruber,American Flamingo,8
+Phoenicopterus ruber,American Flamingo,7
 Phoenicopterus roseus,Greater Flamingo,10
 Phoeniconaias minor,Lesser Flamingo,5
 Phoenicoparrus andinus,Andean Flamingo,0
@@ -536,22 +536,22 @@ Tachybaptus ruficollis,Little Grebe,13
 Tachybaptus novaehollandiae,Australasian Grebe,4
 Tachybaptus pelzelnii,Madagascar Grebe,0
 Tachybaptus dominicus,Least Grebe,19
-Podilymbus podiceps,Pied-billed Grebe,28
+Podilymbus podiceps,Pied-billed Grebe,27
 Podilymbus gigas,Atitlan Grebe,0
 Poliocephalus poliocephalus,Hoary-headed Grebe,3
 Poliocephalus rufopectus,New Zealand Grebe,0
 Podiceps major,Great Grebe,2
-Podiceps auritus,Horned Grebe,27
+Podiceps auritus,Horned Grebe,26
 Podiceps grisegena,Red-necked Grebe,25
 Podiceps cristatus,Great Crested Grebe,12
-Podiceps nigricollis,Eared Grebe,25
+Podiceps nigricollis,Eared Grebe,24
 Podiceps andinus,Colombian Grebe,0
 Podiceps occipitalis,Silvery Grebe,0
 Podiceps taczanowskii,Junin Grebe,0
 Podiceps gallardoi,Hooded Grebe,0
-Aechmophorus occidentalis,Western Grebe,24
-Aechmophorus clarkii,Clark's Grebe,20
-Columba livia,Rock Pigeon,28
+Aechmophorus occidentalis,Western Grebe,23
+Aechmophorus clarkii,Clark's Grebe,19
+Columba livia,Rock Pigeon,27
 Columba rupestris,Hill Pigeon,1
 Columba leuconota,Snow Pigeon,2
 Columba guinea,Speckled Pigeon,6
@@ -595,7 +595,7 @@ Patagioenas maculosa,Spot-winged Pigeon,1
 Patagioenas leucocephala,White-crowned Pigeon,12
 Patagioenas flavirostris,Red-billed Pigeon,14
 Patagioenas inornata,Plain Pigeon,1
-Patagioenas fasciata,Band-tailed Pigeon,23
+Patagioenas fasciata,Band-tailed Pigeon,22
 Patagioenas araucana,Chilean Pigeon,1
 Patagioenas caribaea,Ring-tailed Pigeon,0
 Patagioenas oenops,Peruvian Pigeon,0
@@ -611,7 +611,7 @@ Streptopelia hypopyrrha,Adamawa Turtle-Dove,0
 Streptopelia orientalis,Oriental Turtle-Dove,6
 Streptopelia bitorquata,Island Collared-Dove,2
 Streptopelia dusumieri,Philippine Collared-Dove,0
-Streptopelia decaocto,Eurasian Collared-Dove,28
+Streptopelia decaocto,Eurasian Collared-Dove,27
 Streptopelia roseogrisea,African Collared-Dove,6
 Streptopelia reichenowi,White-winged Collared-Dove,0
 Streptopelia decipiens,Mourning Collared-Dove,4
@@ -683,7 +683,7 @@ Geopelia placida,Peaceful Dove,3
 Geopelia maugeus,Barred Dove,0
 Geopelia humeralis,Bar-shouldered Dove,3
 Columbina inca,Inca Dove,21
-Columbina passerina,Common Ground-Dove,25
+Columbina passerina,Common Ground-Dove,24
 Columbina minuta,Plain-breasted Ground-Dove,4
 Columbina talpacoti,Ruddy Ground-Dove,17
 Columbina buckleyi,Ecuadorian Ground-Dove,1
@@ -729,11 +729,11 @@ Zentrygon linearis,Lined Quail-Dove,0
 Zentrygon chiriquensis,Chiriqui Quail-Dove,0
 Zentrygon goldmani,Russet-crowned Quail-Dove,0
 Zenaida meloda,West Peruvian Dove,2
-Zenaida asiatica,White-winged Dove,27
+Zenaida asiatica,White-winged Dove,26
 Zenaida aurita,Zenaida Dove,11
 Zenaida galapagoensis,Galapagos Dove,1
 Zenaida auriculata,Eared Dove,7
-Zenaida macroura,Mourning Dove,27
+Zenaida macroura,Mourning Dove,26
 Zenaida graysoni,Socorro Dove,0
 Caloenas nicobarica,Nicobar Pigeon,0
 Caloenas maculata,Spotted Green Pigeon,0
@@ -964,13 +964,13 @@ Crinifer zonurus,Eastern Plantain-eater,0
 Guira guira,Guira Cuckoo,1
 Crotophaga major,Greater Ani,5
 Crotophaga ani,Smooth-billed Ani,18
-Crotophaga sulcirostris,Groove-billed Ani,19
+Crotophaga sulcirostris,Groove-billed Ani,18
 Tapera naevia,Striped Cuckoo,6
 Dromococcyx phasianellus,Pheasant Cuckoo,3
 Dromococcyx pavoninus,Pavonine Cuckoo,0
 Morococcyx erythropygus,Lesser Ground-Cuckoo,3
 Geococcyx velox,Lesser Roadrunner,0
-Geococcyx californianus,Greater Roadrunner,20
+Geococcyx californianus,Greater Roadrunner,19
 Neomorphus geoffroyi,Rufous-vented Ground-Cuckoo,0
 Neomorphus squamiger,Scaled Ground-Cuckoo,0
 Neomorphus radiolosus,Banded Ground-Cuckoo,0
@@ -1135,7 +1135,7 @@ Gactornis enarratus,Collared Nightjar,1
 Chordeiles nacunda,Nacunda Nighthawk,2
 Chordeiles pusillus,Least Nighthawk,1
 Chordeiles rupestris,Sand-colored Nighthawk,2
-Chordeiles acutipennis,Lesser Nighthawk,21
+Chordeiles acutipennis,Lesser Nighthawk,20
 Chordeiles minor,Common Nighthawk,25
 Chordeiles gundlachii,Antillean Nighthawk,7
 Lurocalis semitorquatus,Short-tailed Nighthawk,3
@@ -1167,7 +1167,7 @@ Nyctiphrynus mcleodii,Eared Poorwill,0
 Nyctiphrynus yucatanicus,Yucatan Poorwill,0
 Nyctiphrynus ocellatus,Ocellated Poorwill,2
 Nyctiphrynus rosenbergi,Choco Poorwill,0
-Phalaenoptilus nuttallii,Common Poorwill,16
+Phalaenoptilus nuttallii,Common Poorwill,15
 Antrostomus carolinensis,Chuck-will's-widow,16
 Antrostomus rufus,Rufous Nightjar,0
 Antrostomus cubanensis,Greater Antillean Nightjar,0
@@ -1263,7 +1263,7 @@ Rhaphidura sabini,Sabine's Spinetail,1
 Neafrapus cassini,Cassin's Spinetail,1
 Neafrapus boehmi,Bat-like Spinetail,0
 Chaetura pelagica,Chimney Swift,26
-Chaetura vauxi,Vaux's Swift,22
+Chaetura vauxi,Vaux's Swift,21
 Chaetura chapmani,Chapman's Swift,1
 Chaetura viridipennis,Amazonian Swift,1
 Chaetura meridionalis,Sick's Swift,1
@@ -1340,7 +1340,7 @@ Apus nipalensis,House Swift,6
 Apus horus,Horus Swift,2
 Apus caffer,White-rumped Swift,4
 Apus batesi,Bates's Swift,0
-Aeronautes saxatalis,White-throated Swift,24
+Aeronautes saxatalis,White-throated Swift,23
 Aeronautes montivagus,White-tipped Swift,1
 Aeronautes andecolus,Andean Swift,1
 Panyptila cayennensis,Lesser Swallow-tailed Swift,7
@@ -1579,16 +1579,16 @@ Calliphlox bryantae,Magenta-throated Woodstar,5
 Calliphlox mitchellii,Purple-throated Woodstar,2
 Calliphlox amethystina,Amethyst Woodstar,2
 Archilochus colubris,Ruby-throated Hummingbird,25
-Archilochus alexandri,Black-chinned Hummingbird,23
+Archilochus alexandri,Black-chinned Hummingbird,22
 Mellisuga minima,Vervain Hummingbird,0
 Mellisuga helenae,Bee Hummingbird,1
-Calypte anna,Anna's Hummingbird,24
-Calypte costae,Costa's Hummingbird,18
+Calypte anna,Anna's Hummingbird,23
+Calypte costae,Costa's Hummingbird,17
 Atthis heloisa,Bumblebee Hummingbird,1
 Atthis ellioti,Wine-throated Hummingbird,1
 Selasphorus platycercus,Broad-tailed Hummingbird,16
-Selasphorus rufus,Rufous Hummingbird,24
-Selasphorus sasin,Allen's Hummingbird,17
+Selasphorus rufus,Rufous Hummingbird,23
+Selasphorus sasin,Allen's Hummingbird,16
 Selasphorus flammula,Volcano Hummingbird,5
 Selasphorus ardens,Glow-throated Hummingbird,0
 Selasphorus scintilla,Scintillant Hummingbird,3
@@ -1714,13 +1714,13 @@ Sarothrura affinis,Striped Flufftail,0
 Sarothrura insularis,Madagascar Flufftail,1
 Sarothrura ayresi,White-winged Flufftail,0
 Sarothrura watersi,Slender-billed Flufftail,1
-Rallus obsoletus,Ridgway's Rail,10
+Rallus obsoletus,Ridgway's Rail,9
 Rallus tenuirostris,Aztec Rail,1
 Rallus longirostris,Mangrove Rail,0
 Rallus elegans,King Rail,18
 Rallus crepitans,Clapper Rail,22
 Rallus wetmorei,Plain-flanked Rail,0
-Rallus limicola,Virginia Rail,27
+Rallus limicola,Virginia Rail,26
 Rallus semiplumbeus,Bogota Rail,1
 Rallus antarcticus,Austral Rail,0
 Rallus aquaticus,Water Rail,4
@@ -1777,14 +1777,14 @@ Aramides saracura,Slaty-breasted Wood-Rail,1
 Tribonyx ventralis,Black-tailed Nativehen,3
 Tribonyx mortierii,Tasmanian Nativehen,0
 Porphyriops melanops,Spot-flanked Gallinule,1
-Porzana carolina,Sora,27
+Porzana carolina,Sora,26
 Porzana porzana,Spotted Crake,1
 Porzana fluminea,Australian Crake,2
 Porzana spiloptera,Dot-winged Crake,0
 Gallinula silvestris,Makira Moorhen,0
 Gallinula nesiotis,Tristan Moorhen,0
 Gallinula chloropus,Eurasian Moorhen,16
-Gallinula galeata,Common Gallinule,26
+Gallinula galeata,Common Gallinule,25
 Gallinula tenebrosa,Dusky Moorhen,4
 Gallinula angulata,Lesser Moorhen,1
 Gallinula pacifica,Samoan Moorhen,0
@@ -1795,7 +1795,7 @@ Fulica armillata,Red-gartered Coot,1
 Fulica atra,Eurasian Coot,15
 Fulica cristata,Red-knobbed Coot,4
 Fulica alai,Hawaiian Coot,3
-Fulica americana,American Coot,27
+Fulica americana,American Coot,26
 Fulica ardesiaca,Slate-colored Coot,2
 Fulica leucoptera,White-winged Coot,1
 Porphyrio alleni,Allen's Gallinule,1
@@ -1871,7 +1871,7 @@ Anthropoides virgo,Demoiselle Crane,0
 Anthropoides paradiseus,Blue Crane,0
 Bugeranus carunculatus,Wattled Crane,0
 Leucogeranus leucogeranus,Siberian Crane,0
-Antigone canadensis,Sandhill Crane,27
+Antigone canadensis,Sandhill Crane,26
 Antigone antigone,Sarus Crane,3
 Antigone rubicunda,Brolga,3
 Antigone vipio,White-naped Crane,2
@@ -1897,12 +1897,12 @@ Pluvianus aegyptius,Egyptian Plover,2
 Himantopus himantopus,Black-winged Stilt,12
 Himantopus leucocephalus,Pied Stilt,3
 Himantopus novaezelandiae,Black Stilt,0
-Himantopus mexicanus,Black-necked Stilt,27
+Himantopus mexicanus,Black-necked Stilt,26
 Cladorhynchus leucocephalus,Banded Stilt,1
 Recurvirostra avosetta,Pied Avocet,8
 Recurvirostra novaehollandiae,Red-necked Avocet,4
 Recurvirostra andina,Andean Avocet,0
-Recurvirostra americana,American Avocet,27
+Recurvirostra americana,American Avocet,26
 Ibidorhyncha struthersii,Ibisbill,0
 Haematopus ostralegus,Eurasian Oystercatcher,4
 Haematopus longirostris,Pied Oystercatcher,4
@@ -1915,8 +1915,8 @@ Haematopus moquini,African Oystercatcher,2
 Haematopus meadewaldoi,Canarian Oystercatcher,0
 Haematopus ater,Blackish Oystercatcher,2
 Haematopus leucopodus,Magellanic Oystercatcher,1
-Haematopus bachmani,Black Oystercatcher,21
-Pluvialis squatarola,Black-bellied Plover,28
+Haematopus bachmani,Black Oystercatcher,20
+Pluvialis squatarola,Black-bellied Plover,27
 Pluvialis apricaria,European Golden-Plover,2
 Pluvialis dominica,American Golden-Plover,21
 Pluvialis fulva,Pacific Golden-Plover,7
@@ -1957,11 +1957,11 @@ Charadrius pecuarius,Kittlitz's Plover,3
 Charadrius ruficapillus,Red-capped Plover,4
 Charadrius peronii,Malaysian Plover,1
 Charadrius alexandrinus,Kentish Plover,9
-Charadrius nivosus,Snowy Plover,20
+Charadrius nivosus,Snowy Plover,19
 Charadrius javanicus,Javan Plover,1
 Charadrius wilsonia,Wilson's Plover,17
 Charadrius hiaticula,Common Ringed Plover,8
-Charadrius semipalmatus,Semipalmated Plover,27
+Charadrius semipalmatus,Semipalmated Plover,26
 Charadrius placidus,Long-billed Plover,3
 Charadrius melodus,Piping Plover,22
 Charadrius thoracicus,Madagascar Plover,0
@@ -1970,8 +1970,8 @@ Charadrius tricollaris,Three-banded Plover,4
 Charadrius forbesi,Forbes's Plover,0
 Charadrius marginatus,White-fronted Plover,2
 Charadrius pallidus,Chestnut-banded Plover,1
-Charadrius vociferus,Killdeer,27
-Charadrius montanus,Mountain Plover,14
+Charadrius vociferus,Killdeer,26
+Charadrius montanus,Mountain Plover,13
 Charadrius veredus,Oriental Plover,0
 Charadrius morinellus,Eurasian Dotterel,1
 Charadrius sanctaehelenae,St. Helena Plover,0
@@ -2001,26 +2001,26 @@ Jacana spinosa,Northern Jacana,13
 Jacana jacana,Wattled Jacana,7
 Bartramia longicauda,Upland Sandpiper,21
 Numenius tahitiensis,Bristle-thighed Curlew,3
-Numenius phaeopus,Whimbrel,26
+Numenius phaeopus,Whimbrel,25
 Numenius minutus,Little Curlew,0
 Numenius borealis,Eskimo Curlew,0
-Numenius americanus,Long-billed Curlew,21
+Numenius americanus,Long-billed Curlew,20
 Numenius madagascariensis,Far Eastern Curlew,5
 Numenius tenuirostris,Slender-billed Curlew,0
 Numenius arquata,Eurasian Curlew,8
 Limosa lapponica,Bar-tailed Godwit,12
 Limosa limosa,Black-tailed Godwit,8
 Limosa haemastica,Hudsonian Godwit,18
-Limosa fedoa,Marbled Godwit,27
-Arenaria interpres,Ruddy Turnstone,28
-Arenaria melanocephala,Black Turnstone,19
+Limosa fedoa,Marbled Godwit,26
+Arenaria interpres,Ruddy Turnstone,27
+Arenaria melanocephala,Black Turnstone,18
 Prosobonia cancellata,Kiritimati Sandpiper,0
 Prosobonia leucoptera,White-winged Sandpiper,0
 Prosobonia ellisi,Moorea Sandpiper,0
 Prosobonia parvirostris,Tuamotu Sandpiper,0
 Calidris tenuirostris,Great Knot,6
-Calidris canutus,Red Knot,23
-Calidris virgata,Surfbird,11
+Calidris canutus,Red Knot,22
+Calidris virgata,Surfbird,10
 Calidris pugnax,Ruff,15
 Calidris falcinellus,Broad-billed Sandpiper,5
 Calidris acuminata,Sharp-tailed Sandpiper,4
@@ -2030,21 +2030,21 @@ Calidris temminckii,Temminck's Stint,7
 Calidris subminuta,Long-toed Stint,4
 Calidris pygmea,Spoon-billed Sandpiper,3
 Calidris ruficollis,Red-necked Stint,8
-Calidris alba,Sanderling,28
-Calidris alpina,Dunlin,28
+Calidris alba,Sanderling,27
+Calidris alpina,Dunlin,27
 Calidris ptilocnemis,Rock Sandpiper,3
 Calidris maritima,Purple Sandpiper,18
 Calidris bairdii,Baird's Sandpiper,25
 Calidris minuta,Little Stint,8
-Calidris minutilla,Least Sandpiper,28
+Calidris minutilla,Least Sandpiper,27
 Calidris fuscicollis,White-rumped Sandpiper,24
 Calidris subruficollis,Buff-breasted Sandpiper,20
 Calidris melanotos,Pectoral Sandpiper,24
 Calidris pusilla,Semipalmated Sandpiper,24
-Calidris mauri,Western Sandpiper,25
+Calidris mauri,Western Sandpiper,24
 Limnodromus semipalmatus,Asian Dowitcher,3
-Limnodromus griseus,Short-billed Dowitcher,27
-Limnodromus scolopaceus,Long-billed Dowitcher,25
+Limnodromus griseus,Short-billed Dowitcher,26
+Limnodromus scolopaceus,Long-billed Dowitcher,24
 Lymnocryptes minimus,Jack Snipe,1
 Scolopax rusticola,Eurasian Woodcock,1
 Scolopax mira,Amami Woodcock,0
@@ -2068,7 +2068,7 @@ Gallinago hardwickii,Latham's Snipe,2
 Gallinago nemoricola,Wood Snipe,0
 Gallinago media,Great Snipe,0
 Gallinago gallinago,Common Snipe,9
-Gallinago delicata,Wilson's Snipe,27
+Gallinago delicata,Wilson's Snipe,26
 Gallinago paraguaiae,South American Snipe,1
 Gallinago andina,Puna Snipe,0
 Gallinago nobilis,Noble Snipe,1
@@ -2078,21 +2078,21 @@ Gallinago nigripennis,African Snipe,1
 Gallinago macrodactyla,Madagascar Snipe,0
 Gallinago undulata,Giant Snipe,0
 Xenus cinereus,Terek Sandpiper,8
-Phalaropus tricolor,Wilson's Phalarope,25
-Phalaropus lobatus,Red-necked Phalarope,25
-Phalaropus fulicarius,Red Phalarope,17
+Phalaropus tricolor,Wilson's Phalarope,24
+Phalaropus lobatus,Red-necked Phalarope,24
+Phalaropus fulicarius,Red Phalarope,16
 Actitis hypoleucos,Common Sandpiper,13
-Actitis macularius,Spotted Sandpiper,28
+Actitis macularius,Spotted Sandpiper,27
 Tringa ochropus,Green Sandpiper,9
 Tringa solitaria,Solitary Sandpiper,26
 Tringa brevipes,Gray-tailed Tattler,4
-Tringa incana,Wandering Tattler,12
+Tringa incana,Wandering Tattler,11
 Tringa erythropus,Spotted Redshank,8
-Tringa melanoleuca,Greater Yellowlegs,28
+Tringa melanoleuca,Greater Yellowlegs,27
 Tringa nebularia,Common Greenshank,14
 Tringa guttifer,Nordmann's Greenshank,2
-Tringa semipalmata,Willet,28
-Tringa flavipes,Lesser Yellowlegs,28
+Tringa semipalmata,Willet,27
+Tringa flavipes,Lesser Yellowlegs,27
 Tringa stagnatilis,Marsh Sandpiper,9
 Tringa glareola,Wood Sandpiper,12
 Tringa totanus,Common Redshank,9
@@ -2132,13 +2132,13 @@ Glareola cinerea,Gray Pratincole,1
 Glareola lactea,Small Pratincole,0
 Stercorarius skua,Great Skua,4
 Stercorarius chilensis,Chilean Skua,1
-Stercorarius maccormicki,South Polar Skua,10
+Stercorarius maccormicki,South Polar Skua,9
 Stercorarius antarcticus,Brown Skua,5
-Stercorarius pomarinus,Pomarine Jaeger,16
-Stercorarius parasiticus,Parasitic Jaeger,22
-Stercorarius longicaudus,Long-tailed Jaeger,16
+Stercorarius pomarinus,Pomarine Jaeger,15
+Stercorarius parasiticus,Parasitic Jaeger,21
+Stercorarius longicaudus,Long-tailed Jaeger,15
 Alle alle,Dovekie,12
-Uria aalge,Common Murre,22
+Uria aalge,Common Murre,21
 Uria lomvia,Thick-billed Murre,13
 Alca torda,Razorbill,17
 Pinguinus impennis,Great Auk,0
@@ -2148,28 +2148,28 @@ Cepphus carbo,Spectacled Guillemot,0
 Brachyramphus perdix,Long-billed Murrelet,0
 Brachyramphus marmoratus,Marbled Murrelet,16
 Brachyramphus brevirostris,Kittlitz's Murrelet,2
-Synthliboramphus scrippsi,Scripps's Murrelet,6
+Synthliboramphus scrippsi,Scripps's Murrelet,5
 Synthliboramphus hypoleucus,Guadalupe Murrelet,0
-Synthliboramphus craveri,Craveri's Murrelet,5
+Synthliboramphus craveri,Craveri's Murrelet,4
 Synthliboramphus antiquus,Ancient Murrelet,8
 Synthliboramphus wumizusume,Japanese Murrelet,0
-Ptychoramphus aleuticus,Cassin's Auklet,12
+Ptychoramphus aleuticus,Cassin's Auklet,11
 Aethia psittacula,Parakeet Auklet,4
 Aethia pusilla,Least Auklet,2
 Aethia pygmaea,Whiskered Auklet,0
 Aethia cristatella,Crested Auklet,2
-Cerorhinca monocerata,Rhinoceros Auklet,19
+Cerorhinca monocerata,Rhinoceros Auklet,18
 Fratercula arctica,Atlantic Puffin,14
 Fratercula corniculata,Horned Puffin,6
 Fratercula cirrhata,Tufted Puffin,14
 Creagrus furcatus,Swallow-tailed Gull,2
-Rissa tridactyla,Black-legged Kittiwake,21
+Rissa tridactyla,Black-legged Kittiwake,20
 Rissa brevirostris,Red-legged Kittiwake,0
 Pagophila eburnea,Ivory Gull,5
-Xema sabini,Sabine's Gull,16
+Xema sabini,Sabine's Gull,15
 Saundersilarus saundersi,Saunders's Gull,1
 Chroicocephalus genei,Slender-billed Gull,7
-Chroicocephalus philadelphia,Bonaparte's Gull,28
+Chroicocephalus philadelphia,Bonaparte's Gull,27
 Chroicocephalus serranus,Andean Gull,4
 Chroicocephalus maculipennis,Brown-hooded Gull,1
 Chroicocephalus bulleri,Black-billed Gull,0
@@ -2183,7 +2183,7 @@ Hydrocoloeus minutus,Little Gull,15
 Rhodostethia rosea,Ross's Gull,7
 Leucophaeus scoresbii,Dolphin Gull,1
 Leucophaeus modestus,Gray Gull,3
-Leucophaeus atricilla,Laughing Gull,28
+Leucophaeus atricilla,Laughing Gull,27
 Leucophaeus pipixcan,Franklin's Gull,19
 Leucophaeus fuliginosus,Lava Gull,1
 Ichthyaetus melanocephalus,Mediterranean Gull,6
@@ -2196,20 +2196,20 @@ Larus belcheri,Belcher's Gull,2
 Larus atlanticus,Olrog's Gull,0
 Larus crassirostris,Black-tailed Gull,2
 Larus pacificus,Pacific Gull,3
-Larus heermanni,Heermann's Gull,22
-Larus canus,Mew Gull,22
-Larus delawarensis,Ring-billed Gull,27
-Larus occidentalis,Western Gull,22
+Larus heermanni,Heermann's Gull,21
+Larus canus,Mew Gull,21
+Larus delawarensis,Ring-billed Gull,26
+Larus occidentalis,Western Gull,21
 Larus livens,Yellow-footed Gull,4
-Larus californicus,California Gull,23
-Larus argentatus,Herring Gull,28
+Larus californicus,California Gull,22
+Larus argentatus,Herring Gull,27
 Larus michahellis,Yellow-legged Gull,11
 Larus cachinnans,Caspian Gull,5
 Larus armenicus,Armenian Gull,1
 Larus glaucoides,Iceland Gull,23
 Larus fuscus,Lesser Black-backed Gull,25
 Larus schistisagus,Slaty-backed Gull,8
-Larus glaucescens,Glaucous-winged Gull,22
+Larus glaucescens,Glaucous-winged Gull,21
 Larus hyperboreus,Glaucous Gull,23
 Larus marinus,Great Black-backed Gull,25
 Larus dominicanus,Kelp Gull,7
@@ -2224,51 +2224,51 @@ Onychoprion lunatus,Gray-backed Tern,0
 Onychoprion anaethetus,Bridled Tern,12
 Onychoprion aleuticus,Aleutian Tern,2
 Sternula albifrons,Little Tern,8
-Sternula antillarum,Least Tern,24
+Sternula antillarum,Least Tern,23
 Sternula superciliaris,Yellow-billed Tern,2
 Sternula nereis,Australian Fairy Tern,1
 Sternula lorata,Peruvian Tern,0
 Sternula saundersi,Saunders's Tern,2
 Sternula balaenarum,Damara Tern,0
 Phaetusa simplex,Large-billed Tern,3
-Gelochelidon nilotica,Gull-billed Tern,26
-Hydroprogne caspia,Caspian Tern,28
+Gelochelidon nilotica,Gull-billed Tern,25
+Hydroprogne caspia,Caspian Tern,27
 Larosterna inca,Inca Tern,2
-Chlidonias niger,Black Tern,27
+Chlidonias niger,Black Tern,26
 Chlidonias leucopterus,White-winged Tern,9
 Chlidonias hybrida,Whiskered Tern,9
 Chlidonias albostriatus,Black-fronted Tern,0
 Sterna dougallii,Roseate Tern,15
 Sterna striata,White-fronted Tern,1
 Sterna sumatrana,Black-naped Tern,4
-Sterna hirundo,Common Tern,28
-Sterna paradisaea,Arctic Tern,18
+Sterna hirundo,Common Tern,27
+Sterna paradisaea,Arctic Tern,17
 Sterna hirundinacea,South American Tern,1
 Sterna vittata,Antarctic Tern,0
-Sterna forsteri,Forster's Tern,25
+Sterna forsteri,Forster's Tern,24
 Sterna trudeaui,Snowy-crowned Tern,0
 Sterna acuticauda,Black-bellied Tern,0
 Sterna aurantia,River Tern,0
 Sterna repressa,White-cheeked Tern,2
 Sterna virgata,Kerguelen Tern,0
-Thalasseus maximus,Royal Tern,27
+Thalasseus maximus,Royal Tern,26
 Thalasseus bergii,Great Crested Tern,12
 Thalasseus sandvicensis,Sandwich Tern,23
-Thalasseus elegans,Elegant Tern,15
+Thalasseus elegans,Elegant Tern,14
 Thalasseus bengalensis,Lesser Crested Tern,6
 Thalasseus bernsteini,Chinese Crested Tern,0
-Rynchops niger,Black Skimmer,25
+Rynchops niger,Black Skimmer,24
 Rynchops flavirostris,African Skimmer,1
 Rynchops albicollis,Indian Skimmer,0
 Rhynochetos jubatus,Kagu,0
 Eurypyga helias,Sunbittern,3
 Phaethon lepturus,White-tailed Tropicbird,6
-Phaethon aethereus,Red-billed Tropicbird,8
+Phaethon aethereus,Red-billed Tropicbird,7
 Phaethon rubricauda,Red-tailed Tropicbird,1
-Gavia stellata,Red-throated Loon,27
+Gavia stellata,Red-throated Loon,26
 Gavia arctica,Arctic Loon,3
-Gavia pacifica,Pacific Loon,21
-Gavia immer,Common Loon,28
+Gavia pacifica,Pacific Loon,20
+Gavia immer,Common Loon,27
 Gavia adamsii,Yellow-billed Loon,7
 Aptenodytes patagonicus,King Penguin,1
 Aptenodytes forsteri,Emperor Penguin,0
@@ -2300,8 +2300,8 @@ Phoebetria palpebrata,Light-mantled Albatross,0
 Diomedea epomophora,Royal Albatross,1
 Diomedea exulans,Wandering Albatross,1
 Phoebastria irrorata,Waved Albatross,1
-Phoebastria immutabilis,Laysan Albatross,6
-Phoebastria nigripes,Black-footed Albatross,9
+Phoebastria immutabilis,Laysan Albatross,5
+Phoebastria nigripes,Black-footed Albatross,8
 Phoebastria albatrus,Short-tailed Albatross,0
 Oceanites oceanicus,Wilson's Storm-Petrel,17
 Oceanites pincoyae,Pincoya Storm-Petrel,1
@@ -2313,26 +2313,26 @@ Fregetta maoriana,New Zealand Storm-Petrel,0
 Fregetta tropica,Black-bellied Storm-Petrel,0
 Nesofregetta fuliginosa,Polynesian Storm-Petrel,0
 Hydrobates pelagicus,European Storm-Petrel,0
-Oceanodroma furcata,Fork-tailed Storm-Petrel,6
+Oceanodroma furcata,Fork-tailed Storm-Petrel,5
 Oceanodroma hornbyi,Ringed Storm-Petrel,0
-Oceanodroma leucorhoa,Leach's Storm-Petrel,17
+Oceanodroma leucorhoa,Leach's Storm-Petrel,16
 Oceanodroma socorroensis,Townsend's Storm-Petrel,0
 Oceanodroma cheimomnestes,Ainley's Storm-Petrel,0
 Oceanodroma monorhis,Swinhoe's Storm-Petrel,0
-Oceanodroma homochroa,Ashy Storm-Petrel,4
+Oceanodroma homochroa,Ashy Storm-Petrel,3
 Oceanodroma castro,Band-rumped Storm-Petrel,10
 Oceanodroma monteiroi,Monteiro's Storm-Petrel,0
 Oceanodroma jabejabe,Cape Verde Storm-Petrel,0
 Oceanodroma tethys,Wedge-rumped Storm-Petrel,2
-Oceanodroma melania,Black Storm-Petrel,2
+Oceanodroma melania,Black Storm-Petrel,1
 Oceanodroma macrodactyla,Guadalupe Storm-Petrel,0
 Oceanodroma markhami,Markham's Storm-Petrel,0
 Oceanodroma matsudairae,Matsudaira's Storm-Petrel,0
 Oceanodroma tristrami,Tristram's Storm-Petrel,0
-Oceanodroma microsoma,Least Storm-Petrel,2
+Oceanodroma microsoma,Least Storm-Petrel,1
 Macronectes giganteus,Southern Giant-Petrel,2
 Macronectes halli,Northern Giant-Petrel,3
-Fulmarus glacialis,Northern Fulmar,17
+Fulmarus glacialis,Northern Fulmar,16
 Fulmarus glacialoides,Southern Fulmar,1
 Thalassoica antarctica,Antarctic Petrel,0
 Daption capense,Cape Petrel,1
@@ -2392,12 +2392,12 @@ Procellaria westlandica,Westland Petrel,1
 Calonectris leucomelas,Streaked Shearwater,2
 Calonectris diomedea,Cory's Shearwater,16
 Calonectris edwardsii,Cape Verde Shearwater,0
-Ardenna creatopus,Pink-footed Shearwater,12
+Ardenna creatopus,Pink-footed Shearwater,11
 Ardenna carneipes,Flesh-footed Shearwater,3
 Ardenna gravis,Great Shearwater,15
 Ardenna pacifica,Wedge-tailed Shearwater,3
 Ardenna bulleri,Buller's Shearwater,4
-Ardenna grisea,Sooty Shearwater,21
+Ardenna grisea,Sooty Shearwater,20
 Ardenna tenuirostris,Short-tailed Shearwater,5
 Puffinus nativitatis,Christmas Shearwater,0
 Puffinus subalaris,Galapagos Shearwater,2
@@ -2409,7 +2409,7 @@ Puffinus auricularis,Townsend's Shearwater,0
 Puffinus newelli,Newell's Shearwater,0
 Puffinus myrtae,Rapa Shearwater,0
 Puffinus bryani,Bryan's Shearwater,0
-Puffinus opisthomelas,Black-vented Shearwater,10
+Puffinus opisthomelas,Black-vented Shearwater,9
 Puffinus gavia,Fluttering Shearwater,2
 Puffinus assimilis,Little Shearwater,0
 Puffinus baroli,Barolo Shearwater,0
@@ -2443,15 +2443,15 @@ Mycteria ibis,Yellow-billed Stork,4
 Mycteria leucocephala,Painted Stork,2
 Fregata ariel,Lesser Frigatebird,4
 Fregata aquila,Ascension Frigatebird,0
-Fregata magnificens,Magnificent Frigatebird,26
+Fregata magnificens,Magnificent Frigatebird,25
 Fregata andrewsi,Christmas Island Frigatebird,1
 Fregata minor,Great Frigatebird,6
-Sula dactylatra,Masked Booby,9
-Sula granti,Nazca Booby,5
+Sula dactylatra,Masked Booby,8
+Sula granti,Nazca Booby,4
 Sula nebouxii,Blue-footed Booby,7
 Sula variegata,Peruvian Booby,2
-Sula leucogaster,Brown Booby,21
-Sula sula,Red-footed Booby,6
+Sula leucogaster,Brown Booby,20
+Sula sula,Red-footed Booby,5
 Papasula abbotti,Abbott's Booby,0
 Morus bassanus,Northern Gannet,23
 Morus capensis,Cape Gannet,3
@@ -2466,9 +2466,9 @@ Microcarbo coronatus,Crowned Cormorant,1
 Microcarbo niger,Little Cormorant,4
 Microcarbo pygmeus,Pygmy Cormorant,1
 Phalacrocorax gaimardi,Red-legged Cormorant,2
-Phalacrocorax penicillatus,Brandt's Cormorant,23
+Phalacrocorax penicillatus,Brandt's Cormorant,22
 Phalacrocorax urile,Red-faced Cormorant,2
-Phalacrocorax pelagicus,Pelagic Cormorant,23
+Phalacrocorax pelagicus,Pelagic Cormorant,22
 Phalacrocorax perspicillatus,Pallas's Cormorant,0
 Phalacrocorax carbo,Great Cormorant,20
 Phalacrocorax capillatus,Japanese Cormorant,1
@@ -2483,8 +2483,8 @@ Phalacrocorax varius,Pied Cormorant,5
 Phalacrocorax fuscescens,Black-faced Cormorant,2
 Phalacrocorax aristotelis,European Shag,2
 Phalacrocorax harrisi,Flightless Cormorant,1
-Phalacrocorax brasilianus,Neotropic Cormorant,26
-Phalacrocorax auritus,Double-crested Cormorant,27
+Phalacrocorax brasilianus,Neotropic Cormorant,25
+Phalacrocorax auritus,Double-crested Cormorant,26
 Phalacrocorax magellanicus,Magellanic Cormorant,1
 Phalacrocorax bougainvillii,Guanay Cormorant,2
 Phalacrocorax ranfurlyi,Bounty Islands Shag,0
@@ -2500,8 +2500,8 @@ Phalacrocorax melanogenis,Crozet Shag,0
 Phalacrocorax verrucosus,Kerguelen Shag,0
 Phalacrocorax nivalis,Heard Island Shag,0
 Phalacrocorax purpurascens,Macquarie Shag,0
-Pelecanus erythrorhynchos,American White Pelican,26
-Pelecanus occidentalis,Brown Pelican,28
+Pelecanus erythrorhynchos,American White Pelican,25
+Pelecanus occidentalis,Brown Pelican,27
 Pelecanus thagus,Peruvian Pelican,3
 Pelecanus onocrotalus,Great White Pelican,7
 Pelecanus conspicillatus,Australian Pelican,4
@@ -2511,7 +2511,7 @@ Pelecanus crispus,Dalmatian Pelican,1
 Balaeniceps rex,Shoebill,0
 Scopus umbretta,Hamerkop,8
 Botaurus pinnatus,Pinnated Bittern,1
-Botaurus lentiginosus,American Bittern,27
+Botaurus lentiginosus,American Bittern,26
 Botaurus stellaris,Great Bittern,4
 Botaurus poiciloptilus,Australasian Bittern,0
 Zebrilus undulatus,Zigzag Heron,1
@@ -2523,14 +2523,14 @@ Ixobrychus eurhythmus,Schrenck's Bittern,1
 Ixobrychus cinnamomeus,Cinnamon Bittern,3
 Ixobrychus sturmii,Dwarf Bittern,1
 Ixobrychus flavicollis,Black Bittern,2
-Ixobrychus exilis,Least Bittern,25
+Ixobrychus exilis,Least Bittern,24
 Ixobrychus involucris,Stripe-backed Bittern,0
 Tigrisoma lineatum,Rufescent Tiger-Heron,6
 Tigrisoma fasciatum,Fasciated Tiger-Heron,3
 Tigrisoma mexicanum,Bare-throated Tiger-Heron,12
 Zonerodius heliosylus,Forest Bittern,0
 Tigriornis leucolopha,White-crested Bittern,1
-Ardea herodias,Great Blue Heron,28
+Ardea herodias,Great Blue Heron,27
 Ardea cinerea,Gray Heron,17
 Ardea cocoi,Cocoi Heron,5
 Ardea pacifica,Pacific Heron,3
@@ -2540,44 +2540,44 @@ Ardea insignis,White-bellied Heron,0
 Ardea sumatrana,Great-billed Heron,2
 Ardea goliath,Goliath Heron,5
 Ardea purpurea,Purple Heron,14
-Ardea alba,Great Egret,28
+Ardea alba,Great Egret,27
 Ardea intermedia,Intermediate Egret,11
 Egretta novaehollandiae,White-faced Heron,4
 Egretta eulophotes,Chinese Egret,3
 Egretta garzetta,Little Egret,20
 Egretta gularis,Western Reef-Heron,5
 Egretta sacra,Pacific Reef-Heron,5
-Egretta thula,Snowy Egret,27
-Egretta caerulea,Little Blue Heron,28
-Egretta tricolor,Tricolored Heron,26
-Egretta rufescens,Reddish Egret,23
+Egretta thula,Snowy Egret,26
+Egretta caerulea,Little Blue Heron,27
+Egretta tricolor,Tricolored Heron,25
+Egretta rufescens,Reddish Egret,22
 Egretta picata,Pied Heron,1
 Egretta vinaceigula,Slaty Egret,0
 Egretta ardesiaca,Black Heron,3
-Bubulcus ibis,Cattle Egret,28
+Bubulcus ibis,Cattle Egret,27
 Ardeola ralloides,Squacco Heron,10
 Ardeola grayii,Indian Pond-Heron,2
 Ardeola bacchus,Chinese Pond-Heron,4
 Ardeola speciosa,Javan Pond-Heron,3
 Ardeola idae,Madagascar Pond-Heron,1
 Ardeola rufiventris,Rufous-bellied Heron,1
-Butorides virescens,Green Heron,28
+Butorides virescens,Green Heron,27
 Butorides striata,Striated Heron,16
 Agamia agami,Agami Heron,5
 Syrigma sibilatrix,Whistling Heron,1
 Pilherodius pileatus,Capped Heron,2
-Nycticorax nycticorax,Black-crowned Night-Heron,27
+Nycticorax nycticorax,Black-crowned Night-Heron,26
 Nycticorax caledonicus,Rufous Night-Heron,4
-Nyctanassa violacea,Yellow-crowned Night-Heron,26
+Nyctanassa violacea,Yellow-crowned Night-Heron,25
 Gorsachius leuconotus,White-backed Night-Heron,1
 Gorsachius magnificus,White-eared Night-Heron,0
 Gorsachius goisagi,Japanese Night-Heron,0
 Gorsachius melanolophus,Malayan Night-Heron,1
 Cochlearius cochlearius,Boat-billed Heron,12
-Eudocimus albus,White Ibis,26
+Eudocimus albus,White Ibis,25
 Eudocimus ruber,Scarlet Ibis,1
 Plegadis falcinellus,Glossy Ibis,26
-Plegadis chihi,White-faced Ibis,24
+Plegadis chihi,White-faced Ibis,23
 Plegadis ridgwayi,Puna Ibis,2
 Lophotibis cristata,Madagascar Ibis,1
 Cercibis oxycerca,Sharp-tailed Ibis,0
@@ -2607,20 +2607,20 @@ Platalea regia,Royal Spoonbill,3
 Platalea alba,African Spoonbill,7
 Platalea minor,Black-faced Spoonbill,2
 Platalea flavipes,Yellow-billed Spoonbill,3
-Platalea ajaja,Roseate Spoonbill,25
+Platalea ajaja,Roseate Spoonbill,24
 Gymnogyps californianus,California Condor,8
 Vultur gryphus,Andean Condor,4
 Sarcoramphus papa,King Vulture,11
-Coragyps atratus,Black Vulture,28
-Cathartes aura,Turkey Vulture,28
+Coragyps atratus,Black Vulture,27
+Cathartes aura,Turkey Vulture,27
 Cathartes burrovianus,Lesser Yellow-headed Vulture,8
 Cathartes melambrotus,Greater Yellow-headed Vulture,3
 Sagittarius serpentarius,Secretarybird,4
-Pandion haliaetus,Osprey,28
+Pandion haliaetus,Osprey,27
 Gampsonyx swainsonii,Pearl Kite,4
 Elanus caeruleus,Black-winged Kite,10
 Elanus axillaris,Black-shouldered Kite,4
-Elanus leucurus,White-tailed Kite,22
+Elanus leucurus,White-tailed Kite,21
 Elanus scriptus,Letter-winged Kite,0
 Chelictinia riocourii,Scissor-tailed Kite,1
 Polyboroides typus,African Harrier-Hawk,5
@@ -2710,7 +2710,7 @@ Aquila nipalensis,Steppe Eagle,6
 Aquila adalberti,Spanish Eagle,1
 Aquila heliaca,Imperial Eagle,3
 Aquila gurneyi,Gurney's Eagle,0
-Aquila chrysaetos,Golden Eagle,26
+Aquila chrysaetos,Golden Eagle,25
 Aquila audax,Wedge-tailed Eagle,4
 Aquila africana,Cassin's Hawk-Eagle,1
 Aquila verreauxii,Verreaux's Eagle,2
@@ -2742,7 +2742,7 @@ Circus assimilis,Spotted Harrier,3
 Circus maurus,Black Harrier,0
 Circus cinereus,Cinereous Harrier,1
 Circus cyaneus,Hen Harrier,4
-Circus hudsonius,Northern Harrier,27
+Circus hudsonius,Northern Harrier,26
 Circus macrourus,Pallid Harrier,3
 Circus melanoleucos,Pied Harrier,1
 Circus pygargus,Montagu's Harrier,4
@@ -2785,8 +2785,8 @@ Accipiter madagascariensis,Madagascar Sparrowhawk,1
 Accipiter ovampensis,Ovambo Sparrowhawk,0
 Accipiter nisus,Eurasian Sparrowhawk,10
 Accipiter rufiventris,Rufous-chested Sparrowhawk,1
-Accipiter striatus,Sharp-shinned Hawk,26
-Accipiter cooperii,Cooper's Hawk,27
+Accipiter striatus,Sharp-shinned Hawk,25
+Accipiter cooperii,Cooper's Hawk,26
 Accipiter gundlachi,Gundlach's Hawk,1
 Accipiter bicolor,Bicolored Hawk,2
 Accipiter melanoleucus,Black Goshawk,3
@@ -2801,7 +2801,7 @@ Milvus milvus,Red Kite,5
 Milvus migrans,Black Kite,16
 Haliastur sphenurus,Whistling Kite,3
 Haliastur indus,Brahminy Kite,7
-Haliaeetus leucocephalus,Bald Eagle,27
+Haliaeetus leucocephalus,Bald Eagle,26
 Haliaeetus albicilla,White-tailed Eagle,1
 Haliaeetus leucoryphus,Pallas's Fish-Eagle,0
 Haliaeetus pelagicus,Steller's Sea-Eagle,0
@@ -2837,19 +2837,19 @@ Leucopternis melanops,Black-faced Hawk,0
 Leucopternis kuhli,White-browed Hawk,1
 Buteo plagiatus,Gray Hawk,20
 Buteo nitidus,Gray-lined Hawk,4
-Buteo lineatus,Red-shouldered Hawk,27
+Buteo lineatus,Red-shouldered Hawk,26
 Buteo ridgwayi,Ridgway's Hawk,0
-Buteo platypterus,Broad-winged Hawk,28
+Buteo platypterus,Broad-winged Hawk,27
 Buteo solitarius,Hawaiian Hawk,1
 Buteo brachyurus,Short-tailed Hawk,19
 Buteo albigula,White-throated Hawk,1
-Buteo swainsoni,Swainson's Hawk,25
+Buteo swainsoni,Swainson's Hawk,24
 Buteo galapagoensis,Galapagos Hawk,1
-Buteo albonotatus,Zone-tailed Hawk,17
+Buteo albonotatus,Zone-tailed Hawk,16
 Buteo ventralis,Rufous-tailed Hawk,1
-Buteo jamaicensis,Red-tailed Hawk,28
+Buteo jamaicensis,Red-tailed Hawk,27
 Buteo lagopus,Rough-legged Hawk,25
-Buteo regalis,Ferruginous Hawk,19
+Buteo regalis,Ferruginous Hawk,18
 Buteo buteo,Common Buzzard,11
 Buteo refectus,Himalayan Buzzard,2
 Buteo japonicus,Eastern Buzzard,4
@@ -2875,7 +2875,7 @@ Tyto inexspectata,Minahassa Masked-Owl,0
 Tyto rosenbergii,Sulawesi Masked-Owl,0
 Tyto longimembris,Australasian Grass-Owl,3
 Tyto capensis,African Grass-Owl,0
-Tyto alba,Barn Owl,22
+Tyto alba,Barn Owl,21
 Tyto deroepstorffi,Andaman Masked-Owl,0
 Tyto glaucops,Ashy-faced Owl,0
 Tyto soumagnei,Red Owl,1
@@ -2949,7 +2949,7 @@ Megascops sanctaecatarinae,Long-tufted Screech-Owl,0
 Megascops barbarus,Bearded Screech-Owl,0
 Megascops seductus,Balsas Screech-Owl,0
 Megascops cooperi,Pacific Screech-Owl,3
-Megascops kennicottii,Western Screech-Owl,17
+Megascops kennicottii,Western Screech-Owl,16
 Megascops asio,Eastern Screech-Owl,24
 Megascops gilesi,Santa Marta Screech-Owl,0
 Megascops roboratus,Peruvian Screech-Owl,0
@@ -2964,7 +2964,7 @@ Jubula lettii,Maned Owl,0
 Pulsatrix perspicillata,Spectacled Owl,7
 Pulsatrix koeniswaldiana,Tawny-browed Owl,0
 Pulsatrix melanota,Band-bellied Owl,0
-Bubo virginianus,Great Horned Owl,26
+Bubo virginianus,Great Horned Owl,25
 Bubo bubo,Eurasian Eagle-Owl,1
 Bubo bengalensis,Rock Eagle-Owl,0
 Bubo ascalaphus,Pharaoh Eagle-Owl,2
@@ -3023,7 +3023,7 @@ Athene brama,Spotted Owlet,3
 Athene noctua,Little Owl,4
 Athene blewitti,Forest Owlet,0
 Athene superciliaris,White-browed Owl,0
-Athene cunicularia,Burrowing Owl,22
+Athene cunicularia,Burrowing Owl,21
 Ciccaba virgata,Mottled Owl,8
 Ciccaba nigrolineata,Black-and-white Owl,4
 Ciccaba huhula,Black-banded Owl,2
@@ -3343,7 +3343,7 @@ Tanysiptera sylvia,Buff-breasted Paradise-Kingfisher,1
 Megaceryle maxima,Giant Kingfisher,5
 Megaceryle lugubris,Crested Kingfisher,1
 Megaceryle torquata,Ringed Kingfisher,18
-Megaceryle alcyon,Belted Kingfisher,28
+Megaceryle alcyon,Belted Kingfisher,27
 Ceryle rudis,Pied Kingfisher,12
 Chloroceryle amazona,Amazon Kingfisher,11
 Chloroceryle aenea,American Pygmy Kingfisher,8
@@ -3626,17 +3626,17 @@ Sasia ochracea,White-browed Piculet,1
 Nesoctites micromegas,Antillean Piculet,0
 Hemicircus concretus,Gray-and-buff Woodpecker,3
 Hemicircus canente,Heart-spotted Woodpecker,1
-Sphyrapicus thyroideus,Williamson's Sapsucker,20
+Sphyrapicus thyroideus,Williamson's Sapsucker,19
 Sphyrapicus varius,Yellow-bellied Sapsucker,25
 Sphyrapicus nuchalis,Red-naped Sapsucker,18
-Sphyrapicus ruber,Red-breasted Sapsucker,20
+Sphyrapicus ruber,Red-breasted Sapsucker,19
 Xiphidiopicus percussus,Cuban Green Woodpecker,2
 Melanerpes candidus,White Woodpecker,1
-Melanerpes lewis,Lewis's Woodpecker,15
+Melanerpes lewis,Lewis's Woodpecker,14
 Melanerpes herminieri,Guadeloupe Woodpecker,0
 Melanerpes portoricensis,Puerto Rican Woodpecker,4
 Melanerpes erythrocephalus,Red-headed Woodpecker,23
-Melanerpes formicivorus,Acorn Woodpecker,24
+Melanerpes formicivorus,Acorn Woodpecker,23
 Melanerpes chrysauchen,Golden-naped Woodpecker,5
 Melanerpes cruentatus,Yellow-tufted Woodpecker,3
 Melanerpes flavifrons,Yellow-fronted Woodpecker,0
@@ -3649,7 +3649,7 @@ Melanerpes chrysogenys,Golden-cheeked Woodpecker,3
 Melanerpes hypopolius,Gray-breasted Woodpecker,1
 Melanerpes pygmaeus,Yucatan Woodpecker,4
 Melanerpes rubricapillus,Red-crowned Woodpecker,10
-Melanerpes uropygialis,Gila Woodpecker,19
+Melanerpes uropygialis,Gila Woodpecker,18
 Melanerpes hoffmannii,Hoffmann's Woodpecker,9
 Melanerpes aurifrons,Golden-fronted Woodpecker,14
 Melanerpes carolinus,Red-bellied Woodpecker,25
@@ -3697,11 +3697,11 @@ Dendrocopos syriacus,Syrian Woodpecker,3
 Dendrocopos assimilis,Sind Woodpecker,0
 Dryobates minor,Lesser Spotted Woodpecker,1
 Dryobates cathpharius,Crimson-breasted Woodpecker,0
-Dryobates pubescens,Downy Woodpecker,26
-Dryobates nuttallii,Nuttall's Woodpecker,14
-Dryobates scalaris,Ladder-backed Woodpecker,21
+Dryobates pubescens,Downy Woodpecker,25
+Dryobates nuttallii,Nuttall's Woodpecker,13
+Dryobates scalaris,Ladder-backed Woodpecker,20
 Dryobates borealis,Red-cockaded Woodpecker,15
-Dryobates villosus,Hairy Woodpecker,27
+Dryobates villosus,Hairy Woodpecker,26
 Dryobates albolarvatus,White-headed Woodpecker,9
 Dryobates fumigatus,Smoky-brown Woodpecker,6
 Dryobates stricklandi,Strickland's Woodpecker,0
@@ -3817,7 +3817,7 @@ Colaptes rivolii,Crimson-mantled Woodpecker,2
 Colaptes atricollis,Black-necked Woodpecker,1
 Colaptes punctigula,Spot-breasted Woodpecker,3
 Colaptes melanochloros,Green-barred Woodpecker,1
-Colaptes auratus,Northern Flicker,27
+Colaptes auratus,Northern Flicker,26
 Colaptes chrysoides,Gilded Flicker,10
 Colaptes fernandinae,Fernandina's Flicker,1
 Colaptes pitius,Chilean Flicker,1
@@ -3838,7 +3838,7 @@ Phalcoboenus carunculatus,Carunculated Caracara,2
 Phalcoboenus megalopterus,Mountain Caracara,1
 Phalcoboenus albogularis,White-throated Caracara,1
 Phalcoboenus australis,Striated Caracara,1
-Caracara cheriway,Crested Caracara,25
+Caracara cheriway,Crested Caracara,24
 Caracara plancus,Southern Caracara,3
 Caracara lutosa,Guadalupe Caracara,0
 Milvago chimachima,Yellow-headed Caracara,11
@@ -3861,7 +3861,7 @@ Falco araeus,Seychelles Kestrel,0
 Falco moluccensis,Spotted Kestrel,1
 Falco cenchroides,Australian Kestrel,4
 Falco rupicoloides,Greater Kestrel,3
-Falco sparverius,American Kestrel,27
+Falco sparverius,American Kestrel,26
 Falco alopex,Fox Kestrel,0
 Falco ardosiaceus,Gray Kestrel,4
 Falco dickinsoni,Dickinson's Kestrel,0
@@ -3871,7 +3871,7 @@ Falco vespertinus,Red-footed Falcon,3
 Falco amurensis,Amur Falcon,2
 Falco eleonorae,Eleonora's Falcon,1
 Falco concolor,Sooty Falcon,2
-Falco columbarius,Merlin,27
+Falco columbarius,Merlin,26
 Falco subbuteo,Eurasian Hobby,4
 Falco cuvierii,African Hobby,1
 Falco severus,Oriental Hobby,0
@@ -3887,8 +3887,8 @@ Falco biarmicus,Lanner Falcon,6
 Falco jugger,Laggar Falcon,0
 Falco cherrug,Saker Falcon,1
 Falco rusticolus,Gyrfalcon,10
-Falco peregrinus,Peregrine Falcon,27
-Falco mexicanus,Prairie Falcon,22
+Falco peregrinus,Peregrine Falcon,26
+Falco mexicanus,Prairie Falcon,21
 Falco fasciinucha,Taita Falcon,0
 Nestor notabilis,Kea,0
 Nestor productus,Norfolk Island Kaka,0
@@ -4120,7 +4120,7 @@ Bolborhynchus ferrugineifrons,Rufous-fronted Parakeet,1
 Bolborhynchus orbygnesius,Andean Parakeet,0
 Nannopsittaca panychlora,Tepui Parrotlet,0
 Nannopsittaca dachilleae,Amazonian Parrotlet,1
-Myiopsitta monachus,Monk Parakeet,22
+Myiopsitta monachus,Monk Parakeet,21
 Brotogeris sanctithomae,Tui Parakeet,2
 Brotogeris tirica,Plain Parakeet,1
 Brotogeris versicolurus,White-winged Parakeet,8
@@ -4155,8 +4155,8 @@ Amazona festiva,Festive Parrot,0
 Amazona vinacea,Vinaceous-breasted Parrot,0
 Amazona tucumana,Tucuman Parrot,0
 Amazona pretrei,Red-spectacled Parrot,0
-Amazona viridigenalis,Red-crowned Parrot,16
-Amazona finschi,Lilac-crowned Parrot,7
+Amazona viridigenalis,Red-crowned Parrot,15
+Amazona finschi,Lilac-crowned Parrot,6
 Amazona autumnalis,Red-lored Parrot,16
 Amazona dufresniana,Blue-cheeked Parrot,1
 Amazona rhodocorytha,Red-browed Parrot,0
@@ -4258,7 +4258,7 @@ Psittacara strenuus,Pacific Parakeet,4
 Psittacara finschi,Crimson-fronted Parakeet,9
 Psittacara wagleri,Scarlet-fronted Parakeet,3
 Psittacara mitratus,Mitred Parakeet,5
-Psittacara erythrogenys,Red-masked Parakeet,10
+Psittacara erythrogenys,Red-masked Parakeet,9
 Psittacara leucophthalmus,White-eyed Parakeet,4
 Psittacara euops,Cuban Parakeet,1
 Psittacara chloropterus,Hispaniolan Parakeet,0
@@ -5251,12 +5251,12 @@ Xenotriccus callizonus,Belted Flycatcher,2
 Xenotriccus mexicanus,Pileated Flycatcher,0
 Mitrephanes phaeocercus,Tufted Flycatcher,13
 Mitrephanes olivaceus,Olive Flycatcher,0
-Contopus cooperi,Olive-sided Flycatcher,26
+Contopus cooperi,Olive-sided Flycatcher,25
 Contopus pertinax,Greater Pewee,15
 Contopus lugubris,Dark Pewee,4
 Contopus fumigatus,Smoke-colored Pewee,1
 Contopus ochraceus,Ochraceous Pewee,0
-Contopus sordidulus,Western Wood-Pewee,23
+Contopus sordidulus,Western Wood-Pewee,22
 Contopus virens,Eastern Wood-Pewee,26
 Contopus cinereus,Tropical Pewee,13
 Contopus caribaeus,Cuban Pewee,4
@@ -5269,22 +5269,22 @@ Cnemotriccus fuscatus,Fuscous Flycatcher,1
 Empidonax flaviventris,Yellow-bellied Flycatcher,22
 Empidonax virescens,Acadian Flycatcher,21
 Empidonax alnorum,Alder Flycatcher,21
-Empidonax traillii,Willow Flycatcher,27
+Empidonax traillii,Willow Flycatcher,26
 Empidonax albigularis,White-throated Flycatcher,1
 Empidonax minimus,Least Flycatcher,25
-Empidonax hammondii,Hammond's Flycatcher,19
-Empidonax wrightii,Gray Flycatcher,16
-Empidonax oberholseri,Dusky Flycatcher,19
+Empidonax hammondii,Hammond's Flycatcher,18
+Empidonax wrightii,Gray Flycatcher,15
+Empidonax oberholseri,Dusky Flycatcher,18
 Empidonax affinis,Pine Flycatcher,1
-Empidonax difficilis,Pacific-slope Flycatcher,23
+Empidonax difficilis,Pacific-slope Flycatcher,22
 Empidonax occidentalis,Cordilleran Flycatcher,18
 Empidonax flavescens,Yellowish Flycatcher,8
 Empidonax fulvifrons,Buff-breasted Flycatcher,13
 Empidonax atriceps,Black-capped Flycatcher,5
-Sayornis nigricans,Black Phoebe,24
-Sayornis phoebe,Eastern Phoebe,27
-Sayornis saya,Say's Phoebe,22
-Pyrocephalus rubinus,Vermilion Flycatcher,24
+Sayornis nigricans,Black Phoebe,23
+Sayornis phoebe,Eastern Phoebe,26
+Sayornis saya,Say's Phoebe,21
+Pyrocephalus rubinus,Vermilion Flycatcher,23
 Lessonia rufa,Austral Negrito,0
 Lessonia oreas,Andean Negrito,0
 Knipolegus orenocensis,Riverside Tyrant,0
@@ -5380,7 +5380,7 @@ Rhytipterna immunda,Pale-bellied Mourner,0
 Myiarchus semirufus,Rufous Flycatcher,0
 Myiarchus yucatanensis,Yucatan Flycatcher,1
 Myiarchus barbirostris,Sad Flycatcher,0
-Myiarchus tuberculifer,Dusky-capped Flycatcher,21
+Myiarchus tuberculifer,Dusky-capped Flycatcher,20
 Myiarchus swainsoni,Swainson's Flycatcher,3
 Myiarchus venezuelensis,Venezuelan Flycatcher,0
 Myiarchus panamensis,Panama Flycatcher,4
@@ -5388,7 +5388,7 @@ Myiarchus ferox,Short-crested Flycatcher,4
 Myiarchus apicalis,Apical Flycatcher,0
 Myiarchus phaeocephalus,Sooty-crowned Flycatcher,0
 Myiarchus cephalotes,Pale-edged Flycatcher,1
-Myiarchus cinerascens,Ash-throated Flycatcher,23
+Myiarchus cinerascens,Ash-throated Flycatcher,22
 Myiarchus nuttingi,Nutting's Flycatcher,3
 Myiarchus crinitus,Great Crested Flycatcher,26
 Myiarchus tyrannulus,Brown-crested Flycatcher,16
@@ -5401,7 +5401,7 @@ Myiarchus antillarum,Puerto Rican Flycatcher,3
 Myiarchus oberi,Lesser Antillean Flycatcher,0
 Deltarhynchus flammulatus,Flammulated Flycatcher,2
 Pitangus lictor,Lesser Kiskadee,4
-Pitangus sulphuratus,Great Kiskadee,23
+Pitangus sulphuratus,Great Kiskadee,22
 Megarynchus pitangua,Boat-billed Flycatcher,15
 Myiozetetes cayanensis,Rusty-margined Flycatcher,9
 Myiozetetes similis,Social Flycatcher,20
@@ -5424,15 +5424,15 @@ Tyrannopsis sulphurea,Sulphury Flycatcher,2
 Tyrannus niveigularis,Snowy-throated Kingbird,0
 Tyrannus albogularis,White-throated Kingbird,1
 Tyrannus melancholicus,Tropical Kingbird,22
-Tyrannus couchii,Couch's Kingbird,18
-Tyrannus vociferans,Cassin's Kingbird,21
-Tyrannus crassirostris,Thick-billed Kingbird,13
-Tyrannus verticalis,Western Kingbird,25
-Tyrannus tyrannus,Eastern Kingbird,27
+Tyrannus couchii,Couch's Kingbird,17
+Tyrannus vociferans,Cassin's Kingbird,20
+Tyrannus crassirostris,Thick-billed Kingbird,12
+Tyrannus verticalis,Western Kingbird,24
+Tyrannus tyrannus,Eastern Kingbird,26
 Tyrannus dominicensis,Gray Kingbird,14
 Tyrannus caudifasciatus,Loggerhead Kingbird,8
 Tyrannus cubensis,Giant Kingbird,0
-Tyrannus forficatus,Scissor-tailed Flycatcher,18
+Tyrannus forficatus,Scissor-tailed Flycatcher,17
 Tyrannus savana,Fork-tailed Flycatcher,12
 Oxyruncus cristatus,Sharpbill,0
 Carpornis cucullata,Hooded Berryeater,0
@@ -6278,7 +6278,7 @@ Lanius vittatus,Bay-backed Shrike,0
 Lanius schach,Long-tailed Shrike,7
 Lanius tephronotus,Gray-backed Shrike,2
 Lanius validirostris,Gray-capped Shrike,0
-Lanius ludovicianus,Loggerhead Shrike,25
+Lanius ludovicianus,Loggerhead Shrike,24
 Lanius borealis,Northern Shrike,22
 Lanius meridionalis,Iberian Gray Shrike,3
 Lanius excubitor,Great Gray Shrike,4
@@ -6343,18 +6343,18 @@ Vireo modestus,Jamaican Vireo,0
 Vireo gundlachii,Cuban Vireo,3
 Vireo latimeri,Puerto Rican Vireo,4
 Vireo nanus,Flat-billed Vireo,0
-Vireo bellii,Bell's Vireo,20
-Vireo vicinior,Gray Vireo,11
-Vireo huttoni,Hutton's Vireo,22
+Vireo bellii,Bell's Vireo,19
+Vireo vicinior,Gray Vireo,10
+Vireo huttoni,Hutton's Vireo,21
 Vireo flavifrons,Yellow-throated Vireo,24
 Vireo carmioli,Yellow-winged Vireo,3
 Vireo masteri,Choco Vireo,0
-Vireo cassinii,Cassin's Vireo,18
-Vireo solitarius,Blue-headed Vireo,26
+Vireo cassinii,Cassin's Vireo,17
+Vireo solitarius,Blue-headed Vireo,25
 Vireo plumbeus,Plumbeous Vireo,16
 Vireo sclateri,Tepui Vireo,0
 Vireo philadelphicus,Philadelphia Vireo,25
-Vireo gilvus,Warbling Vireo,27
+Vireo gilvus,Warbling Vireo,26
 Vireo leucophrys,Brown-capped Vireo,4
 Vireo olivaceus,Red-eyed Vireo,26
 Vireo chivi,Chivi Vireo,3
@@ -6589,7 +6589,7 @@ Cyanolyca pulchra,Beautiful Jay,0
 Cyanolyca armillata,Black-collared Jay,1
 Cyanolyca turcosa,Turquoise Jay,0
 Cyanolyca viridicyanus,White-collared Jay,1
-Calocitta colliei,Black-throated Magpie-Jay,4
+Calocitta colliei,Black-throated Magpie-Jay,3
 Calocitta formosa,White-throated Magpie-Jay,10
 Psilorhinus morio,Brown Jay,14
 Cyanocorax dickeyi,Tufted Jay,0
@@ -6608,12 +6608,12 @@ Cyanocorax cayanus,Cayenne Jay,1
 Cyanocorax heilprini,Azure-naped Jay,0
 Cyanocorax chrysops,Plush-crested Jay,0
 Cyanocorax cyanopogon,White-naped Jay,0
-Gymnorhinus cyanocephalus,Pinyon Jay,14
-Cyanocitta stelleri,Steller's Jay,25
+Gymnorhinus cyanocephalus,Pinyon Jay,13
+Cyanocitta stelleri,Steller's Jay,24
 Cyanocitta cristata,Blue Jay,25
 Aphelocoma coerulescens,Florida Scrub-Jay,9
 Aphelocoma insularis,Island Scrub-Jay,6
-Aphelocoma californica,California Scrub-Jay,21
+Aphelocoma californica,California Scrub-Jay,20
 Aphelocoma woodhouseii,Woodhouse's Scrub-Jay,17
 Aphelocoma wollweberi,Mexican Jay,15
 Aphelocoma ultramarina,Transvolcanic Jay,1
@@ -6654,7 +6654,7 @@ Podoces hendersoni,Mongolian Ground-Jay,0
 Podoces biddulphi,Xinjiang Ground-Jay,0
 Podoces panderi,Turkestan Ground-Jay,0
 Podoces pleskei,Iranian Ground-Jay,0
-Nucifraga columbiana,Clark's Nutcracker,23
+Nucifraga columbiana,Clark's Nutcracker,22
 Nucifraga caryocatactes,Eurasian Nutcracker,2
 Nucifraga multipunctata,Kashmir Nutcracker,0
 Pyrrhocorax pyrrhocorax,Red-billed Chough,5
@@ -6676,7 +6676,7 @@ Corvus fuscicapillus,Brown-headed Crow,0
 Corvus tristis,Gray Crow,0
 Corvus capensis,Cape Crow,5
 Corvus frugilegus,Rook,5
-Corvus brachyrhynchos,American Crow,27
+Corvus brachyrhynchos,American Crow,26
 Corvus caurinus,Northwestern Crow,13
 Corvus palmarum,Palm Crow,0
 Corvus nasicus,Cuban Crow,3
@@ -6703,7 +6703,7 @@ Corvus edithae,Somali Crow,0
 Corvus rhipidurus,Fan-tailed Raven,0
 Corvus albicollis,White-necked Raven,4
 Corvus crassirostris,Thick-billed Raven,0
-Corvus corax,Common Raven,28
+Corvus corax,Common Raven,27
 Corcorax melanorhamphos,White-winged Chough,3
 Struthidea cinerea,Apostlebird,3
 Lycocorax pyrrhopterus,Paradise-crow,0
@@ -6865,7 +6865,7 @@ Mirafra affinis,Jerdon's Bushlark,0
 Mirafra erythroptera,Indian Bushlark,0
 Mirafra rufa,Rusty Lark,0
 Mirafra gilletti,Gillett's Lark,0
-Eremophila alpestris,Horned Lark,27
+Eremophila alpestris,Horned Lark,26
 Eremophila bilopha,Temminck's Lark,0
 Calandrella blanfordi,Blanford's Lark,0
 Calandrella erlangeri,Erlanger's Lark,0
@@ -6914,9 +6914,9 @@ Orochelidon andecola,Andean Swallow,0
 Atticora pileata,Black-capped Swallow,2
 Atticora tibialis,White-thighed Swallow,1
 Atticora fasciata,White-banded Swallow,3
-Stelgidopteryx serripennis,Northern Rough-winged Swallow,28
+Stelgidopteryx serripennis,Northern Rough-winged Swallow,27
 Stelgidopteryx ruficollis,Southern Rough-winged Swallow,11
-Progne subis,Purple Martin,27
+Progne subis,Purple Martin,26
 Progne cryptoleuca,Cuban Martin,1
 Progne dominicensis,Caribbean Martin,5
 Progne sinaloae,Sinaloa Martin,0
@@ -6925,14 +6925,14 @@ Progne elegans,Southern Martin,0
 Progne murphyi,Peruvian Martin,0
 Progne modesta,Galapagos Martin,0
 Progne tapera,Brown-chested Martin,3
-Tachycineta bicolor,Tree Swallow,27
+Tachycineta bicolor,Tree Swallow,26
 Tachycineta stolzmanni,Tumbes Swallow,0
 Tachycineta albiventer,White-winged Swallow,5
 Tachycineta leucorrhoa,White-rumped Swallow,1
 Tachycineta leucopyga,Chilean Swallow,1
 Tachycineta albilinea,Mangrove Swallow,14
 Tachycineta euchrysea,Golden Swallow,0
-Tachycineta thalassina,Violet-green Swallow,25
+Tachycineta thalassina,Violet-green Swallow,24
 Tachycineta cyaneoviridis,Bahama Swallow,1
 Riparia paludicola,Plain Martin,3
 Riparia chinensis,Gray-throated Martin,4
@@ -6945,7 +6945,7 @@ Phedina brazzae,Brazza's Martin,0
 Ptyonoprogne rupestris,Eurasian Crag-Martin,7
 Ptyonoprogne fuligula,Rock Martin,8
 Ptyonoprogne concolor,Dusky Crag-Martin,1
-Hirundo rustica,Barn Swallow,28
+Hirundo rustica,Barn Swallow,27
 Hirundo lucida,Red-chested Swallow,1
 Hirundo aethiopica,Ethiopian Swallow,3
 Hirundo angolensis,Angola Swallow,2
@@ -6976,8 +6976,8 @@ Petrochelidon fuliginosa,Forest Swallow,0
 Petrochelidon fluvicola,Streak-throated Swallow,0
 Petrochelidon ariel,Fairy Martin,3
 Petrochelidon nigricans,Tree Martin,3
-Petrochelidon pyrrhonota,Cliff Swallow,26
-Petrochelidon fulva,Cave Swallow,18
+Petrochelidon pyrrhonota,Cliff Swallow,25
+Petrochelidon fulva,Cave Swallow,17
 Petrochelidon rufocollaris,Chestnut-collared Swallow,0
 Delichon urbicum,Common House-Martin,9
 Delichon dasypus,Asian House-Martin,4
@@ -7024,7 +7024,7 @@ Poecile montanus,Willow Tit,3
 Poecile weigoldicus,Sichuan Tit,0
 Poecile carolinensis,Carolina Chickadee,24
 Poecile atricapillus,Black-capped Chickadee,24
-Poecile gambeli,Mountain Chickadee,25
+Poecile gambeli,Mountain Chickadee,24
 Poecile sclateri,Mexican Chickadee,12
 Poecile rufescens,Chestnut-backed Chickadee,21
 Poecile hudsonicus,Boreal Chickadee,21
@@ -7033,10 +7033,10 @@ Cyanistes caeruleus,Eurasian Blue Tit,8
 Cyanistes teneriffae,African Blue Tit,1
 Cyanistes cyanus,Azure Tit,0
 Baeolophus wollweberi,Bridled Titmouse,16
-Baeolophus inornatus,Oak Titmouse,14
+Baeolophus inornatus,Oak Titmouse,13
 Baeolophus ridgwayi,Juniper Titmouse,15
 Baeolophus bicolor,Tufted Titmouse,25
-Baeolophus atricristatus,Black-crested Titmouse,14
+Baeolophus atricristatus,Black-crested Titmouse,13
 Pseudopodoces humilis,Ground Tit,0
 Parus monticolus,Green-backed Tit,3
 Parus major,Great Tit,12
@@ -7061,7 +7061,7 @@ Melaniparus fringillinus,Red-throated Tit,0
 Melaniparus leuconotus,White-backed Black-Tit,0
 Melaniparus cinerascens,Ashy Tit,1
 Melaniparus afer,Gray Tit,0
-Auriparus flaviceps,Verdin,20
+Auriparus flaviceps,Verdin,19
 Remiz pendulinus,Eurasian Penduline-Tit,4
 Remiz macronyx,Black-headed Penduline-Tit,0
 Remiz coronatus,White-crowned Penduline-Tit,0
@@ -7081,7 +7081,7 @@ Aegithalos concinnus,Black-throated Tit,3
 Aegithalos niveogularis,White-throated Tit,0
 Aegithalos iouschistos,Black-browed Tit,2
 Aegithalos fuliginosus,Sooty Tit,0
-Psaltriparus minimus,Bushtit,23
+Psaltriparus minimus,Bushtit,22
 Psaltria exilis,Pygmy Tit,1
 Sitta castanea,Indian Nuthatch,0
 Sitta cinnamoventris,Chestnut-bellied Nuthatch,2
@@ -7091,11 +7091,11 @@ Sitta nagaensis,Chestnut-vented Nuthatch,0
 Sitta cashmirensis,Kashmir Nuthatch,0
 Sitta himalayensis,White-tailed Nuthatch,2
 Sitta victoriae,White-browed Nuthatch,0
-Sitta canadensis,Red-breasted Nuthatch,27
+Sitta canadensis,Red-breasted Nuthatch,26
 Sitta leucopsis,White-cheeked Nuthatch,0
 Sitta przewalskii,Przevalski's Nuthatch,0
-Sitta carolinensis,White-breasted Nuthatch,27
-Sitta pygmaea,Pygmy Nuthatch,23
+Sitta carolinensis,White-breasted Nuthatch,26
+Sitta pygmaea,Pygmy Nuthatch,22
 Sitta pusilla,Brown-headed Nuthatch,19
 Sitta whiteheadi,Corsican Nuthatch,0
 Sitta ledanti,Algerian Nuthatch,0
@@ -7114,7 +7114,7 @@ Tichodroma muraria,Wallcreeper,4
 Certhia familiaris,Eurasian Treecreeper,1
 Certhia hodgsoni,Hodgson's Treecreeper,0
 Certhia tianquanensis,Sichuan Treecreeper,0
-Certhia americana,Brown Creeper,27
+Certhia americana,Brown Creeper,26
 Certhia brachydactyla,Short-toed Treecreeper,5
 Certhia himalayana,Bar-tailed Treecreeper,2
 Certhia nipalensis,Rusty-flanked Treecreeper,2
@@ -7122,18 +7122,18 @@ Certhia discolor,Sikkim Treecreeper,0
 Certhia manipurensis,Hume's Treecreeper,1
 Salpornis salvadori,African Spotted Creeper,0
 Salpornis spilonota,Indian Spotted Creeper,0
-Salpinctes obsoletus,Rock Wren,21
+Salpinctes obsoletus,Rock Wren,20
 Microcerculus philomela,Nightingale Wren,3
 Microcerculus marginatus,Scaly-breasted Wren,5
 Microcerculus ustulatus,Flutist Wren,0
 Microcerculus bambla,Wing-banded Wren,0
 Odontorchilus branickii,Gray-mantled Wren,0
 Odontorchilus cinereus,Tooth-billed Wren,0
-Catherpes mexicanus,Canyon Wren,23
+Catherpes mexicanus,Canyon Wren,22
 Hylorchilus sumichrasti,Sumichrast's Wren,0
 Hylorchilus navai,Nava's Wren,0
 Ferminia cerverai,Zapata Wren,0
-Troglodytes aedon,House Wren,28
+Troglodytes aedon,House Wren,27
 Troglodytes cobbi,Cobb's Wren,0
 Troglodytes sissonii,Socorro Wren,0
 Troglodytes tanneri,Clarion Wren,0
@@ -7149,9 +7149,9 @@ Thryorchilus browni,Timberline Wren,4
 Cistothorus platensis,Sedge Wren,22
 Cistothorus meridae,Merida Wren,0
 Cistothorus apolinari,Apolinar's Wren,1
-Cistothorus palustris,Marsh Wren,27
-Thryothorus ludovicianus,Carolina Wren,26
-Thryomanes bewickii,Bewick's Wren,23
+Cistothorus palustris,Marsh Wren,26
+Thryothorus ludovicianus,Carolina Wren,25
+Thryomanes bewickii,Bewick's Wren,22
 Campylorhynchus albobrunneus,White-headed Wren,0
 Campylorhynchus zonatus,Band-backed Wren,10
 Campylorhynchus megalopterus,Gray-barred Wren,1
@@ -7160,7 +7160,7 @@ Campylorhynchus rufinucha,Rufous-naped Wren,10
 Campylorhynchus gularis,Spotted Wren,0
 Campylorhynchus jocosus,Boucard's Wren,0
 Campylorhynchus yucatanicus,Yucatan Wren,0
-Campylorhynchus brunneicapillus,Cactus Wren,20
+Campylorhynchus brunneicapillus,Cactus Wren,19
 Campylorhynchus nuchalis,Stripe-backed Wren,0
 Campylorhynchus fasciatus,Fasciated Wren,0
 Campylorhynchus griseus,Bicolored Wren,3
@@ -7210,10 +7210,10 @@ Cyphorhinus arada,Musician Wren,2
 Microbates collaris,Collared Gnatwren,0
 Microbates cinereiventris,Tawny-faced Gnatwren,1
 Ramphocaenus melanurus,Long-billed Gnatwren,10
-Polioptila caerulea,Blue-gray Gnatcatcher,26
+Polioptila caerulea,Blue-gray Gnatcatcher,25
 Polioptila lembeyei,Cuban Gnatcatcher,0
-Polioptila californica,California Gnatcatcher,8
-Polioptila melanura,Black-tailed Gnatcatcher,21
+Polioptila californica,California Gnatcatcher,7
+Polioptila melanura,Black-tailed Gnatcatcher,20
 Polioptila nigriceps,Black-capped Gnatcatcher,13
 Polioptila albiloris,White-lored Gnatcatcher,5
 Polioptila plumbea,Tropical Gnatcatcher,11
@@ -7371,7 +7371,7 @@ Ixos mcclellandii,Mountain Bulbul,2
 Ixos virescens,Sunda Bulbul,1
 Ixos malaccensis,Streaked Bulbul,2
 Regulus satrapa,Golden-crowned Kinglet,25
-Regulus calendula,Ruby-crowned Kinglet,27
+Regulus calendula,Ruby-crowned Kinglet,26
 Regulus regulus,Goldcrest,7
 Regulus goodfellowi,Flamecrest,1
 Regulus madeirensis,Madeira Firecrest,0
@@ -7840,7 +7840,7 @@ Fulvetta cinereiceps,Gray-hooded Fulvetta,0
 Fulvetta manipurensis,Streak-throated Fulvetta,0
 Rhopophilus albosuperciliaris,Tarim Babbler,0
 Rhopophilus pekinensis,Beijing Babbler,0
-Chamaea fasciata,Wrentit,17
+Chamaea fasciata,Wrentit,16
 Conostoma aemodium,Great Parrotbill,0
 Cholornis unicolor,Brown Parrotbill,0
 Cholornis paradoxa,Three-toed Parrotbill,0
@@ -8578,13 +8578,13 @@ Oenanthe bottae,Red-breasted Wheatear,0
 Oenanthe heuglini,Heuglin's Wheatear,0
 Grandala coelicolor,Grandala,2
 Sialia sialis,Eastern Bluebird,24
-Sialia mexicana,Western Bluebird,23
-Sialia currucoides,Mountain Bluebird,22
+Sialia mexicana,Western Bluebird,22
+Sialia currucoides,Mountain Bluebird,21
 Neocossyphus fraseri,Rufous Flycatcher-Thrush,1
 Neocossyphus finschi,Finsch's Flycatcher-Thrush,0
 Neocossyphus rufus,Red-tailed Ant-Thrush,1
 Neocossyphus poensis,White-tailed Ant-Thrush,0
-Myadestes townsendi,Townsend's Solitaire,23
+Myadestes townsendi,Townsend's Solitaire,22
 Myadestes occidentalis,Brown-backed Solitaire,4
 Myadestes elisabeth,Cuban Solitaire,0
 Myadestes genibarbis,Rufous-throated Solitaire,0
@@ -8635,8 +8635,8 @@ Catharus dryas,Spotted Nightingale-Thrush,1
 Catharus fuscescens,Veery,25
 Catharus minimus,Gray-cheeked Thrush,23
 Catharus bicknelli,Bicknell's Thrush,14
-Catharus ustulatus,Swainson's Thrush,27
-Catharus guttatus,Hermit Thrush,27
+Catharus ustulatus,Swainson's Thrush,26
+Catharus guttatus,Hermit Thrush,26
 Hylocichla mustelina,Wood Thrush,26
 Entomodestes coracinus,Black Solitaire,0
 Entomodestes leucotis,White-eared Solitaire,0
@@ -8701,7 +8701,7 @@ Turdus jamaicensis,White-eyed Thrush,0
 Turdus swalesi,La Selle Thrush,0
 Turdus infuscatus,Black Thrush,1
 Turdus nigrescens,Sooty Thrush,6
-Turdus migratorius,American Robin,28
+Turdus migratorius,American Robin,27
 Turdus rufopalliatus,Rufous-backed Robin,5
 Turdus rufitorques,Rufous-collared Robin,2
 Turdus falcklandii,Austral Thrush,1
@@ -8763,10 +8763,10 @@ Toxostoma longirostre,Long-billed Thrasher,13
 Toxostoma guttatum,Cozumel Thrasher,0
 Toxostoma bendirei,Bendire's Thrasher,7
 Toxostoma cinereum,Gray Thrasher,0
-Toxostoma redivivum,California Thrasher,14
-Toxostoma lecontei,LeConte's Thrasher,7
-Toxostoma crissale,Crissal Thrasher,16
-Oreoscoptes montanus,Sage Thrasher,17
+Toxostoma redivivum,California Thrasher,13
+Toxostoma lecontei,LeConte's Thrasher,6
+Toxostoma crissale,Crissal Thrasher,15
+Oreoscoptes montanus,Sage Thrasher,16
 Mimus thenca,Chilean Mockingbird,1
 Mimus patagonicus,Patagonian Mockingbird,0
 Mimus saturninus,Chalk-browed Mockingbird,2
@@ -8780,7 +8780,7 @@ Mimus melanotis,San Cristobal Mockingbird,1
 Mimus longicaudatus,Long-tailed Mockingbird,3
 Mimus graysoni,Socorro Mockingbird,0
 Mimus gilvus,Tropical Mockingbird,12
-Mimus polyglottos,Northern Mockingbird,27
+Mimus polyglottos,Northern Mockingbird,26
 Rhabdornis mystacalis,Stripe-sided Rhabdornis,0
 Rhabdornis grandis,Long-billed Rhabdornis,0
 Rhabdornis inornatus,Stripe-breasted Rhabdornis,0
@@ -8827,7 +8827,7 @@ Gracula religiosa,Common Hill Myna,4
 Gracula indica,Southern Hill Myna,0
 Gracula enganensis,Enggano Myna,0
 Gracula robusta,Nias Myna,0
-Sturnus vulgaris,European Starling,28
+Sturnus vulgaris,European Starling,27
 Sturnus unicolor,Spotless Starling,4
 Creatophora cinerea,Wattled Starling,2
 Pastor roseus,Rosy Starling,1
@@ -9158,7 +9158,7 @@ Anthus gustavi,Pechora Pipit,1
 Anthus cervinus,Red-throated Pipit,4
 Anthus spinoletta,Water Pipit,4
 Anthus petrosus,Rock Pipit,1
-Anthus rubescens,American Pipit,26
+Anthus rubescens,American Pipit,25
 Anthus spragueii,Sprague's Pipit,12
 Anthus lutescens,Yellowish Pipit,1
 Anthus peruvianus,Peruvian Pipit,1
@@ -9185,7 +9185,7 @@ Macronyx grimwoodi,Grimwood's Longclaw,0
 Urocynchramus pylzowi,Przevalski's Pinktail,0
 Elachura formosa,Spotted Elachura,0
 Bombycilla garrulus,Bohemian Waxwing,17
-Bombycilla cedrorum,Cedar Waxwing,27
+Bombycilla cedrorum,Cedar Waxwing,26
 Bombycilla japonica,Japanese Waxwing,0
 Moho braccatus,Kauai Oo,0
 Moho apicalis,Oahu Oo,0
@@ -9195,7 +9195,7 @@ Chaetoptila angustipluma,Kioea,0
 Phainoptila melanoxantha,Black-and-yellow Silky-flycatcher,4
 Ptiliogonys cinereus,Gray Silky-flycatcher,4
 Ptiliogonys caudatus,Long-tailed Silky-flycatcher,5
-Phainopepla nitens,Phainopepla,21
+Phainopepla nitens,Phainopepla,20
 Dulus dominicus,Palmchat,0
 Hylocitrea bonensis,Hylocitrea,0
 Hypocolius ampelinus,Hypocolius,0
@@ -9331,8 +9331,8 @@ Leucosticte arctoa,Asian Rosy-Finch,0
 Leucosticte tephrocotis,Gray-crowned Rosy-Finch,13
 Leucosticte atrata,Black Rosy-Finch,9
 Leucosticte australis,Brown-capped Rosy-Finch,10
-Haemorhous mexicanus,House Finch,27
-Haemorhous purpureus,Purple Finch,26
+Haemorhous mexicanus,House Finch,26
+Haemorhous purpureus,Purple Finch,25
 Haemorhous cassinii,Cassin's Finch,20
 Rhodospiza obsoleta,Desert Finch,2
 Rhynchostruthus socotranus,Golden-winged Grosbeak,0
@@ -9407,13 +9407,13 @@ Serinus alario,Black-headed Canary,0
 Serinus leucolaemus,Damara Canary,0
 Spinus thibetanus,Tibetan Serin,0
 Spinus spinus,Eurasian Siskin,4
-Spinus pinus,Pine Siskin,27
+Spinus pinus,Pine Siskin,26
 Spinus atriceps,Black-capped Siskin,1
 Spinus notatus,Black-headed Siskin,3
 Spinus dominicensis,Antillean Siskin,0
-Spinus psaltria,Lesser Goldfinch,23
-Spinus lawrencei,Lawrence's Goldfinch,11
-Spinus tristis,American Goldfinch,27
+Spinus psaltria,Lesser Goldfinch,22
+Spinus lawrencei,Lawrence's Goldfinch,10
+Spinus tristis,American Goldfinch,26
 Spinus spinescens,Andean Siskin,1
 Spinus yarrellii,Yellow-faced Siskin,0
 Spinus xanthogastrus,Yellow-bellied Siskin,4
@@ -9496,22 +9496,22 @@ Peucaea mystacalis,Bridled Sparrow,0
 Peucaea botterii,Botteri's Sparrow,12
 Peucaea cassinii,Cassin's Sparrow,16
 Peucaea aestivalis,Bachman's Sparrow,11
-Ammodramus savannarum,Grasshopper Sparrow,26
+Ammodramus savannarum,Grasshopper Sparrow,25
 Ammodramus humeralis,Grassland Sparrow,2
 Ammodramus aurifrons,Yellow-browed Sparrow,3
 Arremonops rufivirgatus,Olive Sparrow,15
 Arremonops chloronotus,Green-backed Sparrow,4
 Arremonops conirostris,Black-striped Sparrow,5
 Arremonops tocuyensis,Tocuyo Sparrow,0
-Spizella passerina,Chipping Sparrow,27
-Spizella pallida,Clay-colored Sparrow,23
-Spizella atrogularis,Black-chinned Sparrow,14
+Spizella passerina,Chipping Sparrow,26
+Spizella pallida,Clay-colored Sparrow,22
+Spizella atrogularis,Black-chinned Sparrow,13
 Spizella pusilla,Field Sparrow,23
-Spizella breweri,Brewer's Sparrow,21
+Spizella breweri,Brewer's Sparrow,20
 Spizella wortheni,Worthen's Sparrow,0
-Amphispiza bilineata,Black-throated Sparrow,20
+Amphispiza bilineata,Black-throated Sparrow,19
 Amphispiza quinquestriata,Five-striped Sparrow,4
-Chondestes grammacus,Lark Sparrow,24
+Chondestes grammacus,Lark Sparrow,23
 Calamospiza melanocorys,Lark Bunting,16
 Arremon costaricensis,Costa Rican Brushfinch,0
 Arremon basilicus,Sierra Nevada Brushfinch,0
@@ -9533,47 +9533,47 @@ Arremon brunneinucha,Chestnut-capped Brushfinch,7
 Arremon crassirostris,Sooty-faced Finch,3
 Arremon castaneiceps,Olive Finch,0
 Spizelloides arborea,American Tree Sparrow,23
-Passerella iliaca,Fox Sparrow,27
-Junco hyemalis,Dark-eyed Junco,28
+Passerella iliaca,Fox Sparrow,26
+Junco hyemalis,Dark-eyed Junco,27
 Junco insularis,Guadalupe Junco,0
 Junco phaeonotus,Yellow-eyed Junco,15
 Junco bairdi,Baird's Junco,0
 Junco vulcani,Volcano Junco,4
 Zonotrichia capensis,Rufous-collared Sparrow,11
-Zonotrichia leucophrys,White-crowned Sparrow,27
-Zonotrichia atricapilla,Golden-crowned Sparrow,17
+Zonotrichia leucophrys,White-crowned Sparrow,26
+Zonotrichia atricapilla,Golden-crowned Sparrow,16
 Zonotrichia querula,Harris's Sparrow,18
 Zonotrichia albicollis,White-throated Sparrow,25
-Artemisiospiza nevadensis,Sagebrush Sparrow,13
+Artemisiospiza nevadensis,Sagebrush Sparrow,12
 Artemisiospiza belli,Bell's Sparrow,5
 Oriturus superciliosus,Striped Sparrow,0
-Pooecetes gramineus,Vesper Sparrow,26
+Pooecetes gramineus,Vesper Sparrow,25
 Ammospiza leconteii,LeConte's Sparrow,17
 Ammospiza maritima,Seaside Sparrow,19
 Ammospiza nelsoni,Nelson's Sparrow,19
 Ammospiza caudacuta,Saltmarsh Sparrow,16
-Passerculus sandwichensis,Savannah Sparrow,27
+Passerculus sandwichensis,Savannah Sparrow,26
 Centronyx bairdii,Baird's Sparrow,6
 Centronyx henslowii,Henslow's Sparrow,17
 Xenospiza baileyi,Sierra Madre Sparrow,0
-Melospiza melodia,Song Sparrow,27
-Melospiza lincolnii,Lincoln's Sparrow,26
+Melospiza melodia,Song Sparrow,26
+Melospiza lincolnii,Lincoln's Sparrow,25
 Melospiza georgiana,Swamp Sparrow,25
 Pezopetes capitalis,Large-footed Finch,6
 Torreornis inexpectata,Zapata Sparrow,0
 Melozone kieneri,Rusty-crowned Ground-Sparrow,1
 Melozone fusca,Canyon Towhee,17
 Melozone albicollis,White-throated Towhee,1
-Melozone aberti,Abert's Towhee,18
-Melozone crissalis,California Towhee,18
+Melozone aberti,Abert's Towhee,17
+Melozone crissalis,California Towhee,17
 Melozone leucotis,White-eared Ground-Sparrow,8
 Melozone biarcuata,White-faced Ground-Sparrow,2
 Melozone cabanisi,Cabanis's Ground-Sparrow,1
 Aimophila rufescens,Rusty Sparrow,1
-Aimophila ruficeps,Rufous-crowned Sparrow,23
+Aimophila ruficeps,Rufous-crowned Sparrow,22
 Aimophila notosticta,Oaxaca Sparrow,0
-Pipilo chlorurus,Green-tailed Towhee,20
-Pipilo maculatus,Spotted Towhee,25
+Pipilo chlorurus,Green-tailed Towhee,19
+Pipilo maculatus,Spotted Towhee,24
 Pipilo erythrophthalmus,Eastern Towhee,24
 Pipilo ocai,Collared Towhee,0
 Pselliophorus tibialis,Yellow-thighed Finch,7
@@ -9620,10 +9620,10 @@ Spindalis portoricensis,Puerto Rican Spindalis,3
 Zeledonia coronata,Wrenthrush,2
 Teretistris fernandinae,Yellow-headed Warbler,1
 Teretistris fornsi,Oriente Warbler,0
-Icteria virens,Yellow-breasted Chat,26
-Xanthocephalus xanthocephalus,Yellow-headed Blackbird,23
+Icteria virens,Yellow-breasted Chat,25
+Xanthocephalus xanthocephalus,Yellow-headed Blackbird,22
 Dolichonyx oryzivorus,Bobolink,24
-Sturnella neglecta,Western Meadowlark,24
+Sturnella neglecta,Western Meadowlark,23
 Sturnella magna,Eastern Meadowlark,25
 Leistes militaris,Red-breasted Meadowlark,3
 Leistes superciliaris,White-browed Meadowlark,1
@@ -9662,7 +9662,7 @@ Icterus wagleri,Black-vented Oriole,5
 Icterus maculialatus,Bar-winged Oriole,1
 Icterus prosthemelas,Black-cowled Oriole,11
 Icterus spurius,Orchard Oriole,25
-Icterus cucullatus,Hooded Oriole,25
+Icterus cucullatus,Hooded Oriole,24
 Icterus chrysater,Yellow-backed Oriole,10
 Icterus auricapillus,Orange-crowned Oriole,0
 Icterus graceannae,White-edged Oriole,0
@@ -9673,7 +9673,7 @@ Icterus icterus,Venezuelan Troupial,3
 Icterus jamacaii,Campo Troupial,0
 Icterus croconotus,Orange-backed Troupial,2
 Icterus pustulatus,Streak-backed Oriole,10
-Icterus bullockii,Bullock's Oriole,24
+Icterus bullockii,Bullock's Oriole,23
 Icterus auratus,Orange Oriole,3
 Icterus leucopteryx,Jamaican Oriole,0
 Icterus nigrogularis,Yellow Oriole,2
@@ -9682,26 +9682,26 @@ Icterus gularis,Altamira Oriole,15
 Icterus graduacauda,Audubon's Oriole,10
 Icterus galbula,Baltimore Oriole,26
 Icterus abeillei,Black-backed Oriole,5
-Icterus parisorum,Scott's Oriole,15
+Icterus parisorum,Scott's Oriole,14
 Nesopsar nigerrimus,Jamaican Blackbird,0
-Agelaius phoeniceus,Red-winged Blackbird,28
+Agelaius phoeniceus,Red-winged Blackbird,27
 Agelaius assimilis,Red-shouldered Blackbird,1
-Agelaius tricolor,Tricolored Blackbird,9
+Agelaius tricolor,Tricolored Blackbird,8
 Agelaius humeralis,Tawny-shouldered Blackbird,2
 Agelaius xanthomus,Yellow-shouldered Blackbird,3
 Molothrus rufoaxillaris,Screaming Cowbird,1
 Molothrus bonariensis,Shiny Cowbird,13
 Molothrus aeneus,Bronzed Cowbird,20
-Molothrus ater,Brown-headed Cowbird,27
+Molothrus ater,Brown-headed Cowbird,26
 Molothrus oryzivorus,Giant Cowbird,8
 Dives dives,Melodious Blackbird,15
 Dives warczewiczi,Scrub Blackbird,3
 Ptiloxena atroviolacea,Cuban Blackbird,2
 Euphagus carolinus,Rusty Blackbird,25
-Euphagus cyanocephalus,Brewer's Blackbird,26
+Euphagus cyanocephalus,Brewer's Blackbird,25
 Quiscalus quiscula,Common Grackle,25
 Quiscalus major,Boat-tailed Grackle,23
-Quiscalus mexicanus,Great-tailed Grackle,26
+Quiscalus mexicanus,Great-tailed Grackle,25
 Quiscalus palustris,Slender-billed Grackle,0
 Quiscalus nicaraguensis,Nicaraguan Grackle,2
 Quiscalus niger,Greater Antillean Grackle,8
@@ -9726,23 +9726,23 @@ Chrysomus icterocephalus,Yellow-hooded Blackbird,2
 Xanthopsar flavus,Saffron-cowled Blackbird,0
 Pseudoleistes guirahuro,Yellow-rumped Marshbird,1
 Pseudoleistes virescens,Brown-and-yellow Marshbird,0
-Seiurus aurocapilla,Ovenbird,27
+Seiurus aurocapilla,Ovenbird,26
 Helmitheros vermivorum,Worm-eating Warbler,22
 Parkesia motacilla,Louisiana Waterthrush,22
 Parkesia noveboracensis,Northern Waterthrush,26
 Vermivora bachmanii,Bachman's Warbler,0
 Vermivora chrysoptera,Golden-winged Warbler,23
 Vermivora cyanoptera,Blue-winged Warbler,23
-Mniotilta varia,Black-and-white Warbler,28
+Mniotilta varia,Black-and-white Warbler,27
 Protonotaria citrea,Prothonotary Warbler,23
 Limnothlypis swainsonii,Swainson's Warbler,17
 Oreothlypis superciliosa,Crescent-chested Warbler,4
 Oreothlypis gutturalis,Flame-throated Warbler,5
 Oreothlypis peregrina,Tennessee Warbler,25
-Oreothlypis celata,Orange-crowned Warbler,26
+Oreothlypis celata,Orange-crowned Warbler,25
 Oreothlypis crissalis,Colima Warbler,3
 Oreothlypis luciae,Lucy's Warbler,14
-Oreothlypis ruficapilla,Nashville Warbler,25
+Oreothlypis ruficapilla,Nashville Warbler,24
 Oreothlypis virginiae,Virginia's Warbler,15
 Leucopeza semperi,Semper's Warbler,0
 Oporornis agilis,Connecticut Warbler,17
@@ -9756,7 +9756,7 @@ Geothlypis speciosa,Black-polled Yellowthroat,0
 Geothlypis beldingi,Belding's Yellowthroat,0
 Geothlypis rostrata,Bahama Yellowthroat,1
 Geothlypis flavovelata,Altamira Yellowthroat,0
-Geothlypis trichas,Common Yellowthroat,27
+Geothlypis trichas,Common Yellowthroat,26
 Geothlypis nelsoni,Hooded Yellowthroat,0
 Catharopeza bishopi,Whistling Warbler,0
 Setophaga plumbea,Plumbeous Warbler,0
@@ -9772,14 +9772,14 @@ Setophaga pitiayumi,Tropical Parula,13
 Setophaga magnolia,Magnolia Warbler,26
 Setophaga castanea,Bay-breasted Warbler,24
 Setophaga fusca,Blackburnian Warbler,26
-Setophaga petechia,Yellow Warbler,28
+Setophaga petechia,Yellow Warbler,27
 Setophaga pensylvanica,Chestnut-sided Warbler,25
 Setophaga striata,Blackpoll Warbler,24
 Setophaga caerulescens,Black-throated Blue Warbler,23
-Setophaga palmarum,Palm Warbler,27
+Setophaga palmarum,Palm Warbler,26
 Setophaga pityophila,Olive-capped Warbler,0
 Setophaga pinus,Pine Warbler,25
-Setophaga coronata,Yellow-rumped Warbler,27
+Setophaga coronata,Yellow-rumped Warbler,26
 Setophaga dominica,Yellow-throated Warbler,23
 Setophaga flavescens,Bahama Warbler,0
 Setophaga vitellina,Vitelline Warbler,0
@@ -9788,9 +9788,9 @@ Setophaga adelaidae,Adelaide's Warbler,3
 Setophaga subita,Barbuda Warbler,0
 Setophaga delicata,St. Lucia Warbler,0
 Setophaga graciae,Grace's Warbler,17
-Setophaga nigrescens,Black-throated Gray Warbler,23
-Setophaga townsendi,Townsend's Warbler,24
-Setophaga occidentalis,Hermit Warbler,21
+Setophaga nigrescens,Black-throated Gray Warbler,22
+Setophaga townsendi,Townsend's Warbler,23
+Setophaga occidentalis,Hermit Warbler,20
 Setophaga chrysoparia,Golden-cheeked Warbler,10
 Setophaga virens,Black-throated Green Warbler,24
 Basileuterus lachrymosus,Fan-tailed Warbler,1
@@ -9820,11 +9820,11 @@ Myiothlypis conspicillata,White-lored Warbler,0
 Myiothlypis fraseri,Gray-and-gold Warbler,0
 Myiothlypis coronata,Russet-crowned Warbler,1
 Cardellina canadensis,Canada Warbler,24
-Cardellina pusilla,Wilson's Warbler,27
+Cardellina pusilla,Wilson's Warbler,26
 Cardellina rubrifrons,Red-faced Warbler,13
 Cardellina rubra,Red Warbler,3
 Cardellina versicolor,Pink-headed Warbler,2
-Myioborus pictus,Painted Redstart,18
+Myioborus pictus,Painted Redstart,17
 Myioborus miniatus,Slate-throated Redstart,9
 Myioborus brunniceps,Brown-capped Redstart,0
 Myioborus castaneocapilla,Tepui Redstart,0
@@ -9842,9 +9842,9 @@ Lamprospiza melanoleuca,Red-billed Pied Tanager,2
 Orthogonys chloricterus,Olive-green Tanager,0
 Piranga roseogularis,Rose-throated Tanager,3
 Piranga flava,Hepatic Tanager,15
-Piranga rubra,Summer Tanager,26
+Piranga rubra,Summer Tanager,25
 Piranga olivacea,Scarlet Tanager,26
-Piranga ludoviciana,Western Tanager,25
+Piranga ludoviciana,Western Tanager,24
 Piranga bidentata,Flame-colored Tanager,9
 Piranga leucoptera,White-winged Tanager,3
 Piranga erythrocephala,Red-headed Tanager,1
@@ -9862,14 +9862,14 @@ Caryothraustes canadensis,Yellow-green Grosbeak,1
 Periporphyrus erythromelas,Red-and-black Grosbeak,1
 Rhodothraupis celaeno,Crimson-collared Grosbeak,3
 Cardinalis phoeniceus,Vermilion Cardinal,0
-Cardinalis cardinalis,Northern Cardinal,27
+Cardinalis cardinalis,Northern Cardinal,26
 Cardinalis sinuatus,Pyrrhuloxia,18
 Pheucticus chrysopeplus,Yellow Grosbeak,2
 Pheucticus chrysogaster,Golden Grosbeak,3
 Pheucticus tibialis,Black-thighed Grosbeak,1
 Pheucticus aureoventris,Black-backed Grosbeak,0
 Pheucticus ludovicianus,Rose-breasted Grosbeak,25
-Pheucticus melanocephalus,Black-headed Grosbeak,25
+Pheucticus melanocephalus,Black-headed Grosbeak,24
 Granatellus venustus,Red-breasted Chat,1
 Granatellus sallaei,Gray-throated Chat,2
 Granatellus pelzelni,Rose-breasted Chat,0
@@ -9881,9 +9881,9 @@ Cyanoloxia cyanoides,Blue-black Grosbeak,8
 Cyanoloxia rothschildii,Amazonian Grosbeak,1
 Cyanoloxia brissonii,Ultramarine Grosbeak,0
 Cyanocompsa parellina,Blue Bunting,9
-Passerina caerulea,Blue Grosbeak,24
-Passerina amoena,Lazuli Bunting,23
-Passerina cyanea,Indigo Bunting,27
+Passerina caerulea,Blue Grosbeak,23
+Passerina amoena,Lazuli Bunting,22
+Passerina cyanea,Indigo Bunting,26
 Passerina rositae,Rose-bellied Bunting,0
 Passerina leclancherii,Orange-breasted Bunting,2
 Passerina versicolor,Varied Bunting,15
@@ -10195,7 +10195,7 @@ Sporophila intermedia,Gray Seedeater,1
 Sporophila americana,Wing-barred Seedeater,1
 Sporophila murallae,Caqueta Seedeater,0
 Sporophila morelleti,Morelet's Seedeater,14
-Sporophila torqueola,Cinnamon-rumped Seedeater,6
+Sporophila torqueola,Cinnamon-rumped Seedeater,5
 Sporophila fringilloides,White-naped Seedeater,0
 Sporophila luctuosa,Black-and-white Seedeater,1
 Sporophila nigricollis,Yellow-bellied Seedeater,8
@@ -10268,7 +10268,7 @@ Saltator grossus,Slate-colored Grosbeak,5
 Saltator fuliginosus,Black-throated Grosbeak,0
 Hypocryptadius cinnamomeus,Cinnamon Ibon,0
 Passer ammodendri,Saxaul Sparrow,0
-Passer domesticus,House Sparrow,28
+Passer domesticus,House Sparrow,27
 Passer italiae,Italian Sparrow,3
 Passer hispaniolensis,Spanish Sparrow,4
 Passer pyrrhonotus,Sind Sparrow,0
@@ -10406,7 +10406,7 @@ Foudia omissa,Forest Fody,1
 Foudia rubra,Mauritius Fody,0
 Foudia sechellarum,Seychelles Fody,0
 Foudia flavicans,Rodrigues Fody,0
-Euplectes franciscanus,Northern Red Bishop,5
+Euplectes franciscanus,Northern Red Bishop,4
 Euplectes orix,Southern Red Bishop,2
 Euplectes nigroventris,Zanzibar Red Bishop,1
 Euplectes hordeaceus,Black-winged Bishop,2
@@ -10537,7 +10537,7 @@ Lonchura leucogastroides,Javan Munia,2
 Lonchura fuscans,Dusky Munia,3
 Lonchura molucca,Black-faced Munia,1
 Lonchura kelaarti,Black-throated Munia,0
-Lonchura punctulata,Scaly-breasted Munia,14
+Lonchura punctulata,Scaly-breasted Munia,13
 Lonchura leucogastra,White-bellied Munia,0
 Lonchura tristissima,Streak-headed Munia,0
 Lonchura malacca,Tricolored Munia,0
