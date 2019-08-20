@@ -4,7 +4,6 @@ Create an accumulated life list for a group of people. Note that the `.gitignore
 
 Instructions:
 * Clone this repository
-* Use `initialize_list.ipynb` to generate a base list of all scientific and English (United States) common names
 * Ensure everyone in your group has their eBird "Species name display" preference set to one of the following (https://ebird.org/prefs)
     * "Both"
     * "Scientific name"
@@ -12,6 +11,9 @@ Instructions:
 * Obtain eBird life lists from [this link](https://ebird.org/MyEBird?cmd=list&rtype=custom&r=world&time=life&fmt=csv) while logged into eBird account
 * Create two directories, one called `lists_new/` and one called `lists_processed/`
 * Place all life list `.csv`s to be processed in the `csv_dir_new` directory
-* Run `update_list.ipynb` -- this will process all `.csv`s in `lists_new/` and then move them to `lists_processed/`
-* If more people add their lists later, copy them into `lists_new/` and run `update_list.ipynb` again
+* In `accumulate.ipynb` use the following modes to update your life list:
 
+    * `'new'`: create a new "seen list" from lists in `lists_new/` and move them to `lists_processed/`
+    * `'add'`: add to a preexisting "seen list": add lists in  `lists_new/` and move them to `lists_processed/`
+    * `'redo'`: redo a preexisting "seen list": recreate with preexisting lists in `lists_processed/` and keep them there
+    * `'test'`: create a test "seen list" using the lists in `lists_test/`
