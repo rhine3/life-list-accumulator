@@ -8,7 +8,8 @@ Instructions:
     * "Both"
     * "Scientific name"
     * "Common name" with the English (United States) translation option selected
-* Obtain eBird life lists from [this link](https://ebird.org/MyEBird?cmd=list&rtype=custom&r=world&time=life&fmt=csv) while logged into eBird account
+* Have everyone in your group log into their eBird account then click on [this link](https://ebird.org/MyEBird?cmd=list&rtype=custom&r=world&time=life&fmt=csv) to obtain their eBird life lists 
+    * Can also modify this link to obtain a year list, e.g. for 2022: https://ebird.org/MyEBird?cmd=list&rtype=custom&r=world&time=year&year=2022&fmt=csv
 * Create two directories, one called `lists_new/` and one called `lists_processed/`
 * Place all life list `.csv`s to be processed in the `csv_dir_new` directory
 * In `accumulate.ipynb` use the following modes to update your life list:
